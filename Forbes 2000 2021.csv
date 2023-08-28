@@ -1,0 +1,2005 @@
+Rank;Company Name;Country;"Sales
+($millions)";"Profits
+($millions)";"Assets
+($millions)";"Market Value 
+As of 5/13/21 ($m)"
+1;ICBC;China;$190,500 ;$45,800 ;$4,914,700;$249,500
+2;JPMorgan Chase;United States;$136,200 ;$40,400 ;$3,689,300;$464,800
+3;Berkshire Hathaway;United States;$245,500 ;$42,500 ;$873,700;$624,400
+4;China Construction Bank;China;$173,500 ;$39,300 ;$4,301,700;$210,400
+5;Saudi Arabian Oil Company (Saudi Aramco);Saudi Arabia;$229,700 ;$49,300 ;$510,300;$1,897,200
+6;Apple;United States;$294,000 ;$63,900 ;$354,100;$2,252,300
+7;Bank of America;United States;$98,800 ;$17,900 ;$2,832,200;$336,300
+8;Ping An Insurance Group;China;$169,100 ;$20,800 ;$1,453,800;$211,200
+9;Agricultural Bank of China;China;$153,900 ;$31,300 ;$4,159,900;$140,100
+10;Amazon;United States;$386,100 ;$21,300 ;$321,200;$1,711,800
+11;Samsung Electronics;South Korea;$200,700 ;$22,100 ;$348,200;$510,500
+12;Toyota Motor;Japan;$249,400 ;$14,300 ;$561,900;$219,200
+13;Alphabet;United States;$182,400 ;$40,300 ;$319,600;$1,538,900
+14;Bank of China;China;$134,000 ;$27,900 ;$3,731,400;$116,700
+15;Microsoft;United States;$153,300 ;$51,300 ;$304,100;$1,966,600
+16;Citigroup;United States;$84,400 ;$17,100 ;$2,314,300;$151,200
+17;Volkswagen Group;Germany;$254,100 ;$9,500 ;$646,400;$147,200
+18;Walmart;United States;$559,200 ;$13,500 ;$252,500;$396,100
+19;Wells Fargo;United States;$85,900 ;$7,400 ;$1,959,500;$181,500
+20;Verizon Communications;United States;$128,300 ;$17,800 ;$316,500;$241,300
+21;UnitedHealth Group;United States;$262,900 ;$16,900 ;$205,200;$369,600
+22;China Merchants Bank;China;$60,400 ;$14,100 ;$1,278,500;$192,800
+23;Alibaba Group;China;$93,800 ;$23,300 ;$250,100;$657,500
+24;Allianz;Germany;$129,900 ;$7,800 ;$1,357,500;$108,000
+25;Comcast;United States;$103,600 ;$10,500 ;$273,900;$252,400
+26;Goldman Sachs Group;United States;$61,800 ;$15,100 ;$1,302,000;$116,500
+27;Softbank;Japan;$70,300 ;$14,900 ;$366,700;$163,100
+28;Postal Savings Bank Of China (PSBC);China;$67,200 ;$9,300 ;$1,736,200;$112,400
+29;Tencent Holdings;China;$70,000 ;$23,300 ;$203,900;$773,800
+30;BNP Paribas;France;$102,700 ;$7,600 ;$3,044,800;$79,100
+31;Morgan Stanley;United States;$56,700 ;$13,400 ;$1,158,800;$123,900
+32;China Mobile;Hong Kong;$111,300 ;$15,600 ;$264,200;$134,900
+33;Facebook;United States;$86,000 ;$29,100 ;$159,300;$870,500
+34;Johnson & Johnson;United States;$82,600 ;$14,700 ;$174,900;$427,100
+35;Sony;Japan;$79,900 ;$10,100 ;$250,700;$137,300
+36;Intel;United States;$77,900 ;$20,900 ;$153,100;$263,700
+37;CVS Health;United States;$268,700 ;$7,200 ;$238,500;$99,600
+38;RBC;Canada;$42,900 ;$8,800 ;$1,308,200;$135,000
+39;Nestlé;Switzerland;$89,900 ;$13,000 ;$140,300;$333,200
+40;HSBC Holdings;United Kingdom;$60,600 ;$4,000 ;$2,984,200;$120,300
+41;Daimler;Germany;$175,900 ;$4,100 ;$349,600;$99,200
+42;TD Bank Group;Canada;$38,800 ;$9,100 ;$1,358,600;$120,600
+43;Nippon Telegraph & Tel;Japan;$110,300 ;$8,300 ;$231,100;$96,700
+44;Deutsche Telekom;Germany;$115,100 ;$4,700 ;$345,400;$91,600
+45;General Electric;United States;$79,900 ;$5,600 ;$255,100;$117,600
+46;Procter & Gamble;United States;$74,000 ;$13,800 ;$120,100;$338,000
+47;General Motors;United States;$122,500 ;$6,400 ;$235,200;$84,600
+48;Sinopec;China;$271,100 ;$4,800 ;$265,100;$82,600
+49;China Life Insurance;China;$113,800 ;$7,300 ;$651,900;$57,300
+50;Industrial Bank;China;$53,800 ;$9,700 ;$1,207,200;$66,500
+51;Sberbank;Russia;$47,300 ;$10,400 ;$486,900;$85,700
+52;Mitsubishi UFJ Financial;Japan;$56,000 ;$5,200 ;$3,406,500;$69,700
+53;Cigna;United States;$160,600 ;$8,500 ;$151,500;$87,700
+54;AXA Group;France;$129,500 ;$3,400 ;$951,500;$67,800
+55;AIA Group;Hong Kong;$42,600 ;$5,800 ;$321,600;$153,700
+56;Reliance Industries;India;$61,200 ;$5,700 ;$166,300;$164,900
+57;Bank of Communications;China;$67,600 ;$11,100 ;$1,635,800;$47,900
+58;Pfizer;United States;$47,600 ;$9,600 ;$154,200;$215,200
+59;IBM;United States;$73,600 ;$5,600 ;$156,000;$119,400
+60;Roche Holding;Switzerland;$62,100 ;$15,200 ;$97,400;$287,100
+61;BMW Group;Germany;$112,800 ;$4,300 ;$282,000;$69,800
+62;MetLife;United States;$67,800 ;$5,400 ;$795,100;$55,800
+63;PetroChina;China;$280,700 ;$2,900 ;$380,500;$66,700
+64;LVMH Moët Hennessy Louis Vuitton;France;$50,900 ;$5,400 ;$133,000;$380,300
+65;Novartis;Switzerland;$48,600 ;$8,100 ;$132,200;$198,600
+66;Taiwan Semiconductor;Taiwan;$48,100 ;$18,700 ;$98,300;$558,100
+67;Home Depot;United States;$132,100 ;$12,900 ;$70,600;$352,800
+68;Shanghai Pudong Development;China;$52,300 ;$8,500 ;$1,215,700;$47,400
+69;Siemens;Germany;$58,000 ;$4,900 ;$148,600;$139,800
+70;PepsiCo;United States;$71,300 ;$7,500 ;$91,200;$199,200
+71;Oracle;United States;$39,700 ;$12,800 ;$118,100;$227,700
+72;Sanofi;France;$41,100 ;$14,000 ;$140,100;$127,400
+73;Enel;Italy;$71,400 ;$3,000 ;$200,000;$105,400
+74;AbbVie;United States;$45,800 ;$4,600 ;$150,600;$190,400
+75;Cisco Systems;United States;$48,000 ;$10,100 ;$95,600;$222,900
+76;Zurich Insurance Group;Switzerland;$58,400 ;$3,800 ;$413,800;$61,700
+77;Bank of Nova Scotia;Canada;$30,700 ;$5,100 ;$911,200;$75,300
+78;Commonwealth Bank;Australia;$22,400 ;$5,700 ;$816,200;$120,700
+79;BHP Group;Australia;$46,100 ;$6,900 ;$103,200;$186,100
+80;UBS;Switzerland;$32,200 ;$6,500 ;$1,125,800;$57,300
+81;British American Tobacco;United States;$33,100 ;$8,200 ;$188,200;$91,600
+82;Honda Motor;Japan;$121,800 ;$3,900 ;$201,300;$52,800
+83;Intesa Sanpaolo;Italy;$45,800 ;$3,700 ;$1,226,700;$53,300
+84;Merck & Co.;United States;$47,800 ;$7,100 ;$91,600;$196,000
+85;Sumitomo Mitsui Financial;Japan;$38,600 ;$4,900 ;$2,256,800;$48,900
+86;Rio Tinto;Luxembourg;$44,500 ;$9,700 ;$97,400;$135,300
+87;Japan Post Holdings;Japan;$106,600 ;$4,200 ;$2,879,000;$34,800
+88;US Bancorp;United States;$23,100 ;$6,100 ;$553,400;$86,900
+89;Anthem;United States;$121,900 ;$4,600 ;$88,300;$92,000
+90;Charter Communications;United States;$48,100 ;$3,200 ;$146,100;$124,800
+91;Unilever;United Kingdom;$57,800 ;$6,300 ;$82,800;$151,100
+92;Dell Technologies;United States;$94,300 ;$3,300 ;$123,400;$77,400
+93;Manulife;Canada;$57,200 ;$4,400 ;$655,000;$41,900
+94;Hon Hai Precision;Taiwan;$182,000 ;$3,500 ;$130,800;$60,400
+95;American Express;United States;$38,200 ;$3,100 ;$191,400;$120,500
+96;China Vanke;China;$62,600 ;$6,100 ;$285,800;$42,200
+97;GlaxoSmithKline;United Kingdom;$43,700 ;$7,400 ;$109,900;$92,900
+98;Truist Financial;United States;$24,300 ;$4,900 ;$517,500;$77,800
+99;Rosneft;Russia;$70,800 ;$2,000 ;$207,500;$77,700
+100;China State Construction Engineering;China;$215,300 ;$6,100 ;$323,000;$33,000
+101;JD.com;China;$108,300 ;$7,200 ;$64,600;$119,400
+102;Coca-Cola;United States;$33,000 ;$7,700 ;$87,300;$231,300
+103;Iberdrola;Spain;$37,800 ;$4,100 ;$149,900;$86,400
+104;CITIC;Hong Kong;$71,300 ;$7,300 ;$1,256,300;$29,500
+105;Prudential;United Kingdom;$54,800 ;$2,100 ;$469,500;$55,700
+106;KDDI;Japan;$49,300 ;$6,200 ;$98,400;$72,100
+107;Bank of Montreal;Canada;$24,500 ;$4,100 ;$761,800;$59,400
+108;Costco Wholesale;United States;$178,600 ;$4,300 ;$54,900;$164,100
+109;Itaú Unibanco Holding;Brazil;$37,200 ;$3,700 ;$389,700;$48,500
+110;State Bank of India;India;$50,600 ;$3,100 ;$638,100;$40,800
+111;Chubb;Switzerland;$36,100 ;$3,500 ;$172,200;$73,300
+112;Mitsubishi;Japan;$116,700 ;$3,100 ;$179,700;$41,600
+113;Vale;Brazil;$40,400 ;$5,200 ;$92,100;$99,200
+114;Capital One;United States;$31,600 ;$2,700 ;$421,600;$62,400
+115;PNC Financial Services;United States;$17,400 ;$8,400 ;$474,400;$75,800
+116;HDFC Bank;India;$20,700 ;$4,100 ;$233,600;$105,900
+117;Credit Agricole;France;$43,500 ;$2,600 ;$2,399,500;$41,000
+118;Itochu;Japan;$96,600 ;$4,100 ;$107,800;$47,600
+119;FedEx;United States;$78,700 ;$3,000 ;$82,800;$76,300
+120;Vodafone;United Kingdom;$49,700 ;$2,800 ;$183,900;$52,600
+121;Abbott Laboratories;United States;$34,600 ;$4,500 ;$72,500;$220,300
+122;Visa;United States;$21,500 ;$10,400 ;$80,400;$483,900
+123;SAP;Germany;$31,700 ;$6,300 ;$71,500;$164,200
+124;Thermo Fisher Scientific;United States;$32,200 ;$6,400 ;$69,100;$193,700
+125;China Pacific Insurance;China;$61,200 ;$3,600 ;$266,600;$36,300
+126;Lowe's;United States;$89,600 ;$5,800 ;$48,300;$149,400
+127;BlackRock;United States;$18,100 ;$5,300 ;$177,000;$123,900
+128;China Citic Bank;China;$50,400 ;$7,100 ;$1,148,500;$26,500
+129;Mizuho Financial;Japan;$30,300 ;$3,700 ;$2,110,500;$36,300
+130;Deutsche Post;Germany;$76,200 ;$3,400 ;$70,500;$72,100
+131;Medtronic;Ireland;$27,900 ;$2,900 ;$97,300;$169,700
+132;Caterpillar;United States;$41,700 ;$3,000 ;$78,300;$127,300
+133;Hitachi;Japan;$78,700 ;$3,200 ;$106,000;$45,900
+134;Lockheed Martin;United States;$65,400 ;$6,800 ;$50,700;$109,200
+135;Generali Group;Italy;$90,000 ;$2,000 ;$668,000;$32,300
+136;Target;United States;$93,600 ;$4,400 ;$51,200;$104,000
+137;Deere & Company;United States;$37,000 ;$3,500 ;$75,500;$120,100
+138;Honeywell International;United States;$32,600 ;$4,800 ;$64,600;$161,200
+139;SAIC Motor;China;$106,700 ;$3,000 ;$140,600;$36,400
+140;Country Garden Holdings;China;$67,300 ;$5,100 ;$308,200;$27,200
+141;ANZ;Australia;$20,300 ;$2,400 ;$747,100;$63,400
+142;Charles Schwab;United States;$13,800 ;$4,000 ;$563,500;$116,900
+143;Barclays;United Kingdom;$27,900 ;$2,000 ;$1,844,700;$44,900
+144;Broadcom;United States;$24,700 ;$4,000 ;$77,000;$195,500
+145;Munich Re;Germany;$73,900 ;$1,400 ;$368,700;$43,500
+146;Enbridge;Canada;$28,200 ;$2,500 ;$125,800;$75,600
+147;ING Group;Netherlands;$20,100 ;$2,800 ;$1,146,800;$49,300
+148;China Minsheng Bank;China;$49,000 ;$4,900 ;$1,062,800;$24,500
+149;Linde;United Kingdom;$27,200 ;$2,500 ;$88,200;$151,600
+150;Amgen;United States;$25,200 ;$7,300 ;$62,900;$147,200
+151;Allstate;United States;$44,800 ;$5,600 ;$117,900;$36,700
+152;PayPal;United States;$21,400 ;$4,200 ;$70,400;$316,900
+153;Orange;France;$48,200 ;$5,500 ;$135,800;$33,000
+154;Banco Bradesco;Brazil;$26,700 ;$3,200 ;$306,300;$40,900
+155;Hyundai Motor;South Korea;$88,100 ;$1,200 ;$192,700;$54,000
+156;Danaher;United States;$22,300 ;$3,600 ;$76,200;$173,300
+157;Westpac Banking Group;Australia;$21,900 ;$1,500 ;$654,600;$71,800
+158;L'Oréal;France;$31,900 ;$4,100 ;$53,400;$225,700
+159;Petrobras;Brazil;$52,700 ;$1,400 ;$190,100;$53,300
+160;NextEra Energy;United States;$17,200 ;$2,900 ;$127,700;$158,800
+161;AstraZeneca;United Kingdom;$27,700 ;$3,200 ;$66,700;$133,900
+162;China Everbright Bank;China;$37,100 ;$5,500 ;$820,800;$23,900
+163;Salesforce.com;United States;$21,300 ;$4,100 ;$66,300;$213,600
+164;Oversea-Chinese Banking;Singapore;$24,500 ;$2,600 ;$394,500;$40,100
+165;Aviva;Venezuela;$59,000 ;$3,600 ;$637,700;$22,300
+166;United Parcel Service;United States;$84,400 ;$1,400 ;$62,400;$156,000
+167;Progressive;United States;$42,600 ;$5,700 ;$60,800;$57,800
+168;NAB - National Australia Bank;Australia;$18,400 ;$1,700 ;$621,300;$68,100
+169;Accenture;Ireland;$45,700 ;$5,500 ;$40,000;$190,900
+170;Southern Company;United States;$20,200 ;$3,100 ;$122,900;$68,700
+171;Canadian Imperial Bank;Canada;$17,600 ;$3,100 ;$612,900;$44,700
+172;China Shenhua Energy;China;$33,900 ;$5,200 ;$86,100;$42,400
+173;SK Hynix;South Korea;$27,000 ;$4,000 ;$65,500;$84,200
+174;Philip Morris International;United States;$28,700 ;$8,000 ;$44,800;$144,800
+175;VINCI;France;$50,100 ;$1,400 ;$111,500;$61,400
+176;Mondelez International;United States;$26,600 ;$3,600 ;$67,800;$82,600
+177;Lloyds Banking Group;United Kingdom;$43,400 ;$1,100 ;$1,191,000;$42,500
+178;Mitsui;Japan;$59,900 ;$2,400 ;$114,700;$35,000
+179;Union Pacific;United States;$19,500 ;$5,300 ;$63,500;$148,500
+180;3M;United States;$32,200 ;$5,400 ;$47,300;$115,100
+181;CK Hutchison;Hong Kong;$34,300 ;$3,800 ;$161,800;$31,600
+182;ICICI Bank;India;$21,300 ;$2,000 ;$207,900;$52,700
+183;Midea Group;China;$39,100 ;$3,600 ;$51,500;$85,500
+184;Exelon;United States;$33,400 ;$2,000 ;$129,300;$45,100
+185;Credit Suisse Group;Switzerland;$32,600 ;$2,800 ;$911,600;$25,900
+186;Eli Lilly;United States;$24,500 ;$6,200 ;$46,600;$181,400
+187;CNOOC;Hong Kong;$22,500 ;$3,600 ;$110,300;$48,400
+188;Legal & General Group;United Kingdom;$64,400 ;$2,100 ;$770,400;$22,900
+189;Aflac;United States;$22,100 ;$4,800 ;$164,100;$36,800
+190;China Resources Land;Hong Kong;$27,100 ;$4,300 ;$132,900;$34,500
+191;BBVA-Banco Bilbao Vizcaya;Spain;$32,900 ;$1,500 ;$900,700;$34,800
+192;HCA Healthcare;United States;$51,500 ;$3,800 ;$47,500;$66,400
+193;Duke Energy;United States;$23,900 ;$1,400 ;$167,300;$77,400
+194;América Móvil;Mexico;$47,300 ;$2,200 ;$75,600;$48,300
+195;Takeda Pharmaceutical;Japan;$30,000 ;$1,700 ;$119,000;$53,300
+196;DBS;Singapore;$13,200 ;$3,400 ;$491,900;$55,400
+197;Bank of New York Mellon;United States;$15,900 ;$3,600 ;$469,600;$40,400
+198;Longfor Group Holdings;China;$27,000 ;$2,900 ;$117,000;$39,400
+199;Schneider Electric;France;$28,700 ;$2,400 ;$60,500;$91,300
+200;Travelers;United States;$32,000 ;$2,700 ;$109,100;$39,200
+201;McDonald's;United States;$19,200 ;$4,700 ;$52,600;$173,800
+202;Poly Developments & Holdings Group;China;$34,300 ;$3,400 ;$189,400;$26,600
+203;Tokio Marine Holdings;Japan;$49,700 ;$1,400 ;$247,600;$34,700
+204;China Telecom;China;$57,000 ;$3,000 ;$109,300;$27,700
+205;Nike;United States;$38,500 ;$3,400 ;$36,200;$212,200
+206;Qualcomm;United States;$26,700 ;$6,700 ;$37,500;$157,000
+207;Centene;United States;$111,100 ;$1,800 ;$69,800;$37,800
+208;Micron Technology;United States;$23,500 ;$3,200 ;$54,100;$101,700
+209;Cathay Financial;Taiwan;$37,900 ;$2,500 ;$389,400;$23,200
+210;EDF;France;$78,700 ;$741 ;$374,300;$44,400
+211;Fubon Financial;Taiwan;$35,200 ;$3,100 ;$328,400;$21,700
+212;Sun Life Financial;Canada;$27,000 ;$1,900 ;$250,500;$30,600
+213;General Dynamics;United States;$37,900 ;$3,200 ;$51,300;$52,300
+214;Møller-Maersk;Denmark;$39,600 ;$2,800 ;$56,100;$47,800
+215;Volvo Group;Sweden;$36,800 ;$2,100 ;$62,200;$52,200
+216;Altria Group;United States;$20,800 ;$4,500 ;$47,400;$96,900
+217;Humana;United States;$77,100 ;$3,400 ;$35,100;$56,200
+218;Anglo American;United Kingdom;$30,800 ;$2,100 ;$62,500;$54,600
+219;Netflix;United States;$25,000 ;$2,800 ;$39,300;$242,100
+220;HDFC;India;$16,200 ;$2,400 ;$105,000;$62,400
+221;Qatar National Bank;Qatar;$13,100 ;$3,000 ;$286,300;$45,400
+222;Xiaomi;China;$35,700 ;$3,000 ;$38,800;$84,500
+223;Air Liquide;France;$23,400 ;$2,800 ;$51,400;$79,900
+224;Nordea Bank;Finland;$12,700 ;$2,500 ;$676,100;$42,000
+225;Northrop Grumman;United States;$36,800 ;$3,200 ;$44,500;$55,800
+226;ABB;Switzerland;$26,000 ;$5,100 ;$41,100;$67,800
+227;China Evergrande Group;China;$74,000 ;$1,200 ;$351,900;$23,900
+228;Seven & I Holdings;Japan;$54,400 ;$1,700 ;$65,200;$36,900
+229;KB Financial Group;South Korea;$30,800 ;$2,900 ;$564,400;$18,400
+230;Sunac China Holdings;China;$34,100 ;$5,200 ;$169,500;$18,600
+231;Kroger;United States;$132,500 ;$2,600 ;$51,600;$28,300
+232;EMD Group;Germany;$20,000 ;$2,300 ;$51,600;$77,600
+233;E.ON;Germany;$69,500 ;$1,000 ;$123,300;$30,700
+234;PTT;Thailand;$51,600 ;$1,200 ;$84,900;$36,400
+235;Telefónica;Spain;$49,100 ;$1,500 ;$128,500;$24,400
+236;National Grid;United Kingdom;$18,800 ;$1,900 ;$85,000;$44,300
+237;HP;United States;$57,700 ;$3,200 ;$34,700;$42,600
+238;Danone;France;$26,900 ;$2,200 ;$52,300;$46,400
+239;Panasonic;Japan;$61,900 ;$1,700 ;$64,600;$30,100
+240;Power Corp of Canada;Canada;$43,900 ;$1,500 ;$476,400;$18,700
+241;Mastercard;United States;$15,300 ;$6,400 ;$33,600;$383,600
+242;Baidu;China;$15,500 ;$3,300 ;$50,900;$75,400
+243;PICC;China;$82,400 ;$2,900 ;$192,000;$14,500
+244;Fortum;Finland;$55,900 ;$2,100 ;$70,700;$24,000
+245;Fresenius;Germany;$41,400 ;$1,900 ;$81,500;$25,400
+246;Dow;United States;$38,500 ;$1,200 ;$61,500;$48,200
+247;Archer Daniels Midland;United States;$64,400 ;$1,800 ;$49,700;$33,200
+248;Shinhan Financial Group;South Korea;$22,900 ;$2,800 ;$557,200;$17,600
+249;ASML Holding;Netherlands;$15,900 ;$4,100 ;$33,400;$267,600
+250;American Electric;United States;$14,900 ;$2,200 ;$84,000;$44,000
+251;Becton Dickinson;United States;$18,200 ;$1,600 ;$54,700;$75,800
+252;Gree Electric Appliances;China;$24,300 ;$2,300 ;$40,300;$55,300
+253;LafargeHolcim;Switzerland;$24,700 ;$1,800 ;$60,200;$38,900
+254;China Railway Group;China;$141,600 ;$3,400 ;$183,500;$12,500
+255;Automatic Data Processing;United States;$14,600 ;$2,500 ;$49,300;$82,600
+256;NVIDIA;United States;$16,700 ;$4,300 ;$28,800;$396,100
+257;KBC Group;Belgium;$13,600 ;$1,600 ;$392,400;$31,300
+258;Royal Ahold Delhaize N.V.;Netherlands;$85,200 ;$1,600 ;$49,800;$28,600
+259;Sun Hung Kai Properties;Hong Kong;$11,700 ;$2,800 ;$100,500;$44,500
+260;Novo Nordisk;Denmark;$19,400 ;$6,400 ;$23,800;$167,300
+261;Investor AB;Sweden;$9,600 ;$5,700 ;$69,500;$66,300
+262;Tesla;United States;$31,500 ;$690 ;$52,100;$710,100
+263;Huaxia Bank;China;$22,900 ;$3,000 ;$489,200;$14,800
+264;Kweichow Moutai;China;$12,200 ;$6,800 ;$32,600;$395,800
+265;Citic Securities;China;$12,400 ;$2,200 ;$161,000;$32,100
+266;KIA;South Korea;$50,100 ;$1,300 ;$55,700;$31,200
+267;Japan Tobacco;Japan;$19,600 ;$2,900 ;$52,100;$34,100
+268;Dollar General;United States;$33,700 ;$2,700 ;$28,500;$51,900
+269;Posco;South Korea;$49,000 ;$1,400 ;$72,800;$23,400
+270;State Street;United States;$11,400 ;$2,300 ;$316,900;$28,000
+271;Tesco;United Kingdom;$74,800 ;$1,100 ;$64,000;$24,600
+272;Banco do Brasil;Brazil;$24,000 ;$2,300 ;$314,000;$15,100
+273;Baoshan Iron & Steel;China;$39,100 ;$1,600 ;$52,300;$28,000
+274;Orix;Japan;$21,200 ;$1,900 ;$129,100;$20,000
+275;Fiserv;United States;$14,900 ;$958 ;$74,600;$83,400
+276;China Unicom;Hong Kong;$44,000 ;$1,800 ;$90,500;$17,600
+277;Wilmar International;Singapore;$50,500 ;$1,500 ;$51,000;$25,900
+278;Sempra Energy;United States;$11,400 ;$3,900 ;$66,600;$41,800
+279;LG Electronics;South Korea;$53,600 ;$1,700 ;$44,400;$27,200
+280;NN Group;Netherlands;$21,100 ;$2,100 ;$321,400;$15,800
+281;Mitsubishi Electric;Japan;$38,900 ;$1,600 ;$43,100;$33,100
+282;Kering;France;$14,900 ;$2,500 ;$34,300;$95,000
+283;Diageo;United Kingdom;$14,700 ;$1,400 ;$44,800;$104,400
+284;Reckitt Benckiser Group;United Kingdom;$17,900 ;$1,500 ;$42,800;$65,700
+285;Bank of Beijing;China;$17,900 ;$2,800 ;$421,200;$15,400
+286;Poste Italiane;Italy;$27,600 ;$1,300 ;$333,200;$16,800
+287;ViacomCBS;United States;$25,900 ;$2,400 ;$52,700;$25,400
+288;Nomura;Japan;$16,500 ;$2,600 ;$431,900;$16,400
+289;BT Group;United Kingdom;$28,100 ;$1,900 ;$69,200;$21,100
+290;Henkel;Germany;$21,900 ;$1,600 ;$37,700;$51,500
+291;Dai-ichi Life Insurance;Japan;$57,900 ;$658 ;$615,600;$20,700
+292;Korea Electric Power;South Korea;$49,600 ;$1,700 ;$187,000;$13,800
+293;Ericsson;Sweden;$25,200 ;$1,900 ;$33,100;$46,900
+294;United Overseas Bank;Singapore;$9,500 ;$2,000 ;$326,700;$32,800
+295;TC Energy;Canada;$9,600 ;$3,400 ;$78,700;$46,600
+296;Bank Of Shanghai;China;$14,000 ;$2,700 ;$358,800;$18,100
+297;Adobe;United States;$13,700 ;$5,600 ;$25,000;$251,000
+298;Fannie Mae;United States;$109,600 ;$11,800 ;$3,986,100;$2,800
+299;CNP Assurances;France;$37,500 ;$1,500 ;$515,700;$13,600
+300;Inditex;Spain;$23,400 ;$1,300 ;$32,100;$106,100
+301;Applied Materials;United States;$18,200 ;$3,900 ;$23,300;$122,700
+302;BCE;Canada;$17,100 ;$1,800 ;$47,600;$42,100
+303;Couche Tard;Canada;$43,100 ;$2,700 ;$27,500;$35,900
+304;Saudi Telecom;Saudi Arabia;$15,700 ;$3,000 ;$32,500;$64,300
+305;Bank of Ningbo;China;$9,300 ;$2,000 ;$226,400;$34,800
+306;CaixaBank;Spain;$11,600 ;$1,600 ;$552,500;$24,700
+307;Macquarie Group;Australia;$9,800 ;$1,500 ;$165,400;$41,800
+308;IntercontinentalExchange;United States;$7,600 ;$2,100 ;$126,200;$67,900
+309;Surgutneftegas;Russia;$18,800 ;$8,400 ;$79,400;$16,700
+310;Deutsche Bank;Germany;$35,400 ;$567 ;$1,621,500;$25,800
+311;AT&T;United States;$171,800 ;-$5,200 ;$525,800;$213,800
+312;Tyson Foods;United States;$42,800 ;$2,000 ;$35,500;$28,200
+313;Marsh & McLennan;United States;$17,200 ;$2,000 ;$33,000;$64,900
+314;Ameriprise Financial;United States;$12,100 ;$1,500 ;$165,900;$29,000
+315;First Abu Dhabi Bank;United Arab Emirates;$7,400 ;$2,800 ;$250,200;$43,300
+316;Hartford Financial Services;United States;$20,500 ;$1,700 ;$69,200;$23,700
+317;ExxonMobil;United States;$178,200 ;-$22,400 ;$332,800;$239,900
+318;Freddie Mac;United States;$68,700 ;$7,300 ;$2,627,400;$1,500
+319;Vivendi;France;$18,300 ;$1,600 ;$46,600;$37,300
+320;The Saudi National Bank;Saudi Arabia;$6,600 ;$3,000 ;$159,800;$65,300
+321;CRH;United States;$27,500 ;$1,100 ;$44,900;$38,200
+322;Tata Consultancy Services;India;$22,100 ;$4,400 ;$17,900;$158,900
+323;Philips;Netherlands;$22,300 ;$1,400 ;$34,200;$54,800
+324;Royal Dutch Shell;Netherlands;$170,200 ;-$22,200 ;$379,300;$152,000
+325;Stryker;United States;$14,400 ;$1,600 ;$34,300;$96,800
+326;Etisalat;United Arab Emirates;$14,100 ;$2,500 ;$36,200;$51,900
+327;Mitsui Fudosan;Japan;$19,500 ;$1,700 ;$73,600;$22,200
+328;Daiwa House Industry;Japan;$39,500 ;$1,800 ;$48,300;$20,600
+329;Shin-Etsu Chemical;Japan;$13,700 ;$2,600 ;$31,500;$72,500
+330;Daikin Industries;Japan;$22,900 ;$1,400 ;$29,500;$61,000
+331;CSX;United States;$10,600 ;$2,800 ;$40,300;$74,900
+332;Lennar;United States;$23,300 ;$3,000 ;$30,600;$33,200
+333;LyondellBasell Industries;United Kingdom;$27,700 ;$1,400 ;$35,400;$36,000
+334;Swiss Life Holding;Switzerland;$23,900 ;$1,100 ;$269,000;$16,400
+335;Chevron;United States;$94,400 ;-$5,500 ;$239,800;$198,500
+336;General Mills;United States;$18,600 ;$2,500 ;$32,600;$37,400
+337;Newmont Mining;United States;$11,400 ;$2,800 ;$41,400;$52,400
+338;Barrick Gold;Canada;$12,500 ;$2,300 ;$46,500;$39,500
+339;China Railway Construction;China;$131,900 ;$3,300 ;$190,000;$8,900
+340;Haier Smart Home;China;$30,300 ;$1,300 ;$31,100;$41,800
+341;Anhui Conch Cement;China;$22,700 ;$4,900 ;$25,900;$33,000
+342;Discover Financial Services;United States;$13,000 ;$1,100 ;$113,300;$31,300
+343;Texas Instruments;United States;$14,500 ;$5,600 ;$19,400;$177,200
+344;DNB;Norway;$7,500 ;$2,000 ;$340,900;$34,500
+345;Total;France;$119,700 ;-$7,600 ;$266,100;$118,400
+346;Nintendo;Japan;$15,800 ;$4,100 ;$22,500;$71,200
+347;Fortescue Metals Group;Australia;$15,500 ;$6,300 ;$24,500;$49,600
+348;China Yangtze Power;China;$8,300 ;$3,800 ;$50,000;$71,400
+349;Cardinal Health;United States;$156,500 ;$1,400 ;$44,700;$18,000
+350;Canadian National Railway;Canada;$10,300 ;$2,700 ;$35,600;$84,500
+351;BP;United Kingdom;$180,000 ;-$20,900 ;$267,700;$84,500
+352;Walt Disney;United States;$60,400 ;-$5,000 ;$201,900;$339,900
+353;Hyundai Mobis;South Korea;$31,000 ;$1,300 ;$44,600;$25,300
+354;Eaton;Ireland;$17,900 ;$1,400 ;$31,800;$56,200
+355;Principal Financial Group;United States;$14,700 ;$1,400 ;$296,600;$17,200
+356;New China Life Insurance;China;$29,900 ;$2,100 ;$153,100;$11,900
+357;Johnson Controls International;Ireland;$22,100 ;$923 ;$41,400;$45,000
+358;Woolworths;Australia;$46,200 ;$973 ;$30,500;$41,200
+359;RWE Group;Germany;$15,600 ;$1,100 ;$81,000;$27,700
+360;Bank Of Jiangsu;China;$14,900 ;$2,100 ;$332,700;$14,000
+361;Santander;Spain;$73,600 ;-$10,000 ;$1,845,400;$59,600
+362;Bank Rakyat Indonesia (BRI);Indonesia;$10,000 ;$1,300 ;$107,600;$36,500
+363;Fujitsu;Japan;$34,000 ;$1,600 ;$29,400;$30,300
+364;Maybank;Malaysia;$10,500 ;$1,500 ;$213,000;$22,900
+365;Toyota Industries;Japan;$19,400 ;$1,200 ;$58,200;$27,200
+366;Larsen & Toubro;India;$17,800 ;$2,100 ;$42,000;$25,700
+367;Gazprom;Russia;$90,500 ;-$921 ;$294,900;$73,500
+368;Norfolk Southern;United States;$9,800 ;$2,000 ;$38,400;$73,500
+369;Synchrony Financial;United States;$12,800 ;$1,400 ;$95,900;$24,100
+370;Keurig Dr Pepper;United States;$11,600 ;$1,300 ;$49,800;$50,700
+371;L3Harris Technologies;United States;$18,200 ;$1,100 ;$37,000;$43,300
+372;Greenland Holdings Group;China;$68,700 ;$1,300 ;$206,300;$10,400
+373;BAE Systems;United States;$24,700 ;$1,700 ;$38,200;$23,200
+374;Waste Management;United States;$15,200 ;$1,500 ;$29,700;$57,000
+375;Brookfield Asset Management;Canada;$63,400 ;-$176 ;$343,700;$69,700
+376;Xcel Energy;United States;$11,500 ;$1,500 ;$56,300;$37,900
+377;Anheuser-Busch InBev;Belgium;$46,800 ;-$742 ;$230,000;$134,100
+378;Raytheon Technologies;United States;$63,500 ;-$3,500 ;$162,200;$118,600
+379;Emerson Electric;United States;$16,800 ;$2,100 ;$23,700;$55,300
+380;Al Rajhi Bank;Saudi Arabia;$5,600 ;$2,800 ;$125,000;$62,800
+381;Boeing;United States;$58,200 ;-$11,900 ;$152,100;$144,800
+382;Sherwin-Williams;United States;$18,400 ;$2,000 ;$20,400;$71,400
+383;VMware;United States;$11,800 ;$2,100 ;$29,000;$68,800
+384;Ally Financial;United States;$10,500 ;$2,200 ;$181,900;$17,800
+385;China Merchants Shekou Industrial Zone Holdings;China;$17,500 ;$1,800 ;$112,700;$14,500
+386;Imperial Brands;United Kingdom;$21,200 ;$1,900 ;$41,800;$20,700
+387;American Tower;United States;$8,000 ;$1,700 ;$47,200;$110,600
+388;Norilsk Nickel;Russia;$15,700 ;$3,500 ;$20,700;$53,200
+389;China National Building;China;$37,000 ;$1,800 ;$69,800;$12,900
+390;Samsung Life Insurance;South Korea;$24,300 ;$1,100 ;$309,700;$13,000
+391;Emirates NBD;United Arab Emirates;$9,700 ;$1,700 ;$190,100;$20,600
+392;Ford Motor;United States;$127,100 ;-$1,300 ;$267,300;$48,800
+393;Starbucks;United States;$23,200 ;$665 ;$30,000;$139,300
+394;China Communications Construction;China;$90,800 ;$2,300 ;$199,400;$7,800
+395;CTBC Financial;Taiwan;$13,400 ;$1,500 ;$235,500;$15,300
+396;AIRBUS;Netherlands;$56,900 ;-$1,300 ;$134,700;$97,600
+397;Telecom Italia;Italy;$18,000 ;$8,200 ;$89,600;$11,300
+398;Zijin Mining Group;China;$26,600 ;$1,200 ;$29,000;$34,900
+399;National Bank of Canada;Canada;$8,100 ;$1,600 ;$269,000;$23,700
+400;SEB AB;Sweden;$7,000 ;$1,700 ;$370,200;$27,700
+401;Sompo;Japan;$34,400 ;$932 ;$123,300;$13,700
+402;Aon;Ireland;$11,100 ;$2,000 ;$32,100;$54,000
+403;Weichai Power;China;$28,500 ;$1,300 ;$41,400;$20,100
+404;Carrier Global;United States;$17,500 ;$2,000 ;$25,100;$38,100
+405;Saint-Gobain;France;$43,500 ;$520 ;$59,500;$33,800
+406;Murata Manufacturing;Japan;$14,800 ;$2,000 ;$23,300;$52,900
+407;Hengli Petrochemical;China;$17,800 ;$1,900 ;$28,400;$31,500
+408;Recruit Holdings;Japan;$21,000 ;$1,200 ;$20,400;$77,300
+409;Cosco Shipping;China;$24,900 ;$1,500 ;$41,600;$19,100
+410;Bristol Myers Squibb;United States;$42,500 ;-$9,000 ;$118,500;$146,200
+411;Danske Bank;Denmark;$20,900 ;$618 ;$675,500;$17,000
+412;Cummins;United States;$19,800 ;$1,800 ;$22,600;$38,700
+413;OMV Group;Austria;$18,900 ;$1,400 ;$63,400;$16,800
+414;Saudi Electricity;Saudi Arabia;$18,300 ;$559 ;$129,400;$27,200
+415;Glencore International;Switzerland;$142,400 ;-$2,000 ;$118,000;$55,200
+416;D.R. Horton;United States;$22,200 ;$2,700 ;$19,800;$35,100
+417;Best Buy;United States;$47,300 ;$1,800 ;$19,100;$30,000
+418;Prudential Financial;United States;$57,000 ;-$408 ;$940,700;$39,100
+419;Stellantis;Netherlands;$98,800 ;$33 ;$122,000;$57,000
+420;Suzuki Motor;Japan;$28,500 ;$1,200 ;$37,100;$21,000
+421;BASF;Germany;$67,400 ;-$1,200 ;$100,900;$79,700
+422;Canon;Japan;$29,600 ;$780 ;$44,800;$24,900
+423;Fast Retailing;Japan;$18,900 ;$904 ;$23,500;$84,700
+424;Fifth Third Bank;United States;$7,400 ;$1,400 ;$204,700;$27,200
+425;CME Group;United States;$4,900 ;$2,100 ;$124,700;$74,500
+426;EnBW-Energie Baden;Germany;$22,500 ;$680 ;$60,000;$26,500
+427;Samsung C&T;South Korea;$25,600 ;$908 ;$50,000;$20,500
+428;CRRC;China;$32,900 ;$1,700 ;$60,000;$12,500
+429;Bayer;Germany;$47,200 ;-$12,000 ;$150,300;$63,600
+430;Toyota Tsusho;Japan;$57,000 ;$1,000 ;$47,000;$15,500
+431;Public Service Enterprise Group;United States;$9,300 ;$1,900 ;$50,100;$32,000
+432;Phoenix Group Holdings;United Kingdom;$27,900 ;$994 ;$443,600;$10,500
+433;Consolidated Edison;United States;$12,200 ;$1,100 ;$62,900;$26,800
+434;Kimberly-Clark;United States;$19,100 ;$2,400 ;$17,500;$47,100
+435;Wesfarmers;Australia;$22,900 ;$1,300 ;$19,700;$48,800
+436;Bank Central Asia;Indonesia;$6,000 ;$1,900 ;$76,600;$53,100
+437;Kraft Heinz Company;United States;$26,200 ;$356 ;$99,800;$50,100
+438;Paccar;United States;$18,700 ;$1,300 ;$28,300;$33,000
+439;American International Group;United States;$43,700 ;-$5,900 ;$512,900;$40,600
+440;Mitsubishi Estate;Japan;$11,700 ;$1,400 ;$59,800;$23,400
+441;Equinor;Norway;$45,400 ;-$5,400 ;$122,000;$63,700
+442;DTE Energy;United States;$12,300 ;$1,400 ;$45,500;$27,300
+443;Lenovo Group;Hong Kong;$55,700 ;$961 ;$38,600;$16,800
+444;Fujifilm Holdings;Japan;$20,200 ;$1,200 ;$32,600;$25,200
+445;Colgate-Palmolive;United States;$16,500 ;$2,700 ;$15,900;$68,500
+446;Hana Financial Group;South Korea;$12,600 ;$2,200 ;$423,700;$10,700
+447;Kotak Mahindra Bank;India;$7,500 ;$1,300 ;$65,300;$47,100
+448;Telstra;Australia;$15,000 ;$1,200 ;$33,500;$31,500
+449;Biogen;United States;$10,600 ;$4,000 ;$24,600;$40,700
+450;Talanx;Germany;$45,700 ;$767 ;$216,400;$11,000
+451;Carrefour;France;$82,200 ;$731 ;$58,200;$14,700
+452;Standard Chartered;United Kingdom;$21,000 ;$426 ;$789,100;$21,300
+453;Svenska Handelsbanken;Sweden;$6,500 ;$1,700 ;$381,800;$22,800
+454;Sumitomo Mitsui Trust;Japan;$12,100 ;$1,300 ;$587,900;$13,000
+455;DISH Network;United States;$15,500 ;$1,800 ;$38,400;$20,000
+456;Meituan;China;$16,700 ;$660 ;$25,500;$218,600
+457;Walgreens;United States;$138,500 ;-$616 ;$90,900;$46,100
+458;BYD;China;$22,300 ;$585 ;$30,900;$64,900
+459;Fosun International;China;$19,800 ;$1,200 ;$117,400;$12,100
+460;ENGIE;France;$63,600 ;-$1,800 ;$187,400;$35,900
+461;Eni;Italy;$50,100 ;-$9,800 ;$137,900;$44,300
+462;Kubota;Japan;$17,400 ;$1,200 ;$30,900;$28,600
+463;Shimao Property Holdings;Hong Kong;$19,800 ;$1,800 ;$90,200;$10,700
+464;CK Asset Holdings;Hong Kong;$8,400 ;$2,100 ;$67,200;$22,900
+465;Bank of Nanjing;China;$9,500 ;$1,800 ;$219,500;$14,200
+466;Edp-energias De Portugal;Portugal;$14,400 ;$914 ;$52,500;$23,800
+467;LukOil;Russia;$71,800 ;$210 ;$81,500;$52,300
+468;Sany Heavy Industry;China;$14,400 ;$2,200 ;$19,300;$41,200
+469;Grupo Mexico;Mexico;$10,300 ;$1,900 ;$28,400;$40,500
+470;Michelin Group;France;$23,300 ;$716 ;$38,700;$26,600
+471;Komatsu;Japan;$19,900 ;$791 ;$34,800;$29,300
+472;NetEase;China;$10,700 ;$1,700 ;$21,700;$73,400
+473;Asahi Group Holdings;Japan;$19,000 ;$869 ;$43,000;$22,200
+474;SK Telecom;South Korea;$15,800 ;$1,300 ;$44,100;$19,300
+475;Air Products & Chemicals;United States;$9,000 ;$1,900 ;$26,100;$63,600
+476;Athene Holding;Bermuda;$14,800 ;$1,500 ;$197,900;$10,600
+477;eBay;United States;$10,700 ;$5,700 ;$19,300;$44,200
+478;Freeport-McMoRan;United States;$13,900 ;$590 ;$42,100;$55,600
+479;Power Construction Corporation of China;China;$53,300 ;$1,000 ;$132,900;$9,100
+480;LG Chem;South Korea;$25,800 ;$435 ;$38,100;$62,500
+481;Saudi Basic Industries;Saudi Arabia;$31,300 ;$37 ;$80,000;$93,300
+482;Bouygues;France;$39,600 ;$793 ;$49,700;$15,900
+483;Citizens Bank (Rhode IsIand);United States;$7,400 ;$1,600 ;$187,200;$19,100
+484;Capgemini;France;$18,100 ;$1,100 ;$26,900;$30,600
+485;Edison International;United States;$13,600 ;$739 ;$69,400;$23,300
+486;Magna International;Canada;$32,500 ;$713 ;$28,600;$28,800
+487;Dollar Tree;United States;$25,500 ;$1,300 ;$20,700;$27,400
+488;Telenor;Norway;$13,000 ;$1,700 ;$30,000;$25,700
+489;China Zheshang Bank;China;$14,200 ;$1,800 ;$313,200;$9,600
+490;Entergy;United States;$10,000 ;$1,400 ;$58,200;$21,400
+491;Lam Research;United States;$11,900 ;$3,000 ;$15,400;$92,000
+492;Infosys;India;$13,500 ;$2,600 ;$14,800;$77,500
+493;The Estée Lauder Companies;United States;$14,200 ;$928 ;$19,600;$113,300
+494;China Tower Corp.;China;$11,800 ;$933 ;$51,600;$25,900
+495;Corteva;United States;$14,200 ;$681 ;$42,600;$35,200
+496;CSL;Australia;$9,900 ;$2,600 ;$17,700;$94,700
+497;Safran;France;$19,000 ;$401 ;$48,400;$66,800
+498;Banorte;Mexico;$9,400 ;$1,400 ;$89,700;$17,600
+499;KeyCorp;United States;$7,300 ;$1,300 ;$170,300;$20,000
+500;Lufax Holding;China;$8,300 ;$1,800 ;$38,100;$34,000
+501;Swedbank;Sweden;$6,400 ;$1,400 ;$315,900;$21,100
+502;Constellation Brands;United States;$8,600 ;$2,000 ;$27,100;$45,800
+503;Nidec;Japan;$14,600 ;$877 ;$20,500;$75,100
+504;Naspers;South Africa;$4,800 ;$3,100 ;$45,700;$106,100
+505;Vonovia;Germany;$4,800 ;$3,700 ;$76,400;$39,800
+506;Activision Blizzard;United States;$8,100 ;$2,200 ;$23,100;$74,700
+507;Bank Mandiri;Indonesia;$8,600 ;$1,200 ;$101,700;$20,200
+508;Marathon Petroleum;United States;$75,000 ;-$9,900 ;$85,200;$35,400
+509;Illinois Tool Works;United States;$12,600 ;$2,100 ;$15,600;$70,900
+510;Eversource Energy;United States;$8,900 ;$1,200 ;$46,100;$30,800
+511;Parker-Hannifin;United States;$13,500 ;$1,400 ;$19,800;$41,400
+512;S.F. Holding;China;$22,300 ;$1,100 ;$17,000;$44,400
+513;NTPC;India;$15,100 ;$1,600 ;$53,800;$13,400
+514;Transneft;Russia;$14,300 ;$2,100 ;$44,100;$13,900
+515;Stanley Black & Decker;United States;$14,500 ;$1,200 ;$23,600;$33,100
+516;Rongsheng Petrochemical;China;$14,000 ;$858 ;$34,100;$28,500
+517;Denso;Japan;$44,600 ;-$234 ;$66,100;$51,200
+518;Gilead Sciences;United States;$24,600 ;$123 ;$68,400;$84,000
+519;Swiss Re;Switzerland;$42,700 ;-$918 ;$183,000;$28,500
+520;Swisscom;Switzerland;$11,800 ;$1,600 ;$27,400;$27,000
+521;Nutrien;Canada;$21,000 ;$479 ;$47,200;$32,000
+522;M&G;United Kingdom;$19,000 ;$1,500 ;$296,600;$7,900
+523;Cognizant;United States;$16,700 ;$1,400 ;$16,900;$42,800
+524;Vestas Wind Systems;Denmark;$16,900 ;$871 ;$22,200;$40,100
+525;JBS;Brazil;$52,400 ;$892 ;$31,500;$14,800
+526;Société Générale;France;$41,400 ;-$991 ;$1,788,800;$20,900
+527;Ageas;Belgium;$12,500 ;$1,300 ;$135,400;$11,400
+528;NEC;Japan;$27,800 ;$986 ;$32,400;$16,300
+529;Adidas;Germany;$22,600 ;$494 ;$25,800;$64,900
+530;Novatek;Russia;$9,600 ;$938 ;$27,900;$58,400
+531;PPG;United States;$14,300 ;$1,200 ;$20,100;$39,700
+532;NatWest Group;United Kingdom;$18,100 ;-$477 ;$1,092,900;$33,400
+533;Wanhua Chemical Group;China;$10,500 ;$1,500 ;$20,500;$49,800
+534;FirstRand;South Africa;$7,800 ;$923 ;$132,700;$20,500
+535;Aptiv;Ireland;$13,100 ;$1,800 ;$17,500;$38,100
+536;Subaru;Japan;$27,500 ;$1,100 ;$32,000;$15,200
+537;Erste Group Bank;Austria;$10,600 ;$762 ;$340,400;$14,300
+538;Aeon;Japan;$81,200 ;-$670 ;$107,800;$24,700
+539;T&D Holdings;Japan;$18,900 ;$1,500 ;$169,100;$7,400
+540;ArcelorMittal;Luxembourg;$53,200 ;-$838 ;$82,100;$31,800
+541;Northern Trust;United States;$6,100 ;$1,200 ;$170,000;$22,200
+542;Metallurgical Corp of China;China;$57,900 ;$1,100 ;$77,400;$5,500
+543;MediaTek;Taiwan;$10,900 ;$1,400 ;$19,000;$54,400
+544;Orsted;Denmark;$5,700 ;$2,300 ;$32,300;$66,800
+545;Toshiba;Japan;$28,400 ;$699 ;$32,600;$19,200
+546;McKesson;United States;$237,600 ;-$4,200 ;$61,800;$30,700
+547;Willis Towers Watson;United Kingdom;$9,400 ;$996 ;$38,500;$31,000
+548;UniCredit;Italy;$26,600 ;-$3,300 ;$1,139,700;$22,900
+549;SingTel;Singapore;$12,100 ;$783 ;$34,400;$31,500
+550;Shenzhen Overseas;China;$10,700 ;$1,800 ;$69,800;$12,600
+551;Nissan Motor;Japan;$72,000 ;-$10,100 ;$155,300;$20,700
+552;CLP Holdings;Hong Kong;$10,300 ;$1,500 ;$30,200;$24,800
+553;TELUS;Canada;$11,400 ;$900 ;$34,000;$28,100
+554;Chubu Electric Power;Japan;$27,100 ;$1,600 ;$54,300;$9,200
+555;Prologis;United States;$4,400 ;$1,500 ;$56,100;$84,200
+556;Regeneron Pharmaceuticals;United States;$8,500 ;$3,500 ;$17,200;$53,800
+557;M&T Bank;United States;$6,100 ;$1,300 ;$142,600;$19,800
+558;Dominion Energy;United States;$15,200 ;-$401 ;$95,900;$66,200
+559;LabCorp;United States;$14,000 ;$1,600 ;$20,100;$25,600
+560;China Taiping Insurance;Hong Kong;$35,700 ;$844 ;$148,700;$6,900
+561;Standard Bank Group;South Africa;$10,500 ;$799 ;$172,400;$13,700
+562;Otsuka Holding;Japan;$13,300 ;$1,400 ;$25,500;$21,600
+563;Baxter International;United States;$11,700 ;$1,100 ;$20,000;$43,800
+564;Regions Financial;United States;$6,400 ;$1,100 ;$147,400;$20,400
+565;Crown Castle International;United States;$5,800 ;$1,100 ;$38,800;$77,600
+566;Phillips 66;United States;$63,700 ;-$4,000 ;$54,700;$34,500
+567;George Weston;Canada;$40,800 ;$718 ;$37,700;$13,800
+568;PPL;United States;$7,600 ;$1,500 ;$48,100;$22,400
+569;RELX;United Kingdom;$9,100 ;$1,600 ;$19,300;$51,500
+570;Deutsche Boerse;Germany;$4,300 ;$1,200 ;$187,000;$32,500
+571;FirstEnergy;United States;$10,800 ;$1,000 ;$44,500;$19,400
+572;Seazen Group;China;$21,500 ;$1,500 ;$83,300;$7,600
+573;Hong Kong Exchanges;Hong Kong;$2,500 ;$1,500 ;$51,500;$76,100
+574;ConocoPhillips;United States;$18,800 ;-$2,700 ;$62,600;$69,100
+575;Kansai Electric Power;Japan;$28,200 ;$1,000 ;$75,700;$8,900
+576;Lincoln National;United States;$17,400 ;$499 ;$352,400;$12,500
+577;Thales;France;$19,400 ;$551 ;$38,900;$21,900
+578;Sumitomo Realty;Japan;$8,900 ;$1,500 ;$53,500;$16,400
+579;Fox;United States;$12,700 ;$1,500 ;$22,800;$22,400
+580;Sinopharm Group;China;$66,300 ;$1,000 ;$47,600;$8,900
+581;Rogers Communications;Canada;$10,400 ;$1,200 ;$30,500;$24,500
+582;Atlas Copco;Sweden;$10,800 ;$1,600 ;$14,200;$80,400
+583;Tokyo Electron;Japan;$12,000 ;$2,000 ;$12,300;$70,200
+584;EssilorLuxottica;France;$16,400 ;$97 ;$64,000;$72,800
+585;Astellas Pharma;Japan;$11,700 ;$1,300 ;$22,200;$28,100
+586;Axis Bank;India;$10,900 ;$404 ;$130,100;$27,600
+587;Fidelity National Information;United States;$12,600 ;$157 ;$83,800;$94,900
+588;First Republic Bank;United States;$4,600 ;$1,200 ;$155,800;$31,600
+589;Koç Holding;Turkey;$20,500 ;$1,300 ;$84,800;$5,700
+590;DuPont de Nemours;United States;$20,400 ;-$3,000 ;$70,900;$41,200
+591;Valero Energy;United States;$64,900 ;-$1,400 ;$52,400;$29,600
+592;WEC Energy Group;United States;$7,200 ;$1,200 ;$37,900;$30,600
+593;Great Wall Motor;China;$14,600 ;$787 ;$23,600;$28,800
+594;Advanced Micro Devices;United States;$9,800 ;$2,500 ;$9,000;$99,800
+595;Aluminum Corp of China;China;$27,000 ;$15,100 ;$29,800;$8,300
+596;Sekisui House;Japan;$23,000 ;$1,200 ;$25,100;$14,600
+597;VTB Bank;Russia;$17,100 ;$901 ;$245,300;$8,100
+598;Global Payments;United States;$7,400 ;$585 ;$44,200;$64,300
+599;Indian Oil;India;$48,900 ;$652 ;$44,800;$11,400
+600;CBRE Group;United States;$23,800 ;$752 ;$18,000;$27,500
+601;Discovery;United States;$10,600 ;$1,200 ;$34,100;$18,200
+602;MS&AD Insurance;Japan;$42,800 ;$217 ;$232,500;$16,800
+603;Kyocera;Japan;$14,100 ;$659 ;$31,300;$23,900
+604;Fidelity National Financial;United States;$10,800 ;$1,400 ;$48,400;$13,000
+605;AutoZone;United States;$13,400 ;$1,900 ;$14,200;$33,000
+606;Porsche Automobil Holding;Germany;$122 ;$3,000 ;$44,500;$36,200
+607;Republic Services;United States;$10,200 ;$967 ;$23,400;$33,300
+608;TJX Cos;United States;$32,100 ;$91 ;$30,800;$84,400
+609;Hikvision;China;$9,100 ;$1,900 ;$13,600;$81,700
+610;AmerisourceBergen;United States;$194,500 ;-$3,200 ;$45,800;$24,500
+611;London Stock Exchange;United Kingdom;$3,100 ;$540 ;$1,160,700;$49,300
+612;Trane Technologies;Ireland;$12,500 ;$855 ;$18,200;$41,000
+613;Wuliangye Yibin;China;$6,800 ;$2,800 ;$14,700;$155,800
+614;SVB Financial Group;United States;$4,000 ;$1,200 ;$115,500;$28,000
+615;Nan Ya Plastics;Taiwan;$10,300 ;$1,500 ;$20,800;$25,200
+616;Shaanxi Coal Industry;China;$13,300 ;$1,600 ;$22,800;$16,900
+617;CGN Power;China;$10,200 ;$1,400 ;$59,900;$11,800
+618;Huatai Securities;China;$6,700 ;$1,600 ;$109,600;$13,100
+619;Nucor;United States;$20,100 ;$717 ;$20,100;$23,700
+620;Xiamen C&D;China;$55,600 ;$808 ;$57,100;$3,800
+621;Bunge;United States;$41,400 ;$1,200 ;$23,700;$11,800
+622;Intuit;United States;$7,700 ;$1,700 ;$14,600;$113,900
+623;Continental;Germany;$42,900 ;-$1,100 ;$50,900;$28,200
+624;CarMax;United States;$19,000 ;$747 ;$21,500;$21,100
+625;Asahi Kasei;Japan;$19,700 ;$750 ;$27,800;$16,000
+626;DSV Panalpina;Denmark;$17,700 ;$650 ;$15,800;$47,700
+627;Ferguson;United Kingdom;$21,200 ;$1,300 ;$12,500;$28,900
+628;China Cinda Asset Management;China;$10,500 ;$1,400 ;$232,100;$7,800
+629;Legend Holding;China;$60,600 ;$567 ;$99,700;$4,100
+630;Kao;Japan;$12,900 ;$1,200 ;$16,100;$32,000
+631;International Paper;United States;$20,600 ;$482 ;$31,700;$22,500
+632;Quanta Computer;Taiwan;$37,000 ;$860 ;$23,600;$13,300
+633;Ecopetrol;Colombia;$13,800 ;$457 ;$40,800;$26,300
+634;SSE;United Kingdom;$8,400 ;$1,700 ;$26,300;$21,300
+635;Muyuan Foodstuff;China;$6,800 ;$3,700 ;$15,200;$57,600
+636;Omnicom Group;United States;$13,200 ;$945 ;$27,600;$17,100
+637;Raymond James Financial;United States;$8,400 ;$861 ;$53,700;$17,900
+638;China Fortune Land Development;China;$13,000 ;$1,700 ;$74,400;$3,900
+639;Essity Ab;Sweden;$13,200 ;$1,100 ;$18,800;$23,300
+640;Jardine Matheson;Bermuda;$32,600 ;-$394 ;$93,500;$19,000
+641;Natixis;France;$23,200 ;-$22 ;$606,000;$15,300
+642;Resona Holdings;Japan;$7,400 ;$1,300 ;$682,500;$9,500
+643;Kellogg;United States;$13,800 ;$1,300 ;$18,000;$21,600
+644;Rocket Companies;United States;$16,300 ;$3,800 ;$37,500;$3,000
+645;Bank Of Hangzhou;China;$6,800 ;$981 ;$163,100;$13,700
+646;China Hongqiao Group;China;$12,500 ;$1,500 ;$27,800;$13,800
+647;Suncor Energy;Canada;$18,400 ;-$3,200 ;$66,400;$31,900
+648;East Japan Railway;Japan;$18,600 ;-$3,300 ;$86,300;$26,200
+649;China Energy Engineering;China;$39,300 ;$686 ;$72,800;$3,000
+650;PG&E;United States;$18,500 ;-$1,300 ;$106,900;$23,000
+651;Albertsons;United States;$69,400 ;$1,100 ;$26,300;$9,300
+652;Arch Capital Group;Bermuda;$8,300 ;$1,400 ;$37,500;$16,200
+653;Kuehne & Nagel International;Switzerland;$21,700 ;$840 ;$11,100;$36,900
+654;Siemens Energy;Germany;$30,700 ;-$1,800 ;$52,600;$25,700
+655;Schlumberger;United States;$23,600 ;-$10,500 ;$42,400;$36,800
+656;Corning;United States;$11,300 ;$512 ;$30,800;$35,200
+657;China Reinsurance Group;China;$24,000 ;$830 ;$66,300;$4,500
+658;CNPC Capital;China;$4,400 ;$21,900 ;$135,200;$12,200
+659;SK Holdings;South Korea;$69,400 ;$161 ;$126,700;$13,400
+660;Associated British Foods;Australia;$17,700 ;$580 ;$21,600;$26,500
+661;TCL;China;$11,100 ;$636 ;$39,400;$19,300
+662;Woori Financial Group;South Korea;$10,100 ;$1,100 ;$367,400;$6,600
+663;Sumitomo;Japan;$43,600 ;-$1,400 ;$75,300;$17,800
+664;Analog Devices;United States;$5,900 ;$1,400 ;$21,400;$58,800
+665;Oil & Natural Gas;India;$47,300 ;$123 ;$68,800;$18,200
+666;Whirlpool;United States;$19,400 ;$1,100 ;$20,400;$14,700
+667;Grupo ACS;Spain;$39,800 ;$654 ;$45,700;$9,600
+668;O'Reilly Automotive;United States;$11,600 ;$1,800 ;$12,300;$37,200
+669;Infineon Technologies;Germany;$10,600 ;$473 ;$26,200;$55,300
+670;Occidental Petroleum;United States;$19,700 ;-$14,800 ;$84,400;$22,800
+671;ASE Technology Holding;Taiwan;$16,200 ;$937 ;$20,800;$17,100
+672;Industrial Bank of Korea;South Korea;$9,000 ;$1,300 ;$332,900;$6,100
+673;Isbank;Turkey;$13,700 ;$1,000 ;$94,000;$2,700
+674;S&P Global;United States;$7,400 ;$2,300 ;$12,500;$91,100
+675;Siam Cement;Thailand;$12,800 ;$1,100 ;$25,000;$15,800
+676;Heineken;Netherlands;$22,500 ;-$116 ;$54,300;$27,300
+677;Dongfeng Motor Group;China;$15,700 ;$1,600 ;$48,400;$8,100
+678;Hermès International;France;$7,300 ;$1,600 ;$13,500;$128,600
+679;Tenaga Nasional;Malaysia;$10,500 ;$855 ;$45,100;$13,900
+680;Banco Btg Pactual;Brazil;$3,100 ;$1,000 ;$44,900;$46,100
+681;Conagra Brands;United States;$11,700 ;$1,200 ;$22,100;$18,000
+682;Nippon Steel;Japan;$45,900 ;-$1,900 ;$70,400;$16,600
+683;Repsol;Spain;$37,900 ;-$3,700 ;$60,300;$19,200
+684;Publicis Groupe;France;$12,300 ;$657 ;$36,900;$16,300
+685;Bridgestone;Japan;$28,000 ;-$218 ;$40,600;$28,700
+686;ENEOS Holdings;Japan;$72,800 ;-$2,300 ;$77,700;$14,200
+687;Formosa Petrochemical;Taiwan;$14,100 ;$956 ;$13,600;$34,300
+688;Fortis (Canada);Canada;$6,700 ;$950 ;$44,600;$20,600
+689;Guotai Junan Securities;China;$5,800 ;$1,500 ;$107,500;$12,500
+690;Unipol Gruppo;Italy;$15,200 ;$806 ;$96,100;$4,100
+691;Renault;France;$49,600 ;-$9,100 ;$141,600;$12,600
+692;Canadian Pacific Railway;Canada;$5,700 ;$1,800 ;$18,700;$49,200
+693;China Bohai Bank;China;$9,600 ;$1,100 ;$213,200;$7,700
+694;Public Bank;Malaysia;$4,500 ;$1,200 ;$112,200;$19,800
+695;Geely Automobile Holdings;Hong Kong;$13,400 ;$795 ;$16,900;$27,600
+696;HCL Technologies;India;$10,000 ;$1,800 ;$10,600;$37,000
+697;BOE Technology Group;China;$18,700 ;$364 ;$53,300;$17,700
+698;Guangzhou R&F;China;$12,500 ;$1,300 ;$67,600;$4,800
+699;Richemont;Switzerland;$13,800 ;$249 ;$38,400;$59,200
+700;Daiichi Sankyo;Japan;$9,000 ;$661 ;$19,900;$48,400
+701;Kinder Morgan;United States;$11,500 ;$106 ;$73,500;$37,500
+702;Inner Mongolia Yili;China;$13,500 ;$1,000 ;$11,200;$36,300
+703;Haitong Securities;China;$6,500 ;$1,300 ;$96,300;$11,700
+704;Markel;United States;$9,700 ;$787 ;$34,900;$16,700
+705;Kasikornbank;Thailand;$8,200 ;$917 ;$122,100;$10,300
+706;Riyad Bank;Saudi Arabia;$3,600 ;$1,300 ;$82,700;$20,000
+707;China International Capital;China;$5,300 ;$1,000 ;$79,800;$18,000
+708;Huishang Bank;China;$8,400 ;$1,300 ;$194,500;$4,600
+709;Hewlett Packard Enterprise;United States;$26,900 ;-$432 ;$53,500;$20,800
+710;Daqin Railway;China;$10,300 ;$1,500 ;$21,900;$15,700
+711;Keyence;Japan;$4,800 ;$1,700 ;$18,500;$115,500
+712;Nokia;Finland;$24,900 ;-$2,800 ;$46,500;$23,700
+713;Canadian Natural Resources;Canada;$12,600 ;-$324 ;$59,100;$36,600
+714;Kone;Finland;$11,300 ;$1,100 ;$10,800;$44,600
+715;Delta Air Lines;United States;$12,700 ;-$13,000 ;$73,100;$29,800
+716;Neste;Finland;$13,400 ;$813 ;$12,000;$45,700
+717;STMicroelectronics;Switzerland;$10,200 ;$1,100 ;$14,500;$35,400
+718;CNH Industrial;United Kingdom;$26,000 ;-$493 ;$48,700;$21,600
+719;Simon Property Group;United States;$4,600 ;$1,200 ;$34,800;$38,400
+720;Kirin Holdings;Japan;$17,300 ;$674 ;$23,800;$15,900
+721;Marubeni;Japan;$58,000 ;-$1,700 ;$62,800;$14,600
+722;Uber;United States;$12,100 ;-$6,800 ;$33,300;$112,700
+723;Sysco;United States;$45,900 ;-$338 ;$22,500;$41,100
+724;Zoetis;United States;$6,700 ;$1,600 ;$13,600;$79,600
+725;Bharti Airtel;India;$13,500 ;-$2,800 ;$45,800;$39,900
+726;Henderson Land;Hong Kong;$3,300 ;$1,300 ;$59,500;$21,900
+727;Coca-Cola European Partners;United Kingdom;$12,100 ;$578 ;$23,500;$25,000
+728;Samsung Fire & Marine;South Korea;$18,000 ;$640 ;$84,400;$7,300
+729;Mapfre;Spain;$21,000 ;$600 ;$78,000;$6,500
+730;Power Finance;India;$9,100 ;$1,300 ;$103,600;$3,900
+731;Femsa;Mexico;$23,000 ;-$90 ;$34,400;$28,700
+732;Coles Group;Australia;$27,100 ;$722 ;$16,500;$16,100
+733;WH Group;Hong Kong;$25,600 ;$828 ;$18,700;$12,800
+734;Intact Financial;Canada;$9,300 ;$807 ;$26,400;$18,700
+735;Carlsberg;Denmark;$9,000 ;$922 ;$19,800;$24,200
+736;Huntington Bank;United States;$5,000 ;$817 ;$123,000;$16,500
+737;Roper Technologies;United States;$5,500 ;$950 ;$24,000;$44,400
+738;Luxshare Precision Industry;China;$12,000 ;$929 ;$9,700;$35,700
+739;Contemporary Amperex Technology;China;$6,300 ;$636 ;$20,200;$117,700
+740;Veolia Environnement;France;$29,700 ;$101 ;$55,500;$16,500
+741;Naturgy Energy Group;Spain;$17,500 ;-$396 ;$48,400;$24,100
+742;CDW;United States;$18,500 ;$789 ;$9,300;$25,900
+743;Cincinnati Financial;United States;$7,500 ;$1,200 ;$27,200;$17,100
+744;Vertex Pharmaceuticals;United States;$6,200 ;$2,700 ;$11,800;$56,800
+745;Sandvik;Sweden;$9,400 ;$949 ;$14,500;$36,200
+746;Evonik;Germany;$13,900 ;$547 ;$27,100;$17,100
+747;Agile Group Holdings;China;$11,900 ;$1,400 ;$48,000;$6,200
+748;Logan Property Holdings;China;$10,400 ;$1,900 ;$37,200;$8,900
+749;Jinke Property Group;China;$12,300 ;$1,000 ;$58,300;$5,900
+750;Ball;United States;$11,800 ;$585 ;$18,300;$29,900
+751;Tatneft;Russia;$10,200 ;$1,400 ;$17,100;$17,300
+752;China Coal Energy;China;$20,500 ;$775 ;$43,100;$6,800
+753;Assa Abloy;Sweden;$9,500 ;$996 ;$14,300;$33,600
+754;Otis Worldwide;United States;$12,800 ;$906 ;$10,700;$30,300
+755;Rakuten;Japan;$13,600 ;-$1,100 ;$121,300;$17,000
+756;Thomson Reuters;Canada;$6,000 ;$1,100 ;$17,900;$45,900
+757;China National Nuclear Power;China;$6,900 ;$833 ;$52,800;$14,300
+758;Chunghwa Telecom;Taiwan;$7,100 ;$1,100 ;$18,000;$31,200
+759;Central Japan Railway;Japan;$9,400 ;-$953 ;$91,900;$28,800
+760;SK Innovation;South Korea;$29,000 ;-$1,800 ;$35,400;$20,700
+761;Chongqing Rural Bank;China;$7,200 ;$1,200 ;$173,800;$4,900
+762;Telkom Indonesia;Indonesia;$9,200 ;$1,300 ;$15,800;$22,900
+763;Pernod Ricard;France;$9,100 ;$300 ;$38,900;$53,400
+764;Sampo;Finland;$11,000 ;$43 ;$66,900;$27,100
+765;Amphenol;United States;$8,600 ;$1,200 ;$12,300;$41,000
+766;CIFI Holdings Group;China;$10,500 ;$1,200 ;$58,000;$7,500
+767;Unum;United States;$13,200 ;$793 ;$60,700;$5,900
+768;Raiffeisen Bank International;Austria;$8,300 ;$831 ;$203,100;$7,100
+769;Wipro;India;$8,300 ;$1,500 ;$11,400;$35,900
+770;Coal India;India;$12,300 ;$1,700 ;$21,000;$10,700
+771;Shin Kong Financial;Taiwan;$17,100 ;$456 ;$155,100;$4,400
+772;Aegon;Netherlands;$26,400 ;-$166 ;$519,900;$9,600
+773;Samsung SDI;South Korea;$9,600 ;$487 ;$19,800;$41,600
+774;Altice USA;United States;$9,900 ;$436 ;$34,000;$22,700
+775;Equitable Holdings;United States;$12,400 ;-$635 ;$275,400;$14,400
+776;National Bank of Kuwait;Kuwait;$3,800 ;$719 ;$97,700;$19,800
+777;Mega Financial Holding;Taiwan;$2,800 ;$850 ;$137,200;$15,400
+778;United Rentals;United States;$8,500 ;$890 ;$18,400;$23,700
+779;United Airlines Holdings;United States;$15,400 ;-$7,100 ;$66,000;$18,100
+780;Beijing-Shanghai High-Speed Railway;China;$3,600 ;$609 ;$45,200;$43,700
+781;Deutsche Wohnen;Germany;$3,200 ;$1,700 ;$38,100;$18,600
+782;Gallagher;United States;$6,900 ;$819 ;$22,300;$26,700
+783;Ameren;United States;$5,800 ;$871 ;$32,000;$21,500
+784;Amcor;United Kingdom;$12,500 ;$778 ;$16,700;$18,700
+785;Tata Motors;India;$30,200 ;-$2,100 ;$41,800;$16,100
+786;T Rowe Price;United States;$6,200 ;$2,300 ;$10,900;$40,500
+787;HeidelbergCement;Germany;$20,100 ;-$2,400 ;$40,700;$19,100
+788;Formosa Plastics;Taiwan;$7,100 ;$1,200 ;$17,100;$24,500
+789;Schindler Holding;Switzerland;$11,300 ;$769 ;$12,300;$33,400
+790;DSM;Netherlands;$9,800 ;$578 ;$17,600;$30,900
+791;Siam Commercial Bank;Thailand;$5,600 ;$870 ;$109,400;$11,400
+792;Bharat Petroleum;India;$30,000 ;$542 ;$20,600;$12,100
+793;Compass Group;United Kingdom;$25,400 ;$170 ;$19,000;$39,200
+794;Uni-President;Taiwan;$15,200 ;$732 ;$17,600;$14,700
+795;Hershey;United States;$8,200 ;$1,300 ;$9,100;$33,300
+796;Power Grid of India;India;$5,300 ;$1,600 ;$35,000;$14,800
+797;Oneok;United States;$8,600 ;$613 ;$23,100;$23,000
+798;Zhongsheng Group Holdings;China;$21,600 ;$805 ;$10,500;$16,600
+799;TDK;Japan;$13,000 ;$529 ;$21,400;$18,100
+800;Jiangsu Zhangjiagang Rural Commercial Bank;China;$5,500 ;$1,500 ;$219,900;$1,500
+801;Boston Scientific;United States;$9,900 ;-$139 ;$30,800;$58,100
+802;MTN Group;South Africa;$10,900 ;$1,000 ;$23,800;$11,700
+803;Bajaj Finserv;India;$7,800 ;$497 ;$35,400;$21,000
+804;VakifBank;Turkey;$7,900 ;$1,100 ;$80,400;$1,700
+805;Fortive;United States;$6,500 ;$1,600 ;$16,100;$24,500
+806;Lumen Technologies;United States;$20,700 ;-$1,200 ;$59,400;$14,100
+807;Sika;Switzerland;$8,400 ;$878 ;$11,400;$41,800
+808;Gemdale;China;$8,200 ;$1,400 ;$55,800;$8,300
+809;RiseSun Real Estate Development;China;$10,500 ;$1,200 ;$40,300;$4,300
+810;Tohoku Electric Power;Japan;$20,100 ;$602 ;$42,600;$4,700
+811;EOG Resources;United States;$9,900 ;-$605 ;$35,800;$41,200
+812;H&M - Hennes & Mauritz;Sweden;$19,100 ;-$195 ;$20,200;$40,900
+813;Pegatron;Taiwan;$47,500 ;$686 ;$24,400;$6,900
+814;Moody's;United States;$5,400 ;$1,800 ;$12,400;$60,300
+815;Grupo Aval;Colombia;$10,300 ;$636 ;$94,400;$7,300
+816;CMS Energy;United States;$6,700 ;$755 ;$29,700;$18,500
+817;China Gas Holdings;Hong Kong;$7,600 ;$1,200 ;$16,100;$22,200
+818;Abu Dhabi Commercial Bank;United Arab Emirates;$4,800 ;$961 ;$111,900;$11,900
+819;American Financial Group;United States;$7,800 ;$732 ;$63,900;$10,200
+820;KLA;United States;$6,100 ;$1,400 ;$9,800;$51,300
+821;TAQA;United Arab Emirates;$7,700 ;$99 ;$50,900;$41,900
+822;Techtronic Industries;Hong Kong;$9,800 ;$801 ;$9,400;$32,400
+823;Jefferies Financial;United States;$8,100 ;$1,200 ;$56,900;$8,000
+824;Akzo Nobel;Netherlands;$9,700 ;$718 ;$16,100;$23,200
+825;Fairfax Financial;Canada;$19,300 ;$202 ;$74,100;$12,300
+826;Reinsurance Group of America;United States;$14,600 ;$415 ;$83,700;$9,000
+827;Yango Group;China;$11,700 ;$724 ;$52,900;$4,000
+828;Weyerhaeuser;United States;$7,500 ;$797 ;$16,300;$29,400
+829;Shanghai Construction;China;$33,400 ;$446 ;$45,400;$4,000
+830;Julius Baer Group;Switzerland;$4,300 ;$744 ;$123,500;$14,100
+831;Eiffage;France;$19,000 ;$428 ;$41,300;$10,200
+832;Hanwha;South Korea;$43,200 ;$181 ;$176,000;$2,000
+833;ITC;India;$6,300 ;$1,800 ;$9,900;$34,400
+834;GF Securities;China;$4,700 ;$1,500 ;$70,000;$11,400
+835;American Airlines Group;United States;$17,300 ;-$8,900 ;$62,000;$14,100
+836;Stora Enso;Finland;$9,800 ;$715 ;$21,300;$15,800
+837;UPM-Kymmene;Finland;$9,800 ;$638 ;$18,200;$20,600
+838;China Merchants Securities;China;$4,500 ;$1,300 ;$76,400;$12,100
+839;Longi Green Energy Technology;China;$6,300 ;$1,200 ;$12,000;$50,600
+840;Asr Nederland;Netherlands;$8,900 ;$693 ;$93,800;$6,500
+841;CP All;Thailand;$16,800 ;$483 ;$17,500;$18,400
+842;Jiangsu Zhongnan Construction Group;China;$10,700 ;$797 ;$50,000;$4,200
+843;Quest Diagnostics;United States;$9,400 ;$1,400 ;$14,000;$17,100
+844;Suncorp Group;Australia;$8,900 ;$529 ;$73,200;$10,400
+845;Kyushu Electric Power;Japan;$19,300 ;$501 ;$49,600;$4,400
+846;Skanska;Sweden;$17,400 ;$1,100 ;$15,300;$11,300
+847;Tokyo Electric Power;Japan;$53,500 ;-$2,400 ;$115,900;$4,700
+848;WPP;United Kingdom;$15,400 ;-$3,800 ;$49,500;$16,300
+849;China Aoyuan Group;China;$9,900 ;$859 ;$49,800;$2,900
+850;Secom;Japan;$9,800 ;$706 ;$17,800;$18,500
+851;Delta Electronics;Taiwan;$9,600 ;$866 ;$12,000;$27,200
+852;China Life Insurance (Taiwan);Taiwan;$12,100 ;$528 ;$79,000;$4,300
+853;St. James's Place;United Kingdom;$12,200 ;$336 ;$177,400;$9,900
+854;China Gezhouba;China;$16,100 ;$620 ;$39,700;$5,200
+855;Hormel Foods;United States;$9,700 ;$888 ;$10,000;$25,300
+856;Loews;United States;$12,600 ;-$931 ;$75,800;$14,500
+857;Baker Hughes Company;United States;$20,700 ;-$9,900 ;$38,000;$15,400
+858;Southwest Airlines;United States;$9,000 ;-$3,100 ;$36,600;$36,900
+859;Charoen Pokphand Foods;Thailand;$18,800 ;$812 ;$25,400;$7,900
+860;ENN Energy Holdings;China;$10,400 ;$912 ;$13,800;$19,300
+861;Novolipetsk Steel;Russia;$9,200 ;$1,300 ;$9,900;$20,900
+862;ZTE;China;$14,700 ;$619 ;$23,000;$11,600
+863;Naver;South Korea;$5,500 ;$849 ;$15,700;$51,700
+864;Pinduoduo;China;$8,700 ;-$1,000 ;$24,300;$116,500
+865;Yanzhou Coal Mining;China;$10,000 ;$908 ;$41,700;$6,700
+866;China Development Financial;Taiwan;$12,400 ;$430 ;$122,200;$5,900
+867;Guosen Securities;China;$3,100 ;$959 ;$46,300;$16,300
+868;Marriott International;United States;$10,600 ;-$267 ;$24,700;$48,400
+869;Shanghai Electric Group;China;$18,400 ;$536 ;$40,400;$5,500
+870;Snam;Italy;$3,100 ;$1,300 ;$32,500;$18,300
+871;Garanti Bank;Turkey;$7,200 ;$947 ;$72,900;$3,800
+872;OTP Bank;Hungary;$5,000 ;$842 ;$78,700;$12,100
+873;IQVIA;United States;$11,400 ;$279 ;$24,600;$41,300
+874;Viatris;United States;$11,900 ;-$670 ;$61,600;$16,200
+875;Cintas;United States;$6,900 ;$981 ;$8,300;$36,800
+876;Kajima;Japan;$18,400 ;$1,000 ;$20,300;$7,200
+877;SM Investments;Philippines;$7,600 ;$472 ;$25,500;$24,300
+878;Formosa Chemicals;Taiwan;$8,600 ;$664 ;$18,900;$19,000
+879;Mitsubishi Chemical;Japan;$30,000 ;-$656 ;$49,600;$11,000
+880;Pgnig Group;Poland;$9,800 ;$1,900 ;$16,900;$10,600
+881;PKN Orlen;Poland;$22,100 ;$755 ;$22,600;$7,600
+882;Ecolab;United States;$12,400 ;-$1,200 ;$18,100;$63,800
+883;L Brands;United States;$11,800 ;$845 ;$11,600;$18,600
+884;Motorola Solutions;United States;$7,400 ;$949 ;$10,900;$31,900
+885;Atlantia;Italy;$9,000 ;-$1,300 ;$107,500;$16,100
+886;Joint Stock Commercial Bank for Foreign Trade of Vietnam;Vietnam;$3,700 ;$794 ;$57,500;$15,500
+887;Grasim Industries;India;$9,800 ;$546 ;$33,900;$12,000
+888;Equinix;United States;$6,000 ;$370 ;$27,000;$63,400
+889;TE Connectivity;Switzerland;$12,500 ;$114 ;$20,300;$44,100
+890;Seagate Technology;Ireland;$10,200 ;$989 ;$9,000;$19,000
+891;Sabanci Holding;Turkey;$8,800 ;$678 ;$67,400;$2,100
+892;NASDAQ;United States;$5,600 ;$932 ;$18,000;$26,400
+893;Clorox;United States;$7,500 ;$1,200 ;$6,900;$24,000
+894;Lonza Group;Switzerland;$4,800 ;$926 ;$16,500;$45,100
+895;Liberty Global;United Kingdom;$12,000 ;-$1,600 ;$59,100;$15,300
+896;Mitsubishi Heavy Industries;Japan;$35,500 ;-$103 ;$48,100;$10,400
+897;PulteGroup;United States;$11,000 ;$1,400 ;$12,200;$14,300
+898;WW Grainger;United States;$11,800 ;$695 ;$6,300;$21,300
+899;KT;South Korea;$20,300 ;$558 ;$31,000;$6,200
+900;Japan Exchange Group;Japan;$1,300 ;$484 ;$575,300;$13,700
+901;Legrand;France;$7,000 ;$777 ;$15,800;$26,700
+902;Rockwell Automation;United States;$6,200 ;$1,300 ;$8,200;$30,900
+903;Zoomlion Heavy Industry;China;$9,500 ;$1,100 ;$17,800;$12,400
+904;Obayashi;Japan;$17,300 ;$866 ;$21,500;$6,900
+905;Western Digital;United States;$16,300 ;$167 ;$25,600;$21,100
+906;Alexion Pharmaceuticals;United States;$6,100 ;$603 ;$18,100;$36,200
+907;Grupa PZU;Poland;$9,800 ;$491 ;$96,200;$7,400
+908;Severstal;Russia;$7,300 ;$1,700 ;$7,500;$19,600
+909;Bank of Baroda;India;$11,900 ;$371 ;$167,400;$4,700
+910;Tractor Supply;United States;$10,600 ;$749 ;$7,000;$21,000
+911;Db Insurance;South Korea;$13,900 ;$474 ;$54,600;$2,400
+912;Molina Healthcare;United States;$19,300 ;$673 ;$9,600;$14,600
+913;CGI;Canada;$9,000 ;$873 ;$12,000;$22,000
+914;DaVita;United States;$11,600 ;$783 ;$17,800;$12,400
+915;Electronic Arts;United States;$5,700 ;$1,200 ;$12,400;$40,600
+916;Williams;United States;$7,700 ;$211 ;$46,200;$28,700
+917;New Hope Liuhe;China;$15,900 ;$636 ;$16,800;$12,000
+918;Yuanta Financial Holding;Taiwan;$4,700 ;$819 ;$98,200;$10,600
+919;Align Technology;United States;$2,500 ;$1,800 ;$4,800;$48,000
+920;Kuwait Finance House;Kuwait;$3,500 ;$484 ;$70,700;$20,000
+921;Guangzhou Rural Commercial Bank;China;$5,900 ;$733 ;$157,300;$4,400
+922;Tokyo Century;Japan;$11,500 ;$525 ;$53,900;$8,300
+923;Towngas;Hong Kong;$5,300 ;$775 ;$19,400;$28,300
+924;American Water Works;United States;$3,800 ;$709 ;$25,800;$29,100
+925;Hydro One;Canada;$5,400 ;$1,300 ;$23,800;$14,600
+926;Givaudan;Switzerland;$6,700 ;$792 ;$12,100;$38,700
+927;Invesco;United States;$6,200 ;$762 ;$36,500;$12,300
+928;iA Financial Corporation;Canada;$11,600 ;$472 ;$66,300;$5,900
+929;JSW Steel;India;$9,500 ;$532 ;$17,400;$20,100
+930;Kingfisher;United Kingdom;$15,900 ;$761 ;$16,800;$10,300
+931;Yara International;Norway;$11,600 ;$684 ;$16,600;$13,900
+932;Wens Foodstuff Group;China;$10,800 ;$1,100 ;$12,300;$15,200
+933;Tokyo Gas;Japan;$16,800 ;$516 ;$26,500;$9,400
+934;Industrivarden;Sweden;$3,300 ;$5,100 ;$17,000;$17,700
+935;Semiconductor Manufacturing International;China;$3,900 ;$634 ;$31,300;$26,200
+936;Teva Pharmaceutical;Israel;$16,600 ;-$4,000 ;$50,600;$11,900
+937;China Resources Power;Hong Kong;$9,000 ;$978 ;$33,500;$6,300
+938;Intuitive Surgical;United States;$4,400 ;$1,100 ;$11,200;$96,200
+939;Tata Steel;India;$18,200 ;-$86 ;$33,100;$14,300
+940;Yum China Holdings;China;$8,300 ;$784 ;$10,900;$25,300
+941;Monster Beverage;United States;$4,600 ;$1,400 ;$6,300;$51,800
+942;Kaisa Group Holdings;China;$8,100 ;$789 ;$47,400;$3,400
+943;Autodesk;United States;$3,800 ;$1,200 ;$7,300;$65,900
+944;Rosseti;Russia;$13,800 ;$547 ;$35,200;$3,800
+945;JM Smucker;United States;$8,200 ;$951 ;$16,400;$14,400
+946;WR Berkley;United States;$8,000 ;$531 ;$28,000;$14,200
+947;Bâloise Group;Switzerland;$9,200 ;$463 ;$99,200;$7,900
+948;Bank Hapoalim;Israel;$4,700 ;$598 ;$168,100;$10,800
+949;Everest Re Group;Bermuda;$9,600 ;$508 ;$30,400;$11,800
+950;Equity Residential;United States;$2,500 ;$879 ;$20,300;$27,100
+951;Commerzbank;Germany;$13,000 ;-$3,300 ;$620,200;$7,500
+952;Crown Holdings;United States;$11,600 ;$579 ;$16,700;$14,700
+953;Sumitomo Electric;Japan;$26,700 ;$216 ;$31,200;$12,100
+954;CJ Cheiljedang;South Korea;$20,500 ;$581 ;$23,600;$6,000
+955;Sibanye Stillwater;South Africa;$7,700 ;$1,800 ;$9,100;$15,000
+956;SMC;Japan;$4,900 ;$987 ;$14,200;$40,300
+957;China International Travel Service;China;$6,700 ;$513 ;$5,700;$85,600
+958;Hoya;Japan;$5,000 ;$1,100 ;$7,900;$46,500
+959;Eletrobrás;Brazil;$5,600 ;$1,200 ;$34,500;$10,100
+960;Public Storage;United States;$2,900 ;$1,400 ;$11,800;$46,600
+961;Toppan Printing;Japan;$13,700 ;$814 ;$21,900;$6,100
+962;China International Marine;China;$13,600 ;$801 ;$22,400;$6,500
+963;Daiwa Securities;Japan;$5,400 ;$647 ;$254,100;$8,200
+964;Shanghai Pharmaceuticals;China;$27,000 ;$592 ;$19,700;$5,900
+965;E.Sun Financial;Taiwan;$2,300 ;$612 ;$105,800;$12,000
+966;Qurate Retail Group;United States;$14,200 ;$1,200 ;$17,000;$5,100
+967;Foshan Haitian Flavouring and Food;China;$3,300 ;$928 ;$4,500;$83,000
+968;Bank Leumi;Israel;$4,700 ;$611 ;$173,200;$10,100
+969;Csc Financial;China;$4,500 ;$1,300 ;$56,800;$9,700
+970;PKO Bank Polski;Poland;$4,400 ;$679 ;$102,500;$10,900
+971;Halkbank;Turkey;$7,700 ;$524 ;$93,700;$1,400
+972;Aisin Seiki;Japan;$32,000 ;$154 ;$37,400;$10,000
+973;Expeditors International;United States;$10,100 ;$696 ;$4,900;$18,800
+974;NXP Semiconductors;Netherlands;$8,600 ;$52 ;$19,800;$55,000
+975;Universal Health Services;United States;$11,600 ;$941 ;$13,500;$12,400
+976;HAL Trust;Monaco;$6,100 ;$717 ;$24,800;$15,100
+977;WestRock;United States;$17,600 ;-$678 ;$28,800;$14,400
+978;China Jinmao;Hong Kong;$8,800 ;$553 ;$59,300;$4,900
+979;BBMG;China;$15,400 ;$407 ;$44,600;$2,200
+980;LG;South Korea;$4,600 ;$1,200 ;$22,400;$17,300
+981;Shenzhen Mindray Bio-Medical Electronics;China;$2,900 ;$909 ;$4,500;$75,000
+982;Arrow Electronics;United States;$28,700 ;$584 ;$17,100;$8,700
+983;Cheniere Energy;United States;$9,400 ;-$85 ;$38,700;$18,800
+984;Yum! Brands;United States;$5,700 ;$904 ;$5,900;$35,300
+985;Huaneng Power International;China;$24,300 ;$65 ;$68,800;$5,500
+986;Alexandria Real Estate Equities;United States;$1,900 ;$759 ;$22,800;$24,000
+987;Booking Holdings;United States;$6,800 ;$59 ;$21,900;$101,700
+988;First Horizon;United States;$3,400 ;$845 ;$84,700;$9,700
+989;Taisei;Japan;$14,500 ;$1,000 ;$17,000;$8,000
+990;Financiere de l'Odet;France;$27,500 ;$244 ;$62,300;$5,200
+991;Shanghai International Port;China;$3,700 ;$1,200 ;$23,800;$16,400
+992;Dassault Systemes;France;$5,100 ;$560 ;$15,900;$59,700
+993;Metro Group;Germany;$27,800 ;$676 ;$16,500;$3,900
+994;Rolls-Royce Holdings;United Kingdom;$15,100 ;-$4,100 ;$40,300;$12,100
+995;Agilent Technologies;United States;$5,500 ;$810 ;$9,700;$41,000
+996;Norsk Hydro;Norway;$14,600 ;$398 ;$19,200;$13,900
+997;AES;United States;$9,700 ;$43 ;$34,600;$19,100
+998;Mosaic;United States;$8,700 ;$666 ;$19,800;$12,700
+999;Asustek Computer;Taiwan;$14,000 ;$902 ;$14,100;$10,200
+1000;United Microelectronics;Taiwan;$6,000 ;$991 ;$13,400;$23,700
+1001;Polyus;Russia;$5,000 ;$1,600 ;$7,300;$26,700
+1002;Qatar Islamic Bank;Qatar;$1,800 ;$859 ;$49,500;$11,800
+1003;AvalonBay Communities;United States;$2,300 ;$826 ;$19,200;$26,500
+1004;EN+ Group International;Russia;$10,400 ;$1,000 ;$22,100;$5,900
+1005;Suning.com;China;$37,400 ;-$477 ;$32,600;$10,000
+1006;Akbank;Turkey;$5,700 ;$870 ;$64,400;$3,200
+1007;Grifols;Spain;$6,100 ;$705 ;$18,700;$18,800
+1008;Guangzhou Automobile Group;China;$9,200 ;$868 ;$21,800;$9,600
+1009;Sinotruk Hong Kong;China;$14,300 ;$995 ;$17,000;$7,600
+1010;Shenwan Hongyuan Group;China;$4,900 ;$1,100 ;$75,100;$7,000
+1011;China Mengniu Dairy;Hong Kong;$11,000 ;$514 ;$12,300;$22,800
+1012;Mitsubishi UFJ Lease;Japan;$8,400 ;$507 ;$58,400;$8,600
+1013;China Huarong Asset Management;China;$12,400 ;-$127 ;$244,800;$5,100
+1014;UCB;Belgium;$6,100 ;$835 ;$16,300;$18,600
+1015;Beiersdorf;Germany;$8,000 ;$638 ;$12,600;$24,900
+1016;Ashtead Group;United Kingdom;$6,300 ;$788 ;$12,600;$28,900
+1017;Digital Realty Trust;United States;$3,900 ;$356 ;$36,100;$41,000
+1018;Anta Sports Products;China;$5,200 ;$753 ;$7,900;$48,700
+1019;New World Development;Hong Kong;$8,000 ;$141 ;$79,500;$13,800
+1020;Jiangsu Hengrui Medicine;China;$3,600 ;$835 ;$4,800;$65,800
+1021;Impala Platinum Holdings;South Africa;$6,100 ;$2,300 ;$8,200;$15,600
+1022;Celanese;United States;$5,700 ;$2,000 ;$10,900;$18,000
+1023;China Southern Airlines;China;$13,500 ;-$1,600 ;$49,900;$11,000
+1024;ThyssenKrupp Group;Germany;$32,600 ;-$5,900 ;$43,300;$8,500
+1025;Huadian Power International;China;$12,800 ;$469 ;$36,200;$3,100
+1026;Franklin Resources;United States;$5,800 ;$768 ;$21,200;$15,200
+1027;East Money Information;China;$1,700 ;$693 ;$16,900;$37,700
+1028;SG Holdings;Japan;$11,800 ;$679 ;$7,500;$14,600
+1029;Pan Pacific International Holdings;Japan;$15,700 ;$506 ;$13,200;$14,600
+1030;Signature Bank;United States;$2,000 ;$527 ;$74,100;$13,100
+1031;Covestro;Germany;$12,200 ;$523 ;$16,100;$13,500
+1032;Coupang;South Korea;$12,000 ;-$475 ;$5,100;$78,800
+1033;Zhongliang Holdings;China;$9,600 ;$546 ;$41,400;$2,500
+1034;Fanuc;Japan;$4,700 ;$676 ;$15,000;$48,000
+1035;Luzhou Lao Jiao;China;$2,200 ;$874 ;$5,400;$53,200
+1036;Boston Properties;United States;$2,800 ;$877 ;$22,900;$18,200
+1037;Nippon Paint;Japan;$7,300 ;$418 ;$15,600;$35,300
+1038;Segro;United Kingdom;$554 ;$1,800 ;$17,300;$16,200
+1039;Fastenal;United States;$5,700 ;$867 ;$4,100;$29,000
+1040;Nitori Holdings;Japan;$6,800 ;$869 ;$8,700;$21,400
+1041;Alcon;Switzerland;$6,800 ;-$545 ;$27,600;$37,000
+1042;First Financial Holding;Taiwan;$2,900 ;$571 ;$126,400;$10,300
+1043;Punjab National Bank;India;$12,000 ;$140 ;$174,700;$4,900
+1044;NVR;United States;$7,400 ;$901 ;$5,800;$18,300
+1045;Vistra Energy;United States;$11,100 ;$636 ;$25,200;$8,600
+1046;China Molybdenum;China;$16,300 ;$339 ;$18,700;$14,500
+1047;Ross Stores;United States;$12,500 ;$85 ;$13,700;$46,300
+1048;Halliburton;United States;$14,400 ;-$2,900 ;$20,700;$18,400
+1049;Sodexo;France;$18,800 ;-$764 ;$21,900;$14,800
+1050;Edwards Lifesciences;United States;$4,400 ;$823 ;$7,200;$55,400
+1051;Kerry Group;Ireland;$7,900 ;$632 ;$11,600;$23,200
+1052;Taiwan Cooperative Financial;Taiwan;$3,900 ;$563 ;$147,600;$10,000
+1053;Meritz Financial Group;South Korea;$9,800 ;$403 ;$63,700;$2,000
+1054;Investec;United Kingdom;$3,600 ;$1,300 ;$65,500;$3,200
+1055;Leidos;United States;$12,300 ;$628 ;$12,500;$14,400
+1056;Bio-Rad Laboratories;United States;$2,500 ;$3,800 ;$13,000;$18,700
+1057;JFE Holdings;Japan;$30,500 ;-$2,800 ;$44,400;$7,600
+1058;Swire Pacific;Hong Kong;$10,300 ;-$1,400 ;$55,900;$11,900
+1059;Zoom Video Communications;United States;$2,700 ;$672 ;$5,300;$96,900
+1060;Idemitsu Kosan;Japan;$44,000 ;-$893 ;$37,500;$7,400
+1061;Shimizu;Japan;$14,000 ;$753 ;$18,000;$6,400
+1062;Jiangsu Yanghe Brewery;China;$2,700 ;$1,100 ;$8,200;$36,700
+1063;Midea Real Estate Holding;China;$7,700 ;$628 ;$43,400;$2,900
+1064;SDIC Power Holdings;China;$5,600 ;$804 ;$32,600;$10,700
+1065;Nongfu Spring;China;$3,300 ;$764 ;$4,000;$57,800
+1066;Campbell Soup;United States;$9,000 ;$806 ;$12,500;$15,000
+1067;Mediobanca;Italy;$3,500 ;$619 ;$102,000;$9,700
+1068;Terna;Italy;$2,800 ;$896 ;$25,300;$14,800
+1069;Canara Bank;India;$11,500 ;-$204 ;$156,300;$3,000
+1070;Assurant;United States;$10,100 ;$442 ;$34,800;$9,200
+1071;ATOS;France;$12,700 ;$627 ;$22,200;$8,000
+1072;MTR;Hong Kong;$5,500 ;-$620 ;$37,500;$35,100
+1073;Hopson Development Holdings;Hong Kong;$4,800 ;$1,800 ;$38,800;$7,500
+1074;JDE Peet's;Netherlands;$7,600 ;$351 ;$25,800;$19,000
+1075;Kinnevik;Sweden;$575 ;$4,400 ;$14,100;$15,500
+1076;Jacobs;United States;$13,500 ;$444 ;$12,800;$17,400
+1077;Paychex;United States;$3,900 ;$1,100 ;$9,700;$35,100
+1078;Hunan Valin Steel;China;$16,800 ;$927 ;$13,900;$7,300
+1079;J.B. Hunt Transport Services;United States;$10,000 ;$548 ;$6,200;$18,200
+1080;China Galaxy Securities;China;$3,800 ;$1,100 ;$68,200;$6,200
+1081;Zimmer Biomet;United States;$7,000 ;-$139 ;$24,400;$35,800
+1082;Eisai;Japan;$6,600 ;$877 ;$10,000;$19,100
+1083;Finatis;France;$36,400 ;-$545 ;$36,300;$253
+1084;Bank Of Chengdu;China;$3,600 ;$820 ;$93,800;$5,800
+1085;Wuchan Zhongda Group;China;$56,600 ;$405 ;$18,000;$3,800
+1086;Zions Bancorp;United States;$2,900 ;$708 ;$81,500;$9,200
+1087;Evraz Group;United Kingdom;$9,800 ;$851 ;$8,700;$12,700
+1088;Brenntag;Germany;$13,400 ;$532 ;$10,200;$14,200
+1089;Square;United States;$9,500 ;$213 ;$9,900;$116,400
+1090;C.H. Robinson;United States;$16,200 ;$506 ;$5,100;$13,200
+1091;LKQ;United States;$11,600 ;$638 ;$12,400;$13,500
+1092;Dubai Islamic Bank;United Arab Emirates;$3,600 ;$746 ;$78,800;$8,900
+1093;Nippon Yusen;Japan;$14,600 ;$607 ;$19,000;$6,000
+1094;Telia;Sweden;$9,700 ;-$2,500 ;$27,600;$17,700
+1095;Osaka Gas;Japan;$12,700 ;$605 ;$21,400;$7,800
+1096;Bank Of Guiyang;China;$4,300 ;$822 ;$84,600;$3,900
+1097;Tenet Healthcare;United States;$17,600 ;$399 ;$27,100;$5,800
+1098;China Steel;Taiwan;$10,700 ;$30 ;$22,600;$19,100
+1099;International Holding Company;United Arab Emirates;$1,900 ;$781 ;$3,800;$44,600
+1100;J Sainsbury;United Kingdom;$36,700 ;-$6 ;$34,200;$7,600
+1101;Cooper Companies;United States;$2,500 ;$2,200 ;$8,900;$19,600
+1102;LG Household & Health Care;South Korea;$6,600 ;$676 ;$6,300;$23,400
+1103;Skyworks Solutions;United States;$4,000 ;$1,100 ;$5,400;$31,300
+1104;Terumo;Japan;$5,700 ;$720 ;$12,200;$28,200
+1105;QBE Insurance Group;Australia;$12,100 ;-$1,500 ;$40,900;$11,200
+1106;Scor;France;$17,400 ;$267 ;$54,400;$6,500
+1107;Brown-Forman;United States;$3,300 ;$911 ;$6,500;$35,500
+1108;Partners Group Holding;Switzerland;$1,700 ;$857 ;$4,600;$37,900
+1109;Absa Group;South Africa;$8,200 ;$357 ;$104,200;$7,400
+1110;Bank of Changsha;China;$4,500 ;$739 ;$100,500;$6,000
+1111;McCormick;United States;$5,900 ;$765 ;$12,700;$23,700
+1112;IHS Markit;United Kingdom;$4,300 ;$535 ;$16,700;$41,400
+1113;Bangkok Bank;Thailand;$5,200 ;$549 ;$127,600;$7,500
+1114;Carnival;United States;$831 ;-$11,400 ;$57,200;$30,600
+1115;CJ Corporation;South Korea;$27,100 ;$73 ;$36,800;$2,600
+1116;Sumitomo Chemical;Japan;$20,800 ;$143 ;$37,700;$8,700
+1117;Hindalco Industries;India;$16,300 ;$300 ;$25,000;$11,200
+1118;Beijing Enterprises;Hong Kong;$8,800 ;$682 ;$26,400;$4,300
+1119;Illumina;United States;$3,200 ;$656 ;$7,600;$58,200
+1120;Bank of Tianjin;China;$5,000 ;$622 ;$105,200;$2,600
+1121;Alstom;France;$8,500 ;$441 ;$15,200;$20,000
+1122;Goodman Group;Australia;$1,300 ;$1,200 ;$11,900;$27,100
+1123;Wayfair;United States;$14,100 ;$185 ;$4,600;$33,400
+1124;Union Bank of India;India;$10,000 ;-$151 ;$142,800;$3,000
+1125;Kuaishou Technology;China;$8,500 ;-$16,900 ;$8,000;$129,500
+1126;Metro;Canada;$13,600 ;$608 ;$10,600;$11,700
+1127;GD Power Development;China;$16,000 ;$144 ;$53,200;$6,800
+1128;International Airlines;United Kingdom;$8,900 ;-$7,900 ;$37,000;$14,300
+1129;Thai Beverage;Thailand;$8,100 ;$730 ;$13,700;$14,000
+1130;Evergy;United States;$4,900 ;$618 ;$27,100;$14,400
+1131;Mirae Asset Daewoo;South Korea;$2,200 ;$648 ;$114,200;$5,700
+1132;Cenovus Energy;Canada;$9,900 ;-$1,800 ;$26,400;$16,100
+1133;Dover;United States;$6,700 ;$684 ;$9,200;$20,200
+1134;CEZ Group;Czech Republic;$9,100 ;$234 ;$32,700;$14,800
+1135;Experian;Ireland;$5,200 ;$658 ;$9,100;$34,300
+1136;Jiangxi Copper;China;$46,100 ;$325 ;$21,500;$7,900
+1137;Wolters Kluwer;Netherlands;$5,200 ;$822 ;$10,300;$24,200
+1138;China Feihe;China;$2,700 ;$1,100 ;$4,300;$25,800
+1139;Synopsys;United States;$3,800 ;$723 ;$8,000;$39,700
+1140;Eastman Chemical;United States;$8,500 ;$478 ;$16,100;$15,700
+1141;Sunny Optical Technology Group;China;$5,500 ;$710 ;$5,400;$26,000
+1142;Brighthouse Financial;United States;$8,500 ;-$1,100 ;$249,600;$4,100
+1143;Hexagon;Sweden;$4,300 ;$701 ;$13,100;$37,800
+1144;Yuexiu Property;Hong Kong;$6,700 ;$616 ;$40,200;$3,600
+1145;Ametek;United States;$4,500 ;$872 ;$10,400;$30,700
+1146;Garmin;Switzerland;$4,200 ;$992 ;$7,000;$26,900
+1147;Verbund;Austria;$3,700 ;$720 ;$14,700;$27,500
+1148;Pioneer Natural Resources;United States;$7,000 ;-$128 ;$20,900;$32,100
+1149;Deutsche Lufthansa;Germany;$15,500 ;-$7,700 ;$49,000;$7,600
+1150;Mohawk Industries;United States;$9,600 ;$516 ;$14,300;$14,300
+1151;Randstad N.V.;Netherlands;$23,600 ;$347 ;$11,700;$14,100
+1152;Cerner;United States;$5,500 ;$780 ;$7,500;$22,800
+1153;Helvetia Holding;Switzerland;$10,900 ;$282 ;$79,500;$6,400
+1154;Restaurant Brands International;Canada;$5,000 ;$486 ;$22,800;$20,200
+1155;Inter Rao;Russia;$13,600 ;$1,000 ;$12,300;$4,800
+1156;Flex;Singapore;$23,300 ;$421 ;$15,700;$9,300
+1157;Toray Industries;Japan;$17,800 ;$163 ;$26,900;$10,200
+1158;Berry Global Group;United States;$12,000 ;$642 ;$17,200;$8,400
+1159;BDO Unibank;Philippines;$4,300 ;$570 ;$70,300;$9,500
+1160;Smurfit Kappa Group;Ireland;$9,700 ;$621 ;$13,100;$12,800
+1161;Krung Thai Bank;Thailand;$4,900 ;$535 ;$111,300;$5,100
+1162;Bank of Chongqing;China;$1,900 ;$641 ;$85,900;$1,100
+1163;Shenzhou International Group Holdings;Hong Kong;$3,300 ;$740 ;$5,600;$34,200
+1164;Vipshop Holdings;China;$14,800 ;$863 ;$9,000;$3,400
+1165;Ferrari;Italy;$3,900 ;$693 ;$7,700;$37,200
+1166;Ferrovial;Spain;$7,200 ;-$467 ;$28,300;$19,600
+1167;Hologic;United States;$4,500 ;$1,400 ;$7,600;$19,800
+1168;Sharp;Japan;$21,800 ;$93 ;$18,800;$11,800
+1169;East West Bancorp;United States;$1,800 ;$568 ;$52,300;$10,600
+1170;BorgWarner;United States;$10,200 ;$500 ;$16,000;$11,700
+1171;Spotify Technology;Luxembourg;$9,000 ;-$658 ;$7,700;$54,700
+1172;Korea Investment Holdings;South Korea;$2,300 ;$732 ;$64,800;$5,500
+1173;PennyMac Financial Services;United States;$3,200 ;$1,600 ;$31,600;$4,000
+1174;Bunzl;United Kingdom;$13,000 ;$551 ;$9,400;$11,600
+1175;CIMB Group Holdings;Malaysia;$6,100 ;$284 ;$149,700;$10,300
+1176;Schroders;United States;$3,300 ;$611 ;$29,600;$13,700
+1177;BAIC Motor;China;$25,700 ;$278 ;$29,600;$2,700
+1178;Cemex;Mexico;$12,900 ;-$1,500 ;$27,400;$11,400
+1179;China National Chemical;China;$15,300 ;$484 ;$18,600;$5,000
+1180;Flutter Entertainment;Ireland;$5,700 ;$49 ;$23,200;$38,000
+1181;VICI Properties;United States;$1,200 ;$892 ;$17,100;$16,100
+1182;Knorr-Bremse;Germany;$7,000 ;$565 ;$9,600;$19,900
+1183;Top Frontier Investment Holdings;Philippines;$15,800 ;-$45 ;$41,000;$935
+1184;Antofagasta;United Kingdom;$5,100 ;$495 ;$16,600;$25,500
+1185;XPO Logistics;United States;$16,300 ;$91 ;$16,200;$15,300
+1186;Vienna Insurance Group;Austria;$11,800 ;$264 ;$60,500;$3,500
+1187;Comerica;United States;$3,100 ;$472 ;$88,100;$9,800
+1188;Unibail-Rodamco;France;$3,000 ;-$8,200 ;$70,100;$19,200
+1189;IDEXX Laboratories;United States;$2,700 ;$582 ;$2,300;$45,800
+1190;Mazda Motor;Japan;$26,500 ;-$923 ;$28,500;$5,200
+1191;Sino-Ocean Group Holding;China;$8,600 ;$416 ;$39,700;$1,700
+1192;Westinghouse Air Brake Technologies;United States;$7,600 ;$414 ;$18,500;$15,200
+1193;Royalty Pharma;United States;$2,100 ;$975 ;$16,000;$16,300
+1194;Sumitomo Metal Mining;Japan;$8,400 ;$511 ;$17,200;$12,000
+1195;Isuzu Motors;Japan;$17,500 ;$396 ;$20,500;$7,100
+1196;Unicharm;Japan;$6,800 ;$490 ;$8,700;$24,300
+1197;Globe Life;United States;$4,700 ;$732 ;$29,000;$10,800
+1198;Mahindra & Mahindra;India;$11,000 ;-$80 ;$24,300;$13,700
+1199;Western Alliance Bancorp.;United States;$1,300 ;$615 ;$43,400;$10,400
+1200;Masco;United States;$7,200 ;$631 ;$5,800;$16,400
+1201;Lululemon Athletica;Canada;$4,400 ;$589 ;$4,200;$42,300
+1202;LG Display;South Korea;$20,500 ;-$76 ;$32,300;$7,900
+1203;American Equity Investment;United States;$3,700 ;$672 ;$68,000;$3,000
+1204;Liberty Broadband;United States;$51 ;$398 ;$21,700;$29,400
+1205;Zhongyuan Bank;China;$5,000 ;$477 ;$115,800;$2,800
+1206;Voya Financial;United States;$7,600 ;$33 ;$178,200;$8,300
+1207;Emaar Properties;United Arab Emirates;$6,100 ;$713 ;$31,700;$7,600
+1208;Penske Automotive;United States;$20,400 ;$544 ;$14,000;$7,000
+1209;X5 Retail Group;Russia;$27,400 ;$393 ;$15,900;$8,600
+1210;Cadence Design;United States;$2,700 ;$591 ;$4,000;$41,100
+1211;Eurofins Scientific Societe Europeenne;Luxembourg;$6,200 ;$615 ;$10,500;$20,200
+1212;TransDigm Group;United States;$4,700 ;$394 ;$18,600;$33,800
+1213;Renesas Electronics;Japan;$6,700 ;$427 ;$15,600;$20,400
+1214;Daito Trust Construction;Japan;$14,500 ;$780 ;$8,300;$7,900
+1215;Yamaha Motor;Japan;$13,800 ;$497 ;$15,900;$9,100
+1216;Canadian Tire;Canada;$11,100 ;$561 ;$16,000;$9,500
+1217;Verisk Analytics;United States;$2,800 ;$713 ;$7,600;$30,100
+1218;Electric Power Development;Japan;$7,900 ;$558 ;$27,400;$3,000
+1219;Itaúsa;Brazil;$1,100 ;$1,400 ;$14,000;$15,400
+1220;Suntory Beverage & Food;Japan;$11,000 ;$489 ;$15,200;$11,000
+1221;Banco de Sabadell;Spain;$7,100 ;$2 ;$288,500;$3,100
+1222;MSCI;United States;$1,700 ;$602 ;$4,200;$39,200
+1223;Coloplast;Denmark;$2,800 ;$649 ;$2,500;$34,100
+1224;Kesko;Finland;$12,200 ;$494 ;$8,100;$12,200
+1225;ResMed;United States;$3,100 ;$699 ;$4,600;$30,200
+1226;Chugoku Electric Power;Japan;$12,100 ;$347 ;$32,800;$4,200
+1227;AGC;Japan;$13,200 ;$306 ;$24,500;$10,100
+1228;Datang International Power;China;$13,700 ;$263 ;$42,900;$2,800
+1229;Copart;United States;$2,300 ;$707 ;$3,900;$29,200
+1230;Newcrest Mining;Australia;$4,300 ;$958 ;$14,400;$17,500
+1231;Ventas;United States;$3,800 ;$439 ;$23,900;$20,800
+1232;Genuine Parts;United States;$17,000 ;$184 ;$13,400;$17,300
+1233;Korea Gas;South Korea;$17,700 ;-$146 ;$33,100;$2,600
+1234;Iida Group Holdings;Japan;$14,400 ;$640 ;$13,800;$7,400
+1235;Church & Dwight;United States;$4,900 ;$786 ;$7,400;$21,600
+1236;Microchip Technology;United States;$5,300 ;$333 ;$16,600;$42,600
+1237;Falabella;Chile;$11,500 ;-$36 ;$24,300;$12,400
+1238;Genworth Financial;United States;$8,700 ;$178 ;$89,900;$1,800
+1239;RSA Insurance Group;United Kingdom;$8,500 ;$422 ;$25,100;$9,800
+1240;VeriSign;United States;$1,300 ;$815 ;$1,800;$23,500
+1241;LEG Immobilien AG;Germany;$1,000 ;$1,600 ;$18,800;$10,200
+1242;Advanced Info Service;Thailand;$5,500 ;$877 ;$11,700;$16,000
+1243;Tongwei;China;$6,400 ;$512 ;$9,800;$21,900
+1244;Yunnan Baiyao Group;China;$4,700 ;$799 ;$8,400;$21,800
+1245;Old Dominion Freight Line;United States;$4,000 ;$673 ;$4,400;$29,400
+1246;Welltower;United States;$4,600 ;-$110 ;$32,500;$31,600
+1247;MGM Resorts;United States;$5,200 ;-$997 ;$39,100;$19,900
+1248;Empire;Canada;$21,200 ;$528 ;$11,700;$8,400
+1249;Grupo Bimbo;Mexico;$15,400 ;$422 ;$15,400;$9,400
+1250;Lens Technology;China;$5,300 ;$707 ;$12,100;$19,700
+1251;Chiba Bank;Japan;$2,000 ;$445 ;$170,700;$4,700
+1252;Powerlong Real Estate;China;$5,200 ;$887 ;$29,800;$4,500
+1253;Storebrand;Norway;$8,600 ;$249 ;$85,000;$4,700
+1254;Aroundtown;Luxembourg;$2,200 ;$743 ;$38,000;$8,900
+1255;VF;United States;$8,800 ;-$165 ;$13,700;$33,200
+1256;Sojitz;Japan;$14,900 ;$375 ;$21,300;$3,400
+1257;Singapore Airlines;Singapore;$11,600 ;-$155 ;$23,700;$12,000
+1258;Hyundai Marine & Fire;South Korea;$12,300 ;$267 ;$44,300;$1,700
+1259;Maxim Integrated Products;United States;$2,400 ;$722 ;$3,900;$25,500
+1260;KWG Group Holdings;Hong Kong;$4,300 ;$932 ;$35,500;$5,400
+1261;Mondi;United Kingdom;$7,600 ;$662 ;$10,200;$13,200
+1262;Xilinx;United States;$3,100 ;$621 ;$5,700;$31,600
+1263;CenterPoint Energy;United States;$7,400 ;-$773 ;$34,400;$13,300
+1264;HBIS;China;$15,300 ;$277 ;$32,800;$4,200
+1265;Wingtech Technology;China;$8,300 ;$426 ;$9,000;$18,400
+1266;Quanta Services;United States;$11,200 ;$446 ;$8,400;$13,200
+1267;Leonardo;Italy;$15,300 ;$275 ;$33,100;$4,900
+1268;Realty Income;United States;$1,700 ;$396 ;$20,700;$25,000
+1269;Emera;Canada;$4,000 ;$733 ;$24,500;$11,400
+1270;Avery Dennison;United States;$7,000 ;$556 ;$6,100;$16,500
+1271;Times Property Holdings;China;$5,700 ;$721 ;$29,300;$2,900
+1272;China Longyuan Power;China;$4,200 ;$680 ;$26,800;$11,200
+1273;Chipotle Mexican Grill;United States;$6,000 ;$356 ;$6,900;$43,300
+1274;Saudi British Bank;Saudi Arabia;$2,700 ;-$1,100 ;$73,700;$15,600
+1275;Ajinomoto;Japan;$10,000 ;$546 ;$13,300;$11,100
+1276;Saputo;Canada;$10,900 ;$456 ;$10,500;$13,000
+1277;KPN;Netherlands;$6,000 ;$640 ;$14,800;$13,800
+1278;SGS;Switzerland;$6,000 ;$511 ;$7,800;$22,000
+1279;Logitech International;Switzerland;$4,400 ;$925 ;$3,800;$19,100
+1280;Martin Marietta Materials;United States;$4,700 ;$720 ;$10,900;$21,900
+1281;Mizrahi Tefahot Bank;Israel;$3,100 ;$468 ;$112,200;$6,900
+1282;Advance Auto Parts;United States;$10,100 ;$493 ;$11,800;$12,600
+1283;SS&C Technologies;United States;$4,700 ;$625 ;$15,900;$18,600
+1284;SYNNEX;United States;$24,400 ;$489 ;$7,700;$6,400
+1285;Sichuan Language Development;China;$6,400 ;$480 ;$39,300;$1,900
+1286;NARI Technology Development;China;$5,000 ;$677 ;$9,000;$21,200
+1287;Evergreen Marine Corp. (Taiwan);Taiwan;$7,000 ;$828 ;$11,900;$11,700
+1288;Hyundai Steel;South Korea;$15,300 ;-$365 ;$32,100;$5,800
+1289;FleetCor Technologies;United States;$2,400 ;$704 ;$11,200;$24,300
+1290;Teradyne;United States;$3,100 ;$784 ;$3,700;$21,600
+1291;Melrose Industries;United Kingdom;$11,200 ;-$677 ;$22,800;$12,000
+1292;Solvay;Belgium;$11,100 ;-$1,300 ;$20,500;$13,000
+1293;Wuxi Apptec;China;$2,400 ;$425 ;$7,100;$63,500
+1294;Mettler-Toledo International;United States;$3,100 ;$603 ;$2,800;$29,900
+1295;People's United Bank;United States;$2,200 ;$573 ;$63,100;$7,600
+1296;Vedanta Limited;India;$10,700 ;-$994 ;$24,700;$11,600
+1297;CapitaLand;Singapore;$4,900 ;-$1,100 ;$63,800;$14,600
+1298;Jeronimo Martins;Portugal;$22,000 ;$356 ;$11,500;$10,800
+1299;Molson Coors Brewing;United States;$9,700 ;-$949 ;$27,300;$11,600
+1300;Genmab;Denmark;$1,500 ;$728 ;$3,500;$23,000
+1301;Aristocrat Leisure;Australia;$2,800 ;$933 ;$5,600;$18,300
+1302;Banque Saudi Fransi;Saudi Arabia;$2,300 ;$412 ;$51,700;$11,400
+1303;SBI Holdings;Japan;$4,100 ;$570 ;$62,600;$7,200
+1304;Air France-KLM;France;$12,600 ;-$8,100 ;$37,000;$2,600
+1305;Bank of Guizhou;China;$3,100 ;$531 ;$69,800;$4,900
+1306;Keysight Technologies;United States;$4,300 ;$636 ;$7,500;$27,100
+1307;Yamato Holdings;Japan;$15,600 ;$448 ;$11,000;$10,100
+1308;Vietin Bank;Vietnam;$4,200 ;$589 ;$58,100;$6,800
+1309;West Japan Railway;Japan;$9,400 ;-$1,800 ;$34,100;$10,300
+1310;Chongqing Zhifei Biological Products;China;$2,200 ;$478 ;$2,300;$43,000
+1311;Bandai Namco Holdings;Japan;$6,900 ;$519 ;$7,000;$17,000
+1312;Epiroc;Sweden;$3,900 ;$587 ;$5,300;$29,600
+1313;Umicore;Belgium;$23,600 ;$149 ;$10,300;$13,700
+1314;Compal Electronics;Taiwan;$35,600 ;$318 ;$16,600;$4,200
+1315;Geberit;Switzerland;$3,200 ;$684 ;$4,200;$23,800
+1316;Old Mutual;South Africa;$8,900 ;-$310 ;$63,000;$4,400
+1317;Enstar Group;Bermuda;$1,400 ;$1,800 ;$21,600;$5,700
+1318;Far East Horizon;Hong Kong;$4,400 ;$664 ;$45,900;$4,700
+1319;Williams-Sonoma;United States;$6,800 ;$681 ;$4,700;$13,300
+1320;Greentown China Holdings;China;$9,600 ;$167 ;$53,100;$3,100
+1321;Wuestenrot & Wuerttembergische;Germany;$7,500 ;$239 ;$93,200;$2,100
+1322;B3;Brazil;$1,600 ;$805 ;$9,200;$19,900
+1323;Shionogi;Japan;$2,900 ;$1,100 ;$9,200;$16,100
+1324;DexCom;United States;$1,900 ;$494 ;$4,400;$38,700
+1325;Lithia Motors;United States;$13,100 ;$470 ;$8,100;$10,400
+1326;China Overseas Grand Oceans Group;Hong Kong;$6,300 ;$635 ;$25,600;$2,200
+1327;Cellnex Telecom;Spain;$1,800 ;-$152 ;$29,500;$28,500
+1328;Taishin Financial Holdings;Taiwan;$2,000 ;$492 ;$78,200;$5,300
+1329;Tingyi Holding;China;$9,800 ;$587 ;$9,400;$10,500
+1330;China Grand Automotive Services;China;$22,900 ;$187 ;$22,500;$3,900
+1331;Concordia Financial Group;Japan;$2,700 ;$386 ;$200,700;$4,700
+1332;Shengjing Bank;China;$6,500 ;$163 ;$158,800;$7,800
+1333;Xiamen International Trade Group;China;$40,000 ;$248 ;$18,600;$2,000
+1334;AntarChile;Chile;$18,000 ;$125 ;$25,600;$5,700
+1335;Las Vegas Sands;United States;$3,600 ;-$1,700 ;$20,800;$46,600
+1336;Magnit;Russia;$21,500 ;$456 ;$13,000;$6,900
+1337;China Communications Services;China;$17,800 ;$446 ;$14,400;$3,200
+1338;HNA Technology;China;$45,800 ;$101 ;$17,800;$929
+1339;Jabil Circuit;United States;$28,300 ;$369 ;$14,500;$8,100
+1340;Sasol;South Africa;$11,100 ;-$4,900 ;$27,100;$10,100
+1341;Seagen;United States;$2,200 ;$614 ;$4,000;$26,400
+1342;Iliad;France;$6,700 ;$494 ;$19,200;$11,100
+1343;Jones Lang LaSalle;United States;$16,700 ;$403 ;$14,300;$9,200
+1344;Marfrig Global Foods;Brazil;$13,100 ;$640 ;$7,600;$2,400
+1345;Olympus;Japan;$6,800 ;$363 ;$10,700;$27,300
+1346;Banca Mediolanum;Italy;$2,700 ;$495 ;$72,100;$6,900
+1347;RenaissanceRe Holdings;Bermuda;$5,200 ;$752 ;$27,200;$8,500
+1348;Zalando;Germany;$9,100 ;$258 ;$7,900;$28,400
+1349;3i Group;United Kingdom;$157 ;$903 ;$12,800;$16,700
+1350;Arista Networks;United States;$2,300 ;$635 ;$4,700;$24,200
+1351;Steel Dynamics;United States;$9,600 ;$551 ;$9,300;$10,900
+1352;Inpex;Japan;$7,200 ;-$1,000 ;$44,900;$10,400
+1353;Community Health Systems;United States;$11,800 ;$511 ;$16,000;$1,300
+1354;SLM;United States;$2,300 ;$881 ;$30,800;$7,000
+1355;Olam International;Singapore;$26,000 ;$137 ;$20,200;$4,100
+1356;Textron;United States;$11,700 ;$309 ;$15,400;$13,300
+1357;Vulcan Materials;United States;$4,900 ;$585 ;$11,900;$23,300
+1358;Popular;United States;$2,600 ;$507 ;$65,900;$6,100
+1359;Transurban Group;Australia;$1,900 ;-$495 ;$26,900;$29,400
+1360;China Resources Gas Group;Hong Kong;$7,200 ;$664 ;$12,100;$12,000
+1361;Lotte Shopping;South Korea;$13,700 ;-$664 ;$30,200;$3,100
+1362;Zhejiang Zheneng Electric Power;China;$7,300 ;$838 ;$16,300;$7,800
+1363;ZTO Express (Cayman);China;$3,700 ;$627 ;$9,100;$24,100
+1364;Meiji Holdings;Japan;$11,300 ;$602 ;$10,600;$9,200
+1365;Interpublic Group;United States;$9,100 ;$351 ;$18,000;$12,000
+1366;Shiseido;Japan;$8,600 ;-$109 ;$11,700;$29,400
+1367;Quinenco;Chile;$6,600 ;$313 ;$74,400;$3,800
+1368;Shizuoka Bank;Japan;$2,000 ;$391 ;$134,400;$4,500
+1369;Alinma Bank;Saudi Arabia;$1,800 ;$524 ;$41,800;$9,400
+1370;All Nippon Airways;Japan;$8,600 ;-$3,500 ;$31,900;$10,600
+1371;Doosan;South Korea;$14,400 ;-$474 ;$27,700;$790
+1372;Bank of Ireland;Ireland;$6,100 ;-$846 ;$163,700;$5,600
+1373;Fastighets Balder;Sweden;$884 ;$722 ;$22,000;$10,800
+1374;ICA Gruppen;Sweden;$13,700 ;$451 ;$12,700;$9,700
+1375;NEXON;Japan;$2,700 ;$527 ;$8,400;$29,600
+1376;Arab National Bank;Saudi Arabia;$1,800 ;$553 ;$48,100;$8,500
+1377;GAIL India;India;$8,000 ;$1,100 ;$10,300;$8,300
+1378;BNK Financial Group;South Korea;$3,800 ;$412 ;$105,100;$1,900
+1379;DXC Technology;United States;$18,200 ;-$2,800 ;$23,600;$8,100
+1380;Valeo;France;$18,700 ;-$1,200 ;$23,100;$8,100
+1381;Alliant Energy;United States;$3,400 ;$625 ;$18,300;$14,000
+1382;Kansas City Southern;United States;$2,600 ;$618 ;$10,200;$23,400
+1383;NetApp;United States;$5,600 ;$592 ;$8,700;$17,300
+1384;Annaly Capital Management;United States;$1,500 ;-$891 ;$88,500;$12,400
+1385;Sofina;Belgium;$97 ;$1,600 ;$11,100;$12,400
+1386;Shanghai Commercial & Savings Bank;Taiwan;$1,800 ;$457 ;$75,200;$6,700
+1387;Chongqing Changan Auto;China;$11,200 ;$497 ;$16,400;$4,500
+1388;Fortinet;United States;$2,600 ;$486 ;$4,000;$33,600
+1389;Hengyi Petrochemical;China;$11,200 ;$577 ;$14,400;$7,300
+1390;Mitsui OSK Lines;Japan;$9,600 ;$455 ;$19,900;$4,200
+1391;Caesars Entertainment;United States;$3,500 ;-$1,800 ;$36,400;$19,500
+1392;Bank of India;India;$6,600 ;-$216 ;$98,600;$3,100
+1393;Goertek;China;$8,300 ;$413 ;$7,500;$15,300
+1394;Masraf Al Rayan;Qatar;$1,100 ;$598 ;$33,300;$9,300
+1395;E-mart;South Korea;$18,700 ;$289 ;$20,600;$4,100
+1396;Sanlam;South Africa;$7,800 ;$174 ;$63,200;$8,200
+1397;Hyundai Heavy Industries Holdings;South Korea;$16,300 ;-$516 ;$24,400;$3,700
+1398;Royal Caribbean Group;United States;$2,200 ;-$5,800 ;$32,500;$21,700
+1399;SKF Group;Sweden;$8,100 ;$467 ;$11,000;$13,800
+1400;Kobe Steel;Japan;$15,800 ;-$669 ;$24,600;$2,500
+1401;RHB Bank;Malaysia;$2,600 ;$471 ;$67,400;$5,200
+1402;Check Point Software;Israel;$2,100 ;$847 ;$5,800;$16,300
+1403;Shopify;Canada;$2,900 ;$320 ;$7,800;$149,600
+1404;Hong Leong Financial;Malaysia;$2,000 ;$471 ;$65,500;$4,600
+1405;New York Community Bancorp;United States;$1,800 ;$505 ;$56,400;$5,800
+1406;Shimano;Japan;$3,500 ;$595 ;$5,700;$23,000
+1407;International Flavors & Fragrances;United States;$5,100 ;$364 ;$13,600;$35,600
+1408;Celltrion;South Korea;$1,600 ;$433 ;$4,600;$37,700
+1409;Navient;United States;$3,700 ;$411 ;$87,400;$2,700
+1410;Bausch Health Companies;Canada;$8,000 ;-$560 ;$31,200;$10,700
+1411;Bank of Zhengzhou;China;$3,900 ;$425 ;$78,600;$2,900
+1412;Acciona;Spain;$7,400 ;$434 ;$22,400;$9,200
+1413;Lixil Group;Japan;$12,500 ;$388 ;$17,600;$8,400
+1414;Teleperformance;France;$6,500 ;$369 ;$8,600;$23,400
+1415;Guangdong Haid Group;China;$8,800 ;$323 ;$4,200;$19,100
+1416;Trip.com Group;China;$2,700 ;-$470 ;$28,600;$23,100
+1417;NH Investment & Securities;South Korea;$2,000 ;$489 ;$57,800;$3,200
+1418;Chewy;United States;$7,100 ;-$93 ;$1,700;$34,900
+1419;Centrica;United Kingdom;$15,700 ;$65 ;$23,400;$4,500
+1420;Credicorp;Peru;$5,200 ;$92 ;$65,800;$11,200
+1421;NRG Energy;United States;$8,900 ;$510 ;$14,900;$9,500
+1422;Shanxi Xinghuacun Fen Wine Factory;China;$1,600 ;$386 ;$2,600;$46,600
+1423;Zebra Technologies;United States;$4,500 ;$504 ;$5,400;$27,500
+1424;SinoPac Financial;Taiwan;$1,800 ;$416 ;$76,300;$5,200
+1425;Booz Allen Hamilton Holding;United States;$7,800 ;$547 ;$5,400;$11,700
+1426;Hyundai Glovis;South Korea;$14,000 ;$514 ;$10,000;$6,200
+1427;Chow Tai Fook Jewellery;Hong Kong;$6,700 ;$463 ;$8,600;$16,200
+1428;Medipal Holdings;Japan;$30,000 ;$250 ;$16,900;$4,200
+1429;Wharf Real Estate;Hong Kong;$2,000 ;-$1,200 ;$35,800;$18,000
+1430;First Citizens Bank;United States;$2,000 ;$492 ;$50,000;$8,400
+1431;AVIC Capita;China;$3,000 ;$474 ;$58,000;$5,300
+1432;KION Group;Germany;$9,500 ;$244 ;$18,400;$13,000
+1433;China Everbright International;Hong Kong;$5,500 ;$776 ;$20,400;$4,000
+1434;Bank of East Asia;Hong Kong;$3,500 ;$364 ;$114,100;$6,300
+1435;Bankinter;Spain;$2,500 ;$362 ;$117,800;$6,200
+1436;BCI-Banco Credito;Chile;$3,500 ;$401 ;$80,400;$8,300
+1437;Adecco;Switzerland;$22,300 ;-$109 ;$12,000;$11,400
+1438;Zhongtai Securities;China;$1,500 ;$394 ;$26,700;$14,000
+1439;Teck Resources;Canada;$6,700 ;-$644 ;$32,400;$11,800
+1440;Fortune Brands Home & Security;United States;$6,100 ;$553 ;$7,400;$14,300
+1441;Wistron;Taiwan;$28,700 ;$295 ;$15,300;$3,300
+1442;Ronshine China Holdings;China;$7,100 ;$353 ;$35,700;$1,200
+1443;Ternium;Luxembourg;$8,600 ;$768 ;$12,900;$7,800
+1444;China Eastern Airlines;China;$8,500 ;-$1,700 ;$43,500;$7,700
+1445;LARGAN Precision;Taiwan;$1,900 ;$833 ;$6,100;$14,900
+1446;Ansys;United States;$1,700 ;$434 ;$5,900;$32,600
+1447;Huntington Ingalls Industries;United States;$9,400 ;$696 ;$8,700;$8,400
+1448;Quilter;United Kingdom;$6,000 ;$114 ;$92,100;$3,900
+1449;Top Glove;Malaysia;$3,600 ;$1,600 ;$3,100;$10,800
+1450;CSN;Brazil;$5,800 ;$736 ;$12,100;$11,800
+1451;Constellation Software;Canada;$4,000 ;$434 ;$4,400;$32,200
+1452;Veeva Systems;United States;$1,500 ;$380 ;$3,000;$41,600
+1453;BioMarin Pharmaceutical;United States;$1,800 ;$859 ;$5,800;$14,400
+1454;Huafa Industrial;China;$5,600 ;$401 ;$43,700;$2,100
+1455;Korea Shipbuilding & Offshore Engineering;South Korea;$12,700 ;-$707 ;$23,200;$8,700
+1456;Nitto Denko;Japan;$6,900 ;$558 ;$8,900;$12,200
+1457;Banco BPM;Italy;$5,100 ;$151 ;$224,700;$4,300
+1458;Boliden;Sweden;$6,100 ;$739 ;$8,800;$11,000
+1459;Halyk Bank;Kazakhstan;$2,500 ;$852 ;$24,700;$4,300
+1460;Old Republic International;United States;$7,200 ;$559 ;$18,800;$7,200
+1461;Samsung Electro-Mechanics;South Korea;$7,000 ;$512 ;$8,500;$13,100
+1462;Ningxia Baofeng Energy Group;China;$2,300 ;$670 ;$5,800;$17,600
+1463;Oji Holdings;Japan;$12,900 ;$346 ;$18,400;$6,500
+1464;Samsung SDS;South Korea;$9,300 ;$376 ;$8,400;$13,300
+1465;Nine Dragons Paper Holdings;Hong Kong;$7,800 ;$859 ;$12,800;$6,900
+1466;WEG;Brazil;$3,400 ;$454 ;$3,800;$28,800
+1467;Atmos Energy;United States;$2,900 ;$640 ;$16,500;$13,000
+1468;Kiwoom Securities;South Korea;$1,500 ;$596 ;$34,600;$3,300
+1469;Macy's;United States;$18,100 ;-$3,900 ;$19,100;$5,200
+1470;Coinbase;United States;$1,300 ;$322 ;$5,900;$68,100
+1471;Nomura Research Institute;Japan;$5,100 ;$548 ;$5,300;$17,700
+1472;SDIC Capital;China;$2,500 ;$601 ;$33,400;$8,400
+1473;Equifax;United States;$4,100 ;$507 ;$9,600;$23,400
+1474;StoneX Group;United States;$52,100 ;$169 ;$14,000;$1,300
+1475;STRABAG;Austria;$16,600 ;$398 ;$13,400;$3,800
+1476;Industries Qatar;Qatar;$2,000 ;$542 ;$9,900;$21,300
+1477;Samsung Securities;South Korea;$1,400 ;$430 ;$58,800;$3,300
+1478;Dentsu;Japan;$8,800 ;-$1,500 ;$32,700;$8,900
+1479;Alleghany;United States;$8,900 ;$102 ;$28,100;$9,500
+1480;Gap;United States;$13,800 ;-$665 ;$13,800;$12,300
+1481;AutoNation;United States;$20,400 ;$382 ;$10,100;$8,000
+1482;LG Uplus;South Korea;$11,400 ;$396 ;$16,900;$5,100
+1483;Saudi Arabian Mining;Saudi Arabia;$5,000 ;-$56 ;$25,800;$18,700
+1484;Essex Property Trust;United States;$1,500 ;$569 ;$12,900;$18,800
+1485;Bank of Jinzhou;China;$5,400 ;$58 ;$119,000;$3,800
+1486;Expedia Group;United States;$5,200 ;-$2,600 ;$18,700;$25,000
+1487;AGCO;United States;$9,200 ;$427 ;$8,500;$11,400
+1488;Persimmon;United Kingdom;$4,300 ;$819 ;$6,300;$14,100
+1489;Adani Ports & Special Economic Zone;India;$1,600 ;$545 ;$9,700;$20,600
+1490;Nedbank;South Africa;$5,900 ;$222 ;$83,600;$5,100
+1491;China Development Bank Financial Leasing;China;$2,700 ;$476 ;$46,400;$1,900
+1492;Lanxess;Germany;$7,000 ;$1,000 ;$11,200;$6,500
+1493;Sonic Healthcare;Australia;$5,400 ;$655 ;$9,000;$13,200
+1494;CSPC Pharmaceutical Group;Hong Kong;$3,600 ;$749 ;$4,600;$14,800
+1495;OneMain Holdings;United States;$4,900 ;$730 ;$22,500;$7,500
+1496;Latour Ab Investment;Sweden;$1,600 ;$578 ;$5,100;$18,900
+1497;News Corp;United States;$8,700 ;-$862 ;$15,100;$15,800
+1498;Qingdao Rural Commercial Bank;China;$2,400 ;$420 ;$57,600;$3,700
+1499;BJ's Wholesale Club;United States;$15,400 ;$421 ;$5,400;$6,200
+1500;PerkinElmer;United States;$3,800 ;$728 ;$8,000;$14,900
+1501;Electrolux Group;Sweden;$12,600 ;$457 ;$12,100;$8,500
+1502;Bancolombia;Colombia;$6,000 ;$75 ;$74,700;$8,100
+1503;Changchun High & New Technology;China;$1,200 ;$441 ;$2,600;$27,000
+1504;Xiamen Xiangyu;China;$52,100 ;$188 ;$13,400;$2,200
+1505;China Industrial Securities;China;$3,000 ;$580 ;$27,700;$8,900
+1506;Colruyt;Belgium;$11,000 ;$540 ;$5,900;$7,800
+1507;Link REIT;Hong Kong;$1,400 ;-$3,600 ;$26,200;$20,100
+1508;GS Holdings;South Korea;$13,000 ;-$206 ;$22,500;$3,500
+1509;Lear;United States;$17,000 ;$159 ;$13,200;$11,000
+1510;Xinyi Glass Holdings;Hong Kong;$2,400 ;$828 ;$5,800;$13,500
+1511;DCC;United States;$17,000 ;$365 ;$9,900;$8,800
+1512;Standard Life;United Kingdom;$2,200 ;$1,100 ;$14,300;$10,300
+1513;Wharf (Holdings);Hong Kong;$2,700 ;$498 ;$32,800;$9,000
+1514;Indian Railway Finance;India;$2,000 ;$524 ;$36,500;$3,800
+1515;Aurubis;Germany;$15,300 ;$414 ;$7,300;$3,900
+1516;Ceconomy;Germany;$24,500 ;-$284 ;$15,700;$2,100
+1517;Lundbergs;Sweden;$2,000 ;$390 ;$21,900;$14,500
+1518;FinecoBank;Italy;$1,300 ;$369 ;$38,900;$10,500
+1519;Coca-Cola HBC;Switzerland;$7,000 ;$476 ;$9,300;$12,600
+1520;Cosmo Energy Holdings;Japan;$21,300 ;-$295 ;$16,200;$1,900
+1521;Smoore International Holdings;Hong Kong;$1,500 ;$354 ;$2,300;$39,400
+1522;Kawasaki Heavy Industries;Japan;$14,400 ;-$1 ;$19,800;$4,100
+1523;Yamada Denki;Japan;$15,700 ;$398 ;$12,800;$4,300
+1524;Commercial International Bank;Egypt;$3,000 ;$647 ;$27,200;$5,100
+1525;ServiceNow;United States;$4,500 ;$119 ;$8,700;$109,200
+1526;Broadridge Financial;United States;$4,800 ;$519 ;$4,900;$18,200
+1527;Mebuki Financial Group;Japan;$2,100 ;$285 ;$221,700;$2,600
+1528;Suzano Papel e Celulose;Brazil;$5,900 ;-$2,100 ;$19,600;$17,100
+1529;AirBnB;United States;$3,400 ;-$4,600 ;$10,500;$107,100
+1530;Kerry Properties;Hong Kong;$2,000 ;$697 ;$25,200;$4,700
+1531;Qorvo;United States;$3,700 ;$485 ;$7,000;$21,800
+1532;Hotai Motor;Taiwan;$7,800 ;$470 ;$10,300;$11,400
+1533;Inner Mongolia Baotou Steel;China;$8,400 ;-$51 ;$21,000;$11,000
+1534;China Shipbuilding Industry;China;$5,500 ;-$119 ;$25,700;$14,700
+1535;Jointown Pharmaceutical Group;China;$15,200 ;$407 ;$11,600;$5,000
+1536;Asian Paints;India;$2,700 ;$371 ;$2,400;$34,400
+1537;Hua Nan Financial;Taiwan;$2,300 ;$294 ;$110,400;$8,700
+1538;Chailease Holding;Taiwan;$2,000 ;$573 ;$21,100;$10,200
+1539;Prosperity Bancshares;United States;$1,300 ;$529 ;$34,100;$7,100
+1540;FAW Jiefang Group;China;$16,400 ;$387 ;$9,800;$8,000
+1541;Hilton;United States;$4,300 ;-$715 ;$16,800;$35,700
+1542;Fukuoka Financial Group;Japan;$2,600 ;$5 ;$263,300;$3,400
+1543;Kohl's;United States;$16,000 ;-$163 ;$15,300;$9,400
+1544;Snap;United States;$2,500 ;-$945 ;$5,000;$92,400
+1545;Shenzhen Transsion Holding;China;$5,500 ;$380 ;$4,000;$21,300
+1546;UGI;United States;$6,500 ;$623 ;$14,700;$9,200
+1547;Banque Cantonale Vaudoise;Switzerland;$1,100 ;$352 ;$60,200;$8,900
+1548;Packaging Corp of America;United States;$6,700 ;$457 ;$7,700;$13,300
+1549;BOK Financial;United States;$1,900 ;$433 ;$46,700;$6,400
+1550;Teladoc Health;United States;$1,100 ;-$485 ;$18,300;$29,300
+1551;Indian Bank;India;$5,600 ;$156 ;$79,500;$1,600
+1552;Country Garden Services Holdings;China;$2,300 ;$389 ;$4,800;$29,600
+1553;Ricoh;Japan;$16,000 ;-$229 ;$17,900;$7,900
+1554;Attijariwafa Bank;Morocco;$4,200 ;$318 ;$63,800;$9,400
+1555;Migdal Insurance;Israel;$6,400 ;$103 ;$56,300;$1,300
+1556;Mitsui Chemicals;Japan;$11,200 ;$410 ;$14,800;$6,400
+1557;Take-Two Interactive Software;United States;$3,300 ;$493 ;$6,000;$20,600
+1558;Beijing Oriental Yuhong Waterproof Technology;China;$3,100 ;$492 ;$4,300;$20,500
+1559;Henry Schein;United States;$10,100 ;$402 ;$7,800;$10,100
+1560;Meritz Securities;South Korea;$1,800 ;$464 ;$40,500;$2,600
+1561;Alfresa Holdings;Japan;$24,600 ;$294 ;$13,800;$4,000
+1562;Minebea;Japan;$9,000 ;$410 ;$9,200;$10,800
+1563;MercadoLibre;Argentina;$4,000 ;-$1 ;$6,500;$79,400
+1564;Wm Morrison Supermarkets;United Kingdom;$22,600 ;$124 ;$15,200;$6,000
+1565;Akamai Technologies;United States;$3,200 ;$557 ;$7,800;$17,300
+1566;Safaricom;Kenya;$2,500 ;$683 ;$2,100;$14,300
+1567;Waters;United States;$2,400 ;$522 ;$2,800;$18,600
+1568;Waste Connections;Canada;$5,400 ;$193 ;$14,100;$30,600
+1569;Healthpeak Properties;United States;$2,200 ;$411 ;$15,900;$17,900
+1570;Power Assets Holdings;Hong Kong;$164 ;$791 ;$12,100;$12,900
+1571;Banca MPS;Italy;$4,600 ;-$1,900 ;$184,100;$1,400
+1572;EMS-Chemie Holding;Switzerland;$1,900 ;$463 ;$2,400;$21,400
+1573;Wheaton Precious Metals;Canada;$1,100 ;$506 ;$6,000;$19,100
+1574;Nippon Express;Japan;$18,800 ;$283 ;$15,700;$7,000
+1575;Adyen;Netherlands;$4,200 ;$275 ;$5,100;$73,500
+1576;Commercial Bank For Investment & Development Of Vietnam;Vietnam;$5,200 ;$305 ;$65,700;$7,300
+1577;Mercuries & Associates;Taiwan;$6,600 ;$48 ;$48,600;$661
+1578;Technipfmc;United Kingdom;$13,100 ;-$3,300 ;$19,700;$3,300
+1579;M3;Japan;$1,500 ;$298 ;$2,400;$52,400
+1580;Mitsubishi Materials;Japan;$13,800 ;-$673 ;$18,900;$3,000
+1581;PGE Polska Grupa Energetyczna;Poland;$11,700 ;$28 ;$21,900;$4,200
+1582;First Quantum Minerals;Canada;$5,200 ;-$186 ;$24,200;$15,700
+1583;Twitter;United States;$3,700 ;-$1,100 ;$13,400;$56,000
+1584;Flagstar Bancorp;United States;$2,000 ;$538 ;$31,100;$2,300
+1585;Sparebanken Nord-Norge;Norway;$481 ;$2,000 ;$13,700;$1,000
+1586;Steel Authority of India;India;$8,400 ;$449 ;$16,600;$5,100
+1587;Aena;Spain;$2,500 ;-$145 ;$19,200;$24,900
+1588;Beijing Shougang;China;$11,500 ;$209 ;$22,100;$4,200
+1589;Starwood Property Trust;United States;$1,100 ;$326 ;$80,900;$7,300
+1590;Moderna;United States;$803 ;-$747 ;$7,300;$68,400
+1591;Moscow Exchange;Russia;$699 ;$348 ;$66,700;$5,200
+1592;Dick's Sporting Goods;United States;$9,600 ;$530 ;$7,800;$7,500
+1593;Snowflake;United States;$592 ;-$539 ;$5,900;$67,200
+1594;Ubiquiti;United States;$1,600 ;$513 ;$781;$18,000
+1595;China SCE Group Holdings;China;$4,800 ;$550 ;$26,100;$1,900
+1596;Synovus Financial;United States;$2,300 ;$374 ;$54,600;$7,000
+1597;Hokuhoku Financial Group;Japan;$1,600 ;$193 ;$156,500;$1,200
+1598;Amerco;United States;$4,300 ;$659 ;$14,400;$12,000
+1599;Twilio;United States;$1,800 ;-$491 ;$9,500;$65,700
+1600;AB Sagax;Sweden;$320 ;$403 ;$5,700;$24,500
+1601;Commerce Bank;United States;$1,400 ;$430 ;$33,300;$9,000
+1602;Gerdau (Cosigua);Brazil;$8,500 ;$459 ;$12,200;$9,800
+1603;AGNC Investment;United States;$341 ;-$266 ;$81,800;$9,300
+1604;Grupo Inbursa;Mexico;$3,200 ;$589 ;$26,200;$6,300
+1605;Magnitogorsk Iron & Steel;Russia;$6,400 ;$612 ;$7,600;$10,100
+1606;Shinsun Holdings (Group);China;$6,800 ;$383 ;$24,400;$2,500
+1607;Galp Energia;Portugal;$13,000 ;-$628 ;$15,300;$9,700
+1608;Mitsubishi Motors;Japan;$14,600 ;-$2,400 ;$17,300;$4,300
+1609;Workday;United States;$4,300 ;-$282 ;$8,700;$62,300
+1610;Woodside Petroleum;Australia;$3,600 ;-$4,200 ;$24,600;$17,900
+1611;Advantest;Japan;$2,700 ;$481 ;$3,500;$19,000
+1612;AIB Group;Ireland;$3,200 ;-$914 ;$135,100;$7,600
+1613;Atlassian;Australia;$1,800 ;-$1,200 ;$3,600;$58,700
+1614;MOL Hungarian Oil;Hungary;$13,000 ;-$52 ;$18,600;$4,400
+1615;Xinyi Solar Holdings;China;$1,600 ;$588 ;$5,600;$15,000
+1616;Extra Space Storage;United States;$1,300 ;$473 ;$9,400;$19,100
+1617;Hansoh Pharmaceutical Group;China;$1,300 ;$373 ;$3,200;$27,300
+1618;ENN Natural Gas;China;$12,700 ;$305 ;$16,700;$7,500
+1619;Bank of Suzhou;China;$2,600 ;$359 ;$56,800;$3,700
+1620;Bajaj Auto;India;$3,500 ;$629 ;$4,000;$14,200
+1621;Kinross Gold;Canada;$4,200 ;$1,300 ;$10,900;$9,500
+1622;XCMG Construction Machinery;China;$9,600 ;$433 ;$12,900;$9,000
+1623;First American Financial;United States;$7,100 ;$696 ;$12,800;$6,800
+1624;Wuxi Biologics;China;$818 ;$245 ;$4,400;$56,400
+1625;Bombardier;Canada;$10,200 ;-$867 ;$23,100;$1,700
+1626;Rajesh Exports;India;$32,600 ;$111 ;$4,100;$2,000
+1627;Polymetal International;Cyprus;$2,900 ;$1,100 ;$4,400;$10,200
+1628;Bank of Qingdao;China;$2,800 ;$334 ;$65,500;$2,900
+1629;Ahli United Bank;Bahrain;$1,700 ;$419 ;$40,100;$7,200
+1630;Zhenro Properties Group;China;$5,300 ;$387 ;$33,900;$3,000
+1631;Admiral Group;United Kingdom;$1,700 ;$678 ;$7,900;$13,100
+1632;ONO Pharmaceutical;Japan;$2,800 ;$697 ;$7,000;$12,900
+1633;Citrix Systems;United States;$3,200 ;$504 ;$4,900;$17,300
+1634;New Oriental Education & Technology Group;China;$3,600 ;$380 ;$9,500;$25,200
+1635;Evolution Gaming Group AB;Sweden;$638 ;$324 ;$3,900;$35,500
+1636;OMRON;Japan;$6,100 ;$363 ;$7,400;$16,500
+1637;Taiwan Cement;Taiwan;$3,900 ;$852 ;$13,900;$10,200
+1638;China Merchants Port Holdings;Hong Kong;$1,200 ;$664 ;$21,900;$6,000
+1639;Nishi-nippon Financial Holdings;Japan;$1,300 ;$209 ;$121,900;$967
+1640;RMB Holdings;South Africa;$2 ;$2,000 ;$330;$191
+1641;BPER Banca;Italy;$3,600 ;$280 ;$113,900;$3,200
+1642;Tech Mahindra;India;$5,100 ;$560 ;$5,200;$13,200
+1643;Schaeffler;Germany;$14,400 ;-$483 ;$16,900;$6,600
+1644;Tokyu Fudosan;Japan;$8,900 ;$267 ;$26,000;$4,100
+1645;Grupo Elektra;Mexico;$5,800 ;-$89 ;$18,600;$15,700
+1646;Radiance Holdings (Group);China;$5,100 ;$453 ;$28,400;$2,400
+1647;Virgin Money UK;United Kingdom;$3,000 ;-$280 ;$116,700;$3,900
+1648;Kyushu Financial Group;Japan;$1,700 ;$159 ;$116,500;$1,800
+1649;Xinjiang Goldwind Science & Technology;China;$8,200 ;$413 ;$16,700;$7,500
+1650;Vingroup;Vietnam;$4,700 ;$213 ;$18,300;$21,000
+1651;Hachijuni Bank;Japan;$1,300 ;$173 ;$112,300;$1,700
+1652;NCSOFT;South Korea;$2,000 ;$498 ;$3,800;$16,800
+1653;Jiangxi Zhengbang Technology;China;$5,600 ;$1,000 ;$7,500;$6,400
+1654;North Pacific Bank;Japan;$1,300 ;$88 ;$111,800;$1,000
+1655;Pembina Pipeline;Canada;$4,600 ;-$236 ;$24,700;$16,200
+1656;Pinnacle West;United States;$3,600 ;$551 ;$20,000;$9,600
+1657;Sinotrans Ltd.;China;$12,200 ;$399 ;$9,600;$3,200
+1658;Jyske Bank;Denmark;$1,900 ;$220 ;$110,600;$3,500
+1659;Bawag Group;Austria;$1,700 ;$324 ;$65,000;$4,700
+1660;FMC;United States;$4,600 ;$550 ;$10,200;$14,700
+1661;Kingspan Group PLC;Ireland;$5,200 ;$426 ;$6,500;$16,200
+1662;Pinterest;United States;$1,700 ;-$128 ;$2,600;$48,900
+1663;Orient Securities;China;$2,600 ;$381 ;$44,500;$4,500
+1664;Yamaguchi Financial;Japan;$1,500 ;$211 ;$109,100;$1,600
+1665;Bank of Kyoto;Japan;$1,000 ;$184 ;$107,900;$4,400
+1666;Hyundai Engineering;South Korea;$14,400 ;$104 ;$16,500;$4,700
+1667;US Foods;United States;$22,900 ;-$226 ;$12,400;$8,600
+1668;Bank of Xi'an;China;$2,000 ;$379 ;$44,500;$3,400
+1669;Roku;United States;$1,800 ;-$18 ;$2,300;$48,400
+1670;Red Eléctrica;Spain;$2,300 ;$708 ;$15,800;$9,700
+1671;CrowdStrike;United States;$874 ;-$93 ;$2,700;$48,200
+1672;Tokyu;Japan;$9,200 ;-$283 ;$24,400;$7,900
+1673;United Natural Foods;United States;$27,000 ;$198 ;$7,500;$2,000
+1674;DoorDash;United States;$2,900 ;-$461 ;$6,400;$48,100
+1675;Ooredoo Q.P.S.C;Qatar;$7,900 ;$309 ;$24,100;$6,300
+1676;Banco Comercial Portugues;Portugal;$3,300 ;$166 ;$105,600;$2,100
+1677;China Nuclear Engineering Corporation;China;$10,300 ;$181 ;$21,200;$3,400
+1678;Cannae Holdings;United States;$586 ;$1,800 ;$4,600;$3,800
+1679;Etsy;United States;$1,700 ;$349 ;$2,400;$27,700
+1680;Hess;United States;$4,200 ;-$3,100 ;$18,800;$21,300
+1681;Performance Food Group;United States;$26,700 ;-$175 ;$7,700;$7,700
+1682;Hirogin Holdings;Japan;$1,100 ;$223 ;$103,500;$1,800
+1683;Shanghai Yuyuan Tourist Mart;China;$6,100 ;$523 ;$17,200;$7,300
+1684;Valley Natl Bancorp;United States;$1,600 ;$391 ;$40,800;$5,700
+1685;Oriental Land;Japan;$2,000 ;-$351 ;$10,400;$47,000
+1686;Shinsei Bank;Japan;$2,700 ;$250 ;$101,900;$3,300
+1687;Covivio;France;$1,200 ;$410 ;$33,600;$8,600
+1688;Voestalpine;Austria;$12,700 ;-$232 ;$17,500;$8,000
+1689;Israel Discount Bank;Israel;$3,600 ;$284 ;$91,600;$5,000
+1690;Makita;Japan;$5,300 ;$525 ;$7,300;$12,700
+1691;TP ICAP;United Kingdom;$2,300 ;$123 ;$99,400;$2,600
+1692;YPF;Argentina;$9,500 ;-$982 ;$22,900;$2,500
+1693;Japan Securities;Japan;$280 ;$36 ;$98,400;$675
+1694;Kakao;South Korea;$3,500 ;$132 ;$11,000;$46,000
+1695;Agnico Eagle Mines;Canada;$3,100 ;$512 ;$9,600;$15,700
+1696;RTL Group;Luxembourg;$6,900 ;$561 ;$11,400;$9,200
+1697;Uniqa;Austria;$6,900 ;$22 ;$34,200;$2,500
+1698;DocuSign;United States;$1,500 ;-$243 ;$2,300;$45,100
+1699;Western Union;United States;$4,800 ;$744 ;$9,500;$10,600
+1700;C&D International Investment Group;Hong Kong;$6,300 ;$340 ;$28,000;$2,300
+1701;PSG Group;South Africa;$1,000 ;$1,700 ;$1,100;$1,000
+1702;Arca Continental;Mexico;$7,900 ;$478 ;$12,300;$9,200
+1703;Interactive Brokers Group;United States;$2,500 ;$195 ;$95,700;$7,000
+1704;TMB Bank;Thailand;$2,900 ;$323 ;$60,400;$3,600
+1705;Gunma Bank;Japan;$1,300 ;$176 ;$95,200;$1,400
+1706;National Bank of Greece;Greece;$3,300 ;$43 ;$94,800;$3,000
+1707;Westlake Chemical;United States;$7,500 ;$329 ;$13,800;$12,300
+1708;Bank Muscat;Oman;$1,600 ;$446 ;$32,400;$3,600
+1709;Iluka Resources;Australia;$715 ;$1,700 ;$2,000;$2,400
+1710;Arkema;France;$9,000 ;$379 ;$13,100;$9,600
+1711;IndusInd Bank;India;$4,800 ;$313 ;$45,000;$8,800
+1712;China Resources Cement Holdings;Hong Kong;$5,200 ;$1,200 ;$8,800;$8,000
+1713;Harbin Bank;China;$4,600 ;$100 ;$91,500;$1,400
+1714;Rite Aid;United States;$24,000 ;-$91 ;$9,300;$974
+1715;Stifel Financial;United States;$3,800 ;$504 ;$26,900;$7,400
+1716;Daishi Hokuetsu Financial Group;Japan;$1,400 ;$90 ;$92,700;$1,000
+1717;Snap-on;United States;$3,900 ;$627 ;$6,600;$12,800
+1718;77 Bank;Japan;$942 ;$165 ;$91,200;$966
+1719;Beijing Capital Development;China;$5,600 ;$251 ;$48,500;$2,300
+1720;Aramark;United States;$11,300 ;-$689 ;$14,500;$10,100
+1721;Newell Brands;United States;$9,400 ;-$770 ;$14,700;$11,400
+1722;Will Semiconductor;China;$2,600 ;$294 ;$3,100;$36,400
+1723;Zain;Kuwait;$5,300 ;$604 ;$16,100;$8,700
+1724;Maroc Telecom;Morocco;$3,900 ;$571 ;$7,100;$13,700
+1725;Chugoku Bank;Japan;$1,100 ;$119 ;$88,600;$1,600
+1726;Horizon Therapeutics Public Limited Company;Ireland;$2,200 ;$390 ;$6,100;$20,900
+1727;LPL Financial Holdings;United States;$5,900 ;$473 ;$6,500;$11,800
+1728;Magazine Luiza;Brazil;$5,700 ;$76 ;$4,700;$25,200
+1729;Zenith Bank;Nigeria;$1,700 ;$604 ;$21,500;$1,600
+1730;Piraeus Bank;Greece;$2,700 ;-$754 ;$87,600;$289
+1731;Lotte Chemical;South Korea;$10,400 ;$134 ;$17,800;$8,800
+1732;Roblox;United States;$924 ;-$253 ;$1,800;$41,800
+1733;American National Group;United States;$3,800 ;$468 ;$29,200;$3,000
+1734;Shaw Communications;Canada;$4,100 ;$554 ;$12,600;$14,000
+1735;Air Lease;United States;$2,000 ;$516 ;$25,200;$5,500
+1736;Alpha Bank;Greece;$3,600 ;$118 ;$85,700;$2,100
+1737;Novozymes;Denmark;$2,100 ;$432 ;$3,500;$18,100
+1738;EQT AB;Sweden;$805 ;$300 ;$2,000;$33,900
+1739;Huaibei Mining Holdings;China;$8,600 ;$494 ;$10,200;$3,800
+1740;Medical Properties Trust;United States;$1,200 ;$429 ;$16,800;$12,800
+1741;Smith & Nephew;United Kingdom;$4,600 ;$444 ;$11,000;$17,500
+1742;Bank Negara Indonesia;Indonesia;$5,000 ;$226 ;$63,400;$7,600
+1743;Trimble;United States;$3,100 ;$390 ;$6,900;$20,600
+1744;Amadeus IT Group;Spain;$2,500 ;-$576 ;$14,300;$31,500
+1745;Sino Biopharmaceutical;Hong Kong;$3,400 ;$404 ;$7,200;$19,500
+1746;RPM International;United States;$5,800 ;$452 ;$5,800;$12,100
+1747;Ingersoll Rand;United States;$4,900 ;-$33 ;$16,100;$21,100
+1748;Palantir Technologies;United States;$1,100 ;-$1,200 ;$2,700;$40,900
+1749;Eurobank Ergasias;Greece;$3,400 ;-$1,400 ;$82,900;$3,400
+1750;Companhia Brasileira de Distribuicao;Brazil;$9,900 ;$422 ;$11,500;$1,700
+1751;Steris;Ireland;$3,100 ;$432 ;$6,600;$17,800
+1752;Chang Hwa Bank;Taiwan;$1,300 ;$239 ;$82,300;$6,500
+1753;Evergrande Property Services Group;China;$1,500 ;$385 ;$2,600;$20,700
+1754;Iyo Bank;Japan;$1,100 ;$213 ;$81,500;$1,800
+1755;China Railway Signal & Communication;China;$5,800 ;$554 ;$16,100;$4,600
+1756;Domino's Pizza;United States;$4,100 ;$491 ;$1,600;$15,300
+1757;Focus Media Information Technology;China;$1,600 ;$388 ;$3,000;$20,300
+1758;Unicaja Banco;Spain;$1,400 ;$88 ;$80,200;$1,500
+1759;Dai Nippon Printing;Japan;$12,600 ;$61 ;$16,500;$5,900
+1760;Bilibili;China;$1,700 ;-$438 ;$3,600;$39,300
+1761;Gudang Garam;Indonesia;$7,900 ;$526 ;$5,600;$4,800
+1762;Murphy USA;United States;$11,300 ;$386 ;$2,700;$3,900
+1763;WPG Holdings;Taiwan;$20,700 ;$276 ;$8,300;$2,800
+1764;Commercial Bank of Qatar;Qatar;$2,000 ;$357 ;$42,200;$6,000
+1765;Match Group;United States;$2,400 ;$129 ;$3,000;$39,100
+1766;AECOM Technology;United States;$13,300 ;-$201 ;$12,500;$9,900
+1767;Ford Otosan;Turkey;$7,000 ;$597 ;$3,300;$8,100
+1768;Reliance Steel;United States;$8,800 ;$369 ;$8,100;$9,900
+1769;Galaxy Entertainment;Hong Kong;$1,100 ;-$512 ;$12,000;$38,600
+1770;Johnson Matthey;United Kingdom;$18,800 ;$131 ;$10,800;$8,500
+1771;Sartorius;Germany;$2,700 ;$259 ;$5,800;$38,500
+1772;Almarai;Saudi Arabia;$4,100 ;$530 ;$8,700;$13,800
+1773;Delivery Hero;Germany;$1,900 ;-$1,000 ;$5,300;$38,300
+1774;Samhallsbyggnadsbolaget I Norden;Sweden;$556 ;$957 ;$14,600;$8,200
+1775;Showa Denko;Japan;$9,100 ;-$715 ;$21,300;$4,600
+1776;AngloGold Ashanti;South Africa;$4,400 ;$952 ;$7,700;$9,300
+1777;Goodyear;United States;$12,300 ;-$1,300 ;$16,500;$4,100
+1778;KT&G;South Korea;$4,500 ;$993 ;$10,600;$9,200
+1779;Credit Bank of Moscow;Russia;$2,500 ;$370 ;$38,100;$2,800
+1780;PTT Global Chemical;Thailand;$10,500 ;$6 ;$16,300;$9,000
+1781;Aier Eye Hospital Group;China;$1,500 ;$242 ;$2,400;$37,500
+1782;World Fuel Services;United States;$20,100 ;$110 ;$4,500;$2,200
+1783;Suzuken;Japan;$20,000 ;$131 ;$11,800;$3,400
+1784;Yonghui Superstores;China;$13,400 ;$293 ;$7,700;$9,200
+1785;China CSSC Holdings;China;$6,300 ;$67 ;$19,900;$11,500
+1786;DGB Financial Group;South Korea;$3,000 ;$274 ;$73,700;$1,200
+1787;Nippon Steel Trading;Japan;$19,600 ;$122 ;$8,300;$1,200
+1788;BayWa;Germany;$19,600 ;$42 ;$11,100;$1,700
+1789;Burlington Stores;United States;$5,800 ;-$217 ;$6,800;$21,600
+1790;Shiga Bank;Japan;$777 ;$117 ;$73,000;$1,100
+1791;bioMerieux;France;$3,600 ;$461 ;$4,800;$15,700
+1792;CPFL Energia;Brazil;$6,000 ;$706 ;$9,500;$6,400
+1793;West Pharmaceutical Services;United States;$2,100 ;$346 ;$2,800;$23,200
+1794;Avantor;United States;$6,400 ;$117 ;$9,900;$18,700
+1795;Yandex NV;Netherlands;$3,000 ;$353 ;$7,000;$22,000
+1796;Franco-Nevada;Canada;$1,000 ;$323 ;$5,600;$26,200
+1797;Deutsche Pfandbriefbank;Germany;$1,700 ;$114 ;$72,000;$1,600
+1798;Sekisui Chemical;Japan;$10,000 ;$370 ;$11,100;$8,800
+1799;Lindt & Sprungli;Switzerland;$4,300 ;$343 ;$9,200;$23,400
+1800;Darden Restaurants;United States;$6,200 ;-$219 ;$10,100;$19,100
+1801;Ayala Corp;Philippines;$3,900 ;$346 ;$29,300;$9,800
+1802;Algonquin Power & Utilities;Canada;$1,600 ;$777 ;$13,200;$9,700
+1803;Kirkland Lake Gold;Canada;$2,500 ;$785 ;$7,100;$10,100
+1804;China Conch Venture Holdings;China;$960 ;$1,100 ;$8,300;$8,700
+1805;EPAM Systems;United States;$2,700 ;$327 ;$2,700;$25,000
+1806;Jiangxi Bank;China;$3,100 ;$268 ;$70,100;$2,500
+1807;Sichuan Road & Bridge;China;$8,300 ;$368 ;$16,000;$5,000
+1808;CoStar Group;United States;$1,700 ;$227 ;$6,900;$35,700
+1809;S-Oil;South Korea;$14,300 ;-$675 ;$14,400;$8,300
+1810;Fuyo General Lease;Japan;$6,900 ;$250 ;$29,100;$2,000
+1811;Juroku Bank;Japan;$1,000 ;$151 ;$69,800;$715
+1812;Palo Alto Networks;United States;$3,800 ;-$368 ;$9,500;$35,700
+1813;Swedish Match;Sweden;$1,800 ;$524 ;$1,800;$13,500
+1814;Hyakugo Bank;Japan;$819 ;$110 ;$69,700;$740
+1815;Okta;United States;$835 ;-$266 ;$3,300;$35,400
+1816;Hulic;Japan;$3,200 ;$596 ;$19,600;$8,100
+1817;Credito Emiliano;Italy;$2,200 ;$230 ;$69,300;$2,000
+1818;Sistema;Russia;$9,600 ;$98 ;$19,200;$4,700
+1819;Angang Steel;China;$14,500 ;$289 ;$13,500;$6,200
+1820;Barry Callebaut;Switzerland;$7,100 ;$327 ;$8,000;$12,900
+1821;Sumitomo Forestry Co.,;Japan;$10,500 ;$380 ;$10,600;$4,200
+1822;JD Sports Fashion;United Kingdom;$7,900 ;$289 ;$7,100;$13,300
+1823;A2A;Italy;$7,600 ;$415 ;$15,000;$5,800
+1824;IHI;Japan;$11,500 ;$28 ;$16,600;$3,000
+1825;Hokkaido Electric Power;Japan;$6,900 ;$361 ;$19,300;$872
+1826;First Pacific;Hong Kong;$7,100 ;$202 ;$26,900;$1,500
+1827;President Chain Store;Taiwan;$8,800 ;$348 ;$7,500;$10,100
+1828;Proximus;Belgium;$6,200 ;$644 ;$10,700;$7,200
+1829;W.P. Carey;United States;$1,200 ;$455 ;$14,700;$12,700
+1830;Tele2;Sweden;$2,900 ;$798 ;$9,200;$9,700
+1831;Haidilao International Holding;China;$4,200 ;$51 ;$4,200;$34,400
+1832;LT Group;Philippines;$1,900 ;$424 ;$28,200;$3,000
+1833;Peloton Interactive;United States;$3,000 ;$166 ;$3,900;$34,200
+1834;Ulta Beauty;United States;$6,200 ;$176 ;$5,700;$18,600
+1835;Invitation Homes;United States;$1,700 ;$154 ;$17,500;$18,900
+1836;Manpower;United States;$18,000 ;$24 ;$9,300;$6,000
+1837;Trade Desk;United States;$836 ;$242 ;$2,800;$34,100
+1838;Carvana;United States;$5,600 ;-$171 ;$3,000;$21,500
+1839;Daou Data;South Korea;$5,800 ;$82 ;$35,900;$485
+1840;PIK Group;Russia;$2,700 ;$1,200 ;$8,900;$8,300
+1841;Avnet;United States;$17,900 ;-$76 ;$8,300;$4,400
+1842;Braskem;Brazil;$11,400 ;-$1,300 ;$16,600;$7,100
+1843;Swatch Group;Switzerland;$6,000 ;-$54 ;$14,600;$15,800
+1844;Just Group;United Kingdom;$6,000 ;$212 ;$34,200;$1,600
+1845;Bank Pekao;Poland;$2,700 ;$283 ;$62,300;$5,300
+1846;Hubei Biocause Pharmaceutical;China;$6,000 ;$191 ;$33,300;$3,100
+1847;KGHM Polska Miedz;Poland;$6,000 ;$461 ;$10,800;$10,500
+1848;Big Lots;United States;$6,200 ;$629 ;$4,000;$2,400
+1849;Taiwan Business Bank;Taiwan;$1,100 ;$160 ;$63,800;$2,600
+1850;Generac Holdings Inc.;United States;$2,500 ;$348 ;$3,200;$20,900
+1851;Toho Bank;Japan;$543 ;$21 ;$63,700;$530
+1852;Ogaki Kyoritsu Bank;Japan;$693 ;$64 ;$63,600;$796
+1853;Bank of Jiujiang;China;$2,900 ;$242 ;$63,600;$3,300
+1854;TrygVesta;Denmark;$3,400 ;$424 ;$9,800;$15,800
+1855;Gjensidige Forsikring;Norway;$3,100 ;$526 ;$13,700;$11,700
+1856;Zillow Group;United States;$3,300 ;-$162 ;$7,500;$32,400
+1857;Fareast Islami Life Insurance Company;Bangladesh;$1,300 ;$1,200 ;$510;$34
+1858;Inventec;Taiwan;$17,300 ;$256 ;$7,600;$3,400
+1859;Marvell Technology Group;United States;$3,000 ;-$277 ;$10,800;$32,400
+1860;Ryanair Holdings;Ireland;$3,100 ;-$1,500 ;$15,500;$21,600
+1861;Cullen/Frost Bankers;United States;$1,500 ;$328 ;$42,400;$7,300
+1862;Guangzhou Baiyunshan Pharmaceutical Holdings;China;$8,900 ;$420 ;$9,100;$4,000
+1863;Cencosud;Chile;$14,000 ;$162 ;$14,000;$6,900
+1864;Abu Dhabi Islamic Bank;United Arab Emirates;$1,700 ;$360 ;$34,800;$4,900
+1865;China Resources Beer (Holdings);Hong Kong;$4,500 ;$298 ;$6,700;$26,800
+1866;Bendigo & Adelaide Bank;Australia;$1,600 ;$200 ;$62,300;$4,300
+1867;Core-Mark Holding;United States;$17,000 ;$63 ;$2,100;$2,000
+1868;Kimco Realty;United States;$1,700 ;$996 ;$11,600;$8,500
+1869;Basler Kantonalbank;Switzerland;$704 ;$115 ;$61,600;$381
+1870;Banca Popolare di Sondrio;Italy;$1,100 ;$122 ;$60,900;$1,600
+1871;SBA Communications;United States;$2,100 ;$24 ;$9,200;$31,500
+1872;San-In Godo Bank;Japan;$800 ;$84 ;$60,800;$765
+1873;Nanto Bank;Japan;$679 ;$52 ;$60,800;$554
+1874;Scentre Group;Australia;$1,500 ;-$2,600 ;$29,400;$11,600
+1875;Xinyu Iron & Steel;China;$9,700 ;$379 ;$7,500;$3,100
+1876;Shanghai Fosun Pharmaceutical;China;$4,400 ;$531 ;$12,800;$12,000
+1877;Hanwa;Japan;$16,200 ;-$106 ;$8,000;$1,300
+1878;Albemarle;United States;$3,100 ;$376 ;$10,500;$17,700
+1879;Brown & Brown;United States;$2,600 ;$465 ;$9,100;$14,000
+1880;Ruchi Soya Industries;India;$1,900 ;$1,100 ;$1,000;$2,600
+1881;Offcn Education Technology;China;$1,500 ;$309 ;$2,300;$23,800
+1882;Brilliance China Automotive Holdings;Hong Kong;$485 ;$1,100 ;$7,600;$4,700
+1883;Senshu Ikeda Holdings;Japan;$656 ;$63 ;$58,600;$448
+1884;Airports of Thailand;Thailand;$551 ;-$206 ;$6,900;$30,000
+1885;HelloFresh;Germany;$4,300 ;$420 ;$1,900;$15,300
+1886;First Heartland Jusan Bank;Kazakhstan;$533 ;$1,100 ;$3,800;$323
+1887;Liberbank;Spain;$940 ;$47 ;$58,100;$1,000
+1888;Ultrapar Participacoes;Brazil;$15,800 ;$173 ;$7,100;$4,100
+1889;CIT Group;United States;$3,100 ;-$615 ;$58,100;$5,200
+1890;Dassault Aviation;France;$6,300 ;$345 ;$16,800;$9,600
+1891;RingCentral;United States;$1,200 ;-$83 ;$2,200;$29,400
+1892;Zheshang Development Group;China;$15,700 ;$79 ;$2,900;$920
+1893;Fluor;United States;$15,700 ;-$435 ;$7,300;$3,200
+1894;Thor Industries;United States;$9,300 ;$390 ;$6,400;$7,800
+1895;Scotts Miracle-Gro;United States;$4,500 ;$483 ;$4,000;$13,300
+1896;Tokyo Kiraboshi Financial Group;Japan;$867 ;$68 ;$56,900;$353
+1897;Ramsay Health Care;Australia;$8,100 ;$173 ;$13,400;$11,900
+1898;Toll Brothers;United States;$7,300 ;$486 ;$10,900;$7,500
+1899;Teledyne Technologies;United States;$3,100 ;$402 ;$5,100;$15,900
+1900;JB Financial Group;South Korea;$1,900 ;$292 ;$49,100;$1,100
+1901;Taiheiyo Cement;Japan;$8,200 ;$429 ;$10,300;$3,100
+1902;Tenneco;United States;$15,400 ;-$1,500 ;$11,900;$939
+1903;Harel Insurance Investments & Financial Services;Israel;$5,400 ;$211 ;$35,900;$2,300
+1904;Aareal Bank;Germany;$1,200 ;-$103 ;$55,600;$1,700
+1905;Intco Medical Technology;China;$2,000 ;$1,000 ;$2,000;$7,900
+1906;XPeng;China;$860 ;-$399 ;$6,800;$28,700
+1907;Teleflex;United States;$2,500 ;$335 ;$7,200;$20,200
+1908;Amdocs;United States;$4,200 ;$676 ;$6,900;$10,000
+1909;Builders FirstSource;United States;$8,600 ;$314 ;$4,200;$10,300
+1910;Zhangzhou Pientzehuang Pharmaceutical;China;$936 ;$238 ;$1,600;$28,600
+1911;Afterpay;Australia;$444 ;-$46 ;$1,700;$28,500
+1912;Aozora Bank;Japan;$1,400 ;$191 ;$54,200;$2,600
+1913;PBF Energy;United States;$15,100 ;-$1,400 ;$10,500;$1,700
+1914;Vietnam Technological & Commercial Joint Stock Bank;Vietnam;$1,700 ;$530 ;$19,000;$6,100
+1915;BeiGene;China;$309 ;-$1,600 ;$5,600;$28,400
+1916;IDEX;United States;$2,400 ;$378 ;$4,400;$16,700
+1917;Keiyo Bank;Japan;$585 ;$66 ;$53,800;$520
+1918;Royal Mail;United Kingdom;$14,500 ;$28 ;$12,800;$7,100
+1919;Sun Pharma Industries;India;$4,500 ;$325 ;$9,200;$20,800
+1920;Orient;Japan;$2,200 ;$169 ;$53,500;$2,300
+1921;Tronox;United States;$2,800 ;$969 ;$6,600;$3,100
+1922;Luzerner Kantonalbank;Switzerland;$682 ;$237 ;$53,100;$4,100
+1923;Zhejiang NHU;China;$1,500 ;$517 ;$4,700;$12,000
+1924;LIC Housing Finance;India;$2,700 ;$372 ;$29,700;$2,700
+1925;Unity Software;United States;$772 ;-$282 ;$2,700;$28,000
+1926;Datadog;United States;$603 ;-$25 ;$1,900;$27,700
+1927;Bank Of Gansu;China;$2,300 ;$80 ;$52,400;$2,600
+1928;Zhejiang Chint Electrics;China;$4,400 ;$563 ;$9,700;$11,100
+1929;FIBI Holdings;Israel;$1,500 ;$104 ;$52,300;$1,200
+1930;Metropolitan Bank & Trust;Philippines;$2,900 ;$279 ;$51,200;$4,200
+1931;Wintrust Financial;United States;$1,900 ;$293 ;$45,100;$4,500
+1932;Cattolica Assicurazioni;Italy;$5,800 ;$41 ;$31,800;$975
+1933;Bank of Greece;Greece;$1,300 ;$943 ;-;$366
+1934;Dollarama;Canada;$3,000 ;$422 ;$3,600;$14,300
+1935;Hokkoku Bank;Japan;$688 ;$84 ;$51,400;$649
+1936;Rexel;France;$14,400 ;-$298 ;$12,200;$6,300
+1937;Hyakujushi Bank;Japan;$612 ;$38 ;$51,300;$427
+1938;Bohai Leasing;China;$5,100 ;-$483 ;$40,200;$2,200
+1939;Haseko;Japan;$7,400 ;$456 ;$8,600;$4,200
+1940;Turkish Airlines;Turkey;$6,600 ;-$795 ;$25,200;$2,000
+1941;Puma;Germany;$6,000 ;$90 ;$5,700;$16,400
+1942;Youngor Group;China;$1,900 ;$925 ;$11,100;$5,600
+1943;Howmet Aerospace;United States;$6,800 ;$261 ;$11,400;$14,200
+1944;Kiyo Bank;Japan;$704 ;$85 ;$50,800;$949
+1945;Otsuka;Japan;$7,800 ;$368 ;$4,600;$9,200
+1946;Vodafone Idea;India;$5,900 ;-$6,600 ;$28,800;$3,400
+1947;Musashino Bank;Japan;$552 ;$61 ;$50,200;$533
+1948;Sonova Holding;Switzerland;$2,700 ;$346 ;$5,900;$18,300
+1949;TransUnion;United States;$2,700 ;$343 ;$7,300;$18,400
+1950;Zhejiang Dahua Technology;China;$3,800 ;$565 ;$5,600;$10,800
+1951;ALFA;Mexico;$13,500 ;$183 ;$12,900;$3,000
+1952;Brambles;Australia;$4,900 ;$458 ;$7,500;$11,900
+1953;Banque Centrale Populaire;Morocco;$2,700 ;$130 ;$49,900;$5,800
+1954;Nuernberger Beteiligungs;Germany;$4,900 ;$88 ;$41,100;$1,100
+1955;Nexstar Media Group;United States;$4,500 ;$811 ;$13,400;$6,700
+1956;Alfa Laval;Sweden;$4,500 ;$423 ;$7,400;$14,000
+1957;Indorama Ventures;Thailand;$10,600 ;$53 ;$15,100;$8,300
+1958;Central Bank of India;India;$3,600 ;-$167 ;$49,600;$1,400
+1959;Petronas Chemicals;Malaysia;$3,400 ;$388 ;$10,300;$15,400
+1960;Zscaler;United States;$536 ;-$191 ;$2,000;$26,200
+1961;Symrise;Germany;$4,000 ;$350 ;$7,400;$17,700
+1962;Barratt Developments;United Kingdom;$4,700 ;$520 ;$9,600;$11,000
+1963;Autohome;China;$1,300 ;$496 ;$3,600;$12,000
+1964;Dangote Cement;Nigeria;$2,700 ;$721 ;$5,100;$9,100
+1965;RusHydro;Russia;$5,300 ;$641 ;$12,900;$4,800
+1966;China Petroleum Engineering;China;$10,600 ;$145 ;$14,900;$2,500
+1967;Avenue Supermarts;India;$3,100 ;$129 ;$1,700;$25,400
+1968;Open House;Japan;$5,700 ;$605 ;$5,600;$5,800
+1969;West Fraser Timber Co.;Canada;$4,400 ;$579 ;$4,200;$10,500
+1970;TCF Financial;United States;$2,300 ;$223 ;$47,800;$7,300
+1971;ALSO Holding;Switzerland;$13,600 ;$149 ;$3,500;$4,000
+1972;Bank of Nagoya;Japan;$596 ;$34 ;$47,700;$482
+1973;Heimstaden AB Pref. Shs;Sweden;$766 ;$481 ;$19,600;$648
+1974;Sysmex;Japan;$2,800 ;$297 ;$3,800;$21,600
+1975;Clal Insurance Enterprises;Israel;$5,500 ;-$156 ;$32,000;$1,200
+1976;Charles River Labs;United States;$2,900 ;$364 ;$5,500;$16,200
+1977;Far Eastern New Century;Taiwan;$7,000 ;$274 ;$22,000;$6,000
+1978;Kingboard Holdings;Hong Kong;$5,600 ;$606 ;$12,000;$6,700
+1979;CenTra;Hong Kong;$6,400 ;$262 ;$25,100;$1,400
+1980;Shenzhen Investment;Hong Kong;$2,400 ;$480 ;$19,600;$3,400
+1981;Tongling Nonferrous Metals;China;$13,500 ;$124 ;$7,400;$4,700
+1982;Cathay Pacific Airways;Hong Kong;$6,100 ;-$2,800 ;$26,400;$5,900
+1983;Slack Technologies;United States;$903 ;-$300 ;$2,400;$24,600
+1984;Aeroports de Paris;France;$2,400 ;-$1,300 ;$22,700;$12,100
+1985;Digital China Group;China;$13,300 ;$90 ;$4,700;$1,800
+1986;Penn National Gaming;United States;$3,600 ;-$670 ;$17,100;$15,600
+1987;EFG International;Switzerland;$1,600 ;$123 ;$46,000;$2,500
+1988;SEB SA;France;$7,900 ;$343 ;$11,300;$9,400
+1989;Dixons Carphone;United Kingdom;$13,200 ;-$95 ;$9,800;$2,300
+1990;Guangdong Investment;Hong Kong;$3,000 ;$582 ;$11,600;$10,200
+1991;Pinnacle Bank;United States;$1,300 ;$312 ;$35,000;$7,000
+1992;Nanjing Iron & Steel;China;$7,700 ;$412 ;$7,300;$4,000
+1993;Rede D'Oro Luiz;Brazil;$2,700 ;$83 ;$8,800;$24,200
+1994;Origin Energy;Australia;$8,600 ;-$346 ;$17,100;$5,800
+1995;HubSpot;United States;$883 ;-$85 ;$2,000;$24,100
+1996;JTEKT;Japan;$13,100 ;-$35 ;$12,000;$3,500
+1997;Insurance Australia Group;Australia;$5,400 ;-$212 ;$25,000;$9,300
+1998;Sumec Corporation;China;$13,000 ;$79 ;$7,100;$1,300
+1999;Gold Fields;South Africa;$3,900 ;$718 ;$7,500;$8,900
+2000;Paycom;United States;$841 ;$143 ;$2,600;$24,000
