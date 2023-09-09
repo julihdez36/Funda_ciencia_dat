@@ -21,8 +21,6 @@ length(x) #longitud
 #feature=caracteristicas, variables
 rm(l,valor,y,z,A) #No es necesario concatenar
 
-# valor en el mercado (en billones de US)
-# https://www.forbes.com/lists/global2000/#7e9e39675ac0
 valor <- c(249.5, 464.8, 624.4, 210.4, 1897.2)
 
 # algunas funciones basicas
@@ -32,7 +30,7 @@ sum(valor)
 mean(valor)
 sort(valor, decreasing = T) #ordenar de forma ascendente
 
-# Matrices (fundamentales en machine lerning e inteligencia artificial)
+# Matrices
 ventas <- c(190.5, 136.2, 245.5, 173.5, 229.7)
 
 ganancias <- c(45.8, 40.4, 42.5, 39.3, 49.3)
