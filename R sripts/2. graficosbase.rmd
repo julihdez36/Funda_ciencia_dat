@@ -1,0 +1,209 @@
+---
+title: "Importación de datos y gráficos (librería base)"
+author: "Julián López Hernández"
+output: html_document
+---
+
+# Importación de datos
+
+Para importar datos es importante definir un directorio de trabajo, esto es, definir la carpeta de trabajo donde podemos acceder a las bases de datos.
+
+Llamamos la librería readr que nos permite leer documentos en texto plano .csv
+
+```{r}
+library(readr)
+setwd("C:/Users/Julian/Desktop/Diplomado/Bases")
+list.files()
+BTC<- read_csv("Historico del Bitcoin (BTC).csv")
+
+```
+
+Podemos establecer directorio de manera manual con el código setwd(choose.dir())
+
+Exploremos la base
+
+```{r}
+names(BTC)
+head(BTC)
+summary(BTC)
+str(BTC)
+```
+
+Para evitar problemas con las variables, usemos nombres sencillos
+```{r}
+nombres<-c("Fecha","Ultimo","Apertura","Maximo","Minimo","Volumen","Var")
+colnames(BTC)<-nombres
+names(BTC)
+```
+Creo una columna para numerar las observaciones
+```{r}
+BTC$numeracion<-1:207
+```
+
+Organicemos temporalmente nuestra base
+
+```{r}
+library(dplyr)
+BTC<-arrange(BTC,desc(numeracion))
+View(BTC)
+```
+
+
+# Eploración gráfica
+
+La librería base de R permite realizar diferentes gráficos. En R tenemos tres tipos de gráficos:
+
+1. Alto nivel: funciones que crean un nuevo gráfico
+2. Bajo nivel: añaden información a un gráfico
+3. Interactivas: funciones que permiten interactuar con gráficos (otras librerias)
+
+#Gráficos de alto nivel
+
+La función genérica para graficar es la función plot. Dependiendo de la naturaleza de los objetos, el gráfico se construirá 
+
+Dos vectores numéricos producen un gráfico de dispersión
+```{r}
+plot(BTC$Maximo,BTC$Minimo, ylab = "Mínimo", 
+     xlab = "Máximo", main = "Cotización Bitcoin")
+```
+
+Un vector produce una dispersión indexada. En esta ocasión el gráfico lo cambiamos para que aparezca en formato lineas con el argumento type
+```{r}
+plot(BTC$Ultimo, xlab = "Observaciones", 
+     ylab = "Cierre", type = "l")
+```
+ 
+Si el gráfico es una serie de tiempo genera un gráfico temporal. Para ello construyamos la serie de tiempo
+
+```{r}
+bitcoin.ts<-ts(BTC$Ultimo, frequency = 365,start = c(2022,01,01))
+class(bitcoin.ts)
+plot(bitcoin.ts)
+```
+
+Si es un factor genera un gráfico de caja y bigotes. Para ello utilicemos una base dentro de R.
+
+```{r}
+str(iris)
+plot(iris$Species,iris$Sepal.Length)
+```
+
+```{r}
+BTC$rent<-0
+BTC$rent[BTC$Var<0]<-"Perdidas"
+BTC$rent[BTC$Var>0]<-"Ganancias"
+
+class(BTC$rent)
+
+
+```
+Grafiquemos este vectos categórico que hemos creado
+```{r}
+boxplot(BTC$Ultimo~BTC$rent, ylab = "Precio de cierre", xlab = "Rentabilidad")
+
+```
+
+Si es un data frame crea una correlación de variables
+
+```{r}
+plot(BTC)
+```
+
+También podemos usar prefijos para sugerir un tipo de gráfico
+
+Usamod barplot() para realizar diagrama de barras
+
+```{r}
+barplot(table(BTC$rent), ylab = "Frecuencia")
+```
+Para gráficos de cajas y bigotes usamos el comando boxplot()
+
+```{r}
+boxplot(BTC$Ultimo, horizontal=T, notch=T, col = "orange", border = "black", main="Boxplot, precio de cierre Bitcoin (2022)")
+stripchart(BTC$Ultimo, method="jitter",
+            pch=19, add = T, col = "red") #Nivel bajo
+```
+
+```{r}
+boxplot(BTC$Ultimo~BTC$rent, notch=T, col=4:5, main="Rentabilidad", ylab = "Cierre BTC", xlab = "Rentabilidad")
+stripchart(BTC$Ultimo~BTC$rent,method="jitter",
+           pch=19, add=T, vertical=T, col=2:3)
+
+```
+
+Podemos realizar gráficos de pruebas de normalidad
+
+```{r}
+qqnorm(BTC$Ultimo)
+qqline(BTC$Ultimo)
+```
+
+También histogramas para variables cuantitativas
+
+
+```{r}
+hist(BTC$Ultimo)
+hist(BTC$Ultimo, breaks =4)
+```
+
+# Gráficos de bajo nivel
+
+Estas funciones añaden información adicional a los gráficos, por tanto requieren que ya haya un gráfico creado
+
+Añadir lines o puntos: lines() y points()
+
+```{r}
+
+plot(BTC$Ultimo, type="h", col="orange")
+lines(BTC$Ultimo, col="red")
+text(50,20,"cierre Bitcoin")
+points(BTC$Apertura, col="purple")
+```
+
+Añadir texto
+
+```{r}
+plot(1:10,1:10, type = "l")
+text(5,9,"Aqui podemos insertar mensaje")
+```
+
+La función abline()
+```{r}
+plot(BTC$Ultimo, type = "l")
+abline(h=mean(BTC$Ultimo), v=180)
+```
+
+Añadir titulos con la función title()
+
+```{r}
+plot(BTC$Ultimo, type = "l")
+title("Bitcoin 2022","Histórico de cotización")
+axis(side = 1)
+```
+
+Finalmente, podemos dividir la pantalla para tener varias gráficas en una
+
+Dependiendo del byrow es como va a rellenar: si por filas o por columnas
+```{r}
+layout(matrix(c(1,2,3,3),nrow = 2,byrow = T))
+layout.show(3)
+
+plot(BTC$Ultimo, type = "l", main = "Cotización Bitcoin (2022)")
+hist(BTC$Ultimo, col = heat.colors(7), main = "Distribución (2022)")
+boxplot(BTC$Ultimo~BTC$rent, notch=T, col=4:5,
+        horizontal=T, main="Boxplot")
+stripchart(BTC$Ultimo~BTC$rent,method="jitter",
+           pch=19, add=T, horizontal=T, col=2:3)
+```
+
+Podemos también diferenciarlo
+
+```{r}
+
+plot(diff(BTC$Ultimo), type = "l") #Primera diferencia
+plot(diff(log(BTC$Ultimo)), type="l") #Primera diferencia logaritmica
+plot(diff(log(BTC$Ultimo),lag=12), type="l",)
+```
+
+
+

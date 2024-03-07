@@ -1,0 +1,364 @@
+---
+title: "Fundamentos de programación en R"
+subtitle: "Sesión 1. Objetos"
+author: "Julián López Hernández"
+output: html_document
+---
+
+# Contenido
+
+1. Objetos
+
+2. Números y vectores
+
+3. Matrices
+
+4. Arrays o arreglos
+
+5. Data frame o marco de datos
+
+6. Listas
+
+
+# 1. Objetos
+
+R trabaja con objetos que tienen un **nombre** y un **contenido**, sin embargo, también tienen atributos que especifican el tipo de datos presentados por el objeto.
+
+Todo objeto tiene dos atributos: el tipo y la longitud
+
+El **tipo** se refiere a la clase básica de los elementos del objeto: numérico, caracter, complejo o lógico.
+
+La **longitud** es simplemente el número de elementos en el objeto
+
+```{r}
+x<-1
+class(x)
+mode(x)
+length(x)
+```
+
+```{r}
+A<-"facultad"
+valor<-TRUE 
+l<-1i 
+mode(A); mode(valor); mode(l)
+class(A); class(valor); class(l)
+
+```
+
+Cuando los datos no están disponibles, se presentan como **NA (Not available)**
+
+```{r, echo=FALSE}
+
+objeto<-c("vector", "factor", "arrays", "matriz", "data.frame", "ts", "lista")
+Tipos<-(c("num, char, comp, log","num o char","num, char, comp, log","num, char, comp, log","num, char, comp, log","num, char, comp, log","num, char, comp, log" ))
+Varios_objetos<-(c(FALSE, FALSE, FALSE, FALSE, TRUE, TRUE, TRUE))
+
+Objetos<-cbind.data.frame(objeto,Tipos, Varios_objetos)
+Objetos
+
+```
+
+Los objetos pertenecen a una **clase**, lo cual es fundamental en R que utiliza el paradigma de **programación orientada a objetos**. 
+
+La clase es una propiedad asignada a un objeto. 
+
+
+## 2.1. Vectores numéricos
+
+La estrucutura de datos mas simple es el vector, que es una colección ordenada de números.
+
+La asignación de elementos a una variable requiere una concatenación de elementos, que pueden ser otros vectores.
+
+```{r}
+x<-c(1,2,3,4,5)
+x
+y<-c(4,x,8)
+y
+```
+
+### Aritmética vectorial
+
+Es posible realizar operaciones aritméticas con nuestros vectores, cuando estos son numéricos. Los operadores mas comunes son:
+
+- Operadores aritméticos habituales: +,-,*,/,^
+- También tenemos log,exp,sqrt,sin, cos,tan
+- Operadores estadisticos: max, min, sum, prod, mean,var,sd
+
+La operación se realiza sobre el objeto
+```{r}
+z<-5:15
+sum(z)
+mean(z)
+max(z) ; min(z)
+```
+
+### Secuencias en vectores
+
+Para construir un vector que contenga una secuencia numérica es posible usar dos procedimientos:
+
+1. Usar from:to
+2. Usar la función seq(from, to,by)
+
+*R es un lenguaje posicional, por lo que no siempre hay que hacer explícito el argumento de la función.
+
+```{r}
+s<-2*1:15
+s
+seq(from=2,to=30,by=2)
+seq(2,30,2)
+```
+
+La función rep() es útil para repetir datos
+
+Los argumentos de esta función son:
+
+- x: vector con los elementos a repetir.
+- times: número de veces que el vector x se debe repetir.
+- length.out: longitud deseada para el vector resultante.
+- each: número de veces que cada elemento de x se debe repetir. 
+
+```{r}
+rep(x=1:4, times=c(2,2,2,2))
+rep(x=1:4, times=c(2,1,2,1))
+rep(x=1:4, each=2)
+```
+
+## 2.2. Vectores lógicos
+
+Los vectores lógicos están compuestos por datos *booleanos* True and False.
+
+```{r}
+x<-c(1,4:8,10:5,7) 
+x
+x>5
+x==5
+```
+
+### Operadores lógicos
+
+Los operadores lógicos se presentan en la siguiente tabla:
+
+```{r, echo=FALSE}
+Simbolo<-c("<","<=",">","==","!=","&","|","!")
+Expresa<-c("menor","menor o igual","mayor","igual","diferente","intersección","unión","negación")
+log<-cbind(Simbolo,Expresa)
+log
+```
+
+Como se indicó mas arriba, cuando falta un elemento se denomina presenta con **NA**.
+La función is.na() crea un vector lógico de tamaño x cuyo elementos serán True si el dato está perdido y FALSE en caso contrario. El comando complete.cases() opera de forma análoga.
+
+*Puedo transfomar un vector lógico en un vector numérico
+
+```{r}
+z<-c(1:4,NA,6:3,NA)
+z
+x<-is.na(z)
+x
+complete.cases(z)
+
+```
+
+También poedo coercionar un vector lógico para que se vuelva numérico 
+
+
+```{r}
+x
+as.numeric(x)
+```
+
+
+## 2.3. Vectores de texto
+
+Puedo armar cadenas de caracteres con el comando paste. 
+Puede usarse para concatenar vectores
+
+```{r}
+nombres<-c("Andrés","Pedro","Ana")
+apellido<-c("López","Ortega","Perez")
+paste(nombres,apellido)
+
+paste(nombres,1:3,sep = ":")
+```
+
+### Filtrar elementos de un vector
+
+Para extraer un elemento almacenado dentro un vector se usan los corchetes []
+
+```{r}
+edad <- c(15, 19, 13, NA, 20,NA)
+edad[3] # filtrar elemento 3
+edad[c(2, 5)] # filtrar elementos 2 y 5
+edad[-3] # filtrar todo, menos el elemento 3
+edad[-c(2, 5)] # filtrar todo, menos los elementos 2 y 5
+edad[!is.na(edad)] #filtra todo sin datos NA
+```
+
+# Ejercicios
+
+1. Cosntruya un vector de los números pares mayores a 20 y menores a 60
+2. Cosntruya un vector de 10 elementos entre 20 y 60, ¿qué intervalo debe haber entre cada elemento?
+3. El comando LETTERS arroja un vector con las letras del alfabéto. Indique cuántos elementos tiene y qué tipo de objeto es.
+4. Construya un vector con la primeras 15 letras MAYÚSCULAS usando la función LETTERS.
+5. Calcule el valor máximo, el mínimo, la suma de los elementos, el producto de los elementos, la media y la desviación estandar del siguiente vecor numérico: [5,3,2,4,2.3,4.2,7,1.2,2,2,4,3.5,4]
+
+
+# 4. Matrices
+
+Las matrices son arreglos rectangulares de filas y columnas con información numérica, alfanumérica o lógica.
+
+Para construir una matriz se usa la función matrix( ).
+
+
+```{r}
+mimatriz <- matrix(data=1:20, nrow=4, ncol=5, byrow=FALSE)
+mimatriz
+
+```
+
+### Filtros en matrices
+
+Filtros en matrices 
+
+```{r}
+mimatriz[3, 4] # Filtros de elementos
+mimatriz[, 5] # Filtro de columna
+mimatriz[, -c(2, 4)] # Filtro quitando columnas 2 y 4
+```
+
+Las funciones cbind() y rbind() permiten cosntruir matrices a partir de vectores
+
+rbind() une vectores por filas (row)
+
+```{r}
+idalumno<-1:6
+calificacion<-c(90,92,89,69,70,90)
+matriz1<-rbind(idalumno,calificacion)
+
+```
+
+Por su parte, cbind une vectores por columnas (col)
+```{r}
+alumno7<-c(7,80,6)
+alumno8<-c(8,90,6)
+
+matriz2<-cbind(alumno7,alumno8)
+matriz2
+```
+
+# 5. Arrays o arreglos
+
+Un arreglo es una matriz de varias dimensiones con información numérica, alfanumérica o lógica. Para construir una arreglo se usa la función array( ).
+
+```{r}
+miarray <- array(data=letters[1:16], dim=c(2, 4, 2))
+miarray
+```
+
+Convirtamos un vector en un array con la función dim()
+
+```{r}
+calif<-rnorm(24,90,5) # Vector aleatorio
+calif
+dim(calif) # No tiene dimensiones
+dim(calif)<-c(6,4) #Le doy dimensiones
+calif
+```
+
+# Ejercicios
+
+1. Construya una matriz de 10×10   con los primeros 100 números positivos pares.
+2. Construya una matriz identidad de dimension 3×3. Recuerde que una matriz identidad tiene sólo unos en la diagonal principal y los demás elementos son cero.
+3. ¿Cuál es el error al correr el siguiente código? ¿A qué se debe?
+
+edad <- c(15, 19, 13, NA, 20)
+deporte <- c(TRUE, TRUE, NA, FALSE, TRUE)
+comic_fav <- c(NA, 'Superman', 'Batman', NA, 'Batman')
+matrix(edad, deporte, comic_fav)
+
+4. Corrija el error y filtre las filas que tengan información completa.
+
+# 4. Data frame o marco de datos
+
+Los **Data frame** son uno de los objetos más utilizados porque permite agrupar vectores con información de diferente tipo (numérica, alfanumérica o lógica) en un mismo objeto, la única restricción es que los vectores deben tener la misma longitud.
+
+Para crear un marco de datos se usa la función data.frame( )
+
+```{r}
+edad <- c(15, 19, 13, NA, 20)
+deporte <- c(TRUE, TRUE, NA, FALSE, TRUE)
+comic_fav <- c(NA, 'Superman', 'Batman', NA, 'Batman')
+mimarco <- data.frame(edad, deporte, comic_fav)
+mimarco
+
+```
+# 4. Data frame o marco de datos
+
+```{r}
+miDf01 <- data.frame(
+  numbers = c(1, 2, 3, 4), 
+  logicals = c(TRUE, TRUE, FALSE, TRUE), 
+  characters = c("a", "b", "c", "d")
+)
+print(miDf01)
+```
+
+# Filtros en data frame
+
+Para filtrar en marcos de datos se puede usar el operador $ (filtra un vector), corchetes simples [] (como df) o corchetes dobles [[]]
+
+```{r}
+mimarco$deporte #se filtra la variable deporte
+mimarco[, 2]
+mimarco[["deporte"]]
+```
+
+Para extraer un data frame con algunas variables
+
+```{r}
+mimarco[c("deporte", "edad")]
+```
+
+### Función subset
+
+Para extraer partes de un marco de datos se puede utilizar la función subset(x, subset, select)
+
+```{r}
+subset(mimarco, subset=deporte == TRUE) # Quienes practican deporte
+
+
+```
+
+```{r}
+subset(mimarco, subset=edad >= 17) #Mayores de 17 años
+
+subset(mimarco, subset=edad < 20, select=c('deporte', 'comic_fav')) #deporte y comic de los menores de 20 años 
+```
+
+# 5. Listas 
+
+Las listas son otro tipo de objeto muy usado para almacenar objetos de diferente tipo.
+
+La instrucción para crear una lista es list( ).
+
+```{r}
+mivector <- runif(n=5)
+matriz2 <- matrix(data=1:10, ncol=5)
+milista <- list(E1=mivector, E2=matriz2, E3=mimarco)
+
+```
+
+```{r}
+milista
+```
+
+```{r}
+milista <- list(E1=mivector, E2=matriz2, E3=mimarco)
+milista[[3]][,2]
+milista$E3[3]
+```
+
+# Ejercicios
+
+1. Cosntruya un data frame con 10 observaciones y las siguientes variables: nombre, edad, nivel de escolaridad.
