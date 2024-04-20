@@ -68,6 +68,12 @@ forbes <- forbes %>%
 
 forbes[forbes$Country == 'Greece',]
 
+obj_check <- forbes[forbes$Country == 'Greece',]
+mean(obj_check$Assets, na.rm = T)
+
+forbes[!complete.cases(forbes),]['Assets'] <- mean(obj_check$Assets, na.rm = T)
+forbes[forbes$Country == 'Greece',]
+
 #Cargamos el data set si queremos
 # write.csv(x = forbes,file = 'forbes_cons.csv')
 
@@ -95,19 +101,19 @@ cumsum(freq_rel) #Frecuencia relativa acumulada
 top <- cbind(fre_abs[1:10],freq_rel[1:10],cumsum(freq_rel)[1:10])
 colnames(top) <-  c('ni','fi','Fi')
 top <- as.data.frame(top)
-top
+top # Tabla de frecuencia
 # Sólo 3 paises tienen el 55% de empresas mas importantes del mundo
 # United states, China and Japan
 
 #Posicion de colombia de acuerdo a la cantidad de compañias
 
-tabla[names(tabla)=="Colombia"]
-which(names(tabla)=="Colombia") #Posición 45 de Colombia
+fre_abs[names(fre_abs)=="Colombia"]
+which(names(fre_abs)=="Colombia") #Posición 45 de Colombia
 
 #Otras posiciones de paises
 
-which(names(tabla)=="Mexico") # 26
-which(names(tabla)=="Germany") #8
+which(names(fre_abs)=="Mexico") # 26
+which(names(fre_abs)=="Germany") #8
 
 # Empresas sudamericanas
 
@@ -120,11 +126,20 @@ fb_suda<-forbes[forbes$Country%in%suda,]
 # Métodos numéricos -------------------------------------------------------
 
 summary(forbes)
-colMeans(forbes[4:7])
 
+colMeans(forbes[4:7])
 apply(forbes[4:7], 2, median)
 apply(forbes[4:7], 2, var)
 apply(forbes[4:7], 2, sd)
+
+CV <- function(x){
+  coef = sd(x) / mean(x)
+  return(coef)
+}
+
+CV(forbes$Sales)
+
+apply(forbes[4:7],2,CV)
 
 #Compañias mas valiosas
 
@@ -317,6 +332,7 @@ windows()
 cor(fg_cuanti)
 cor.mtest(fg_cuanti)
 corrplot(cor(fg_cuanti),diag = T)
+
 
 
 
