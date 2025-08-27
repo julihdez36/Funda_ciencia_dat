@@ -39,13 +39,13 @@ statistics.mean(vector)
 # Mediana del vector
 
 def mediana(x):
-    x.sort()
+    x_ordenada = sorted(x)
     n = len(x)
     if n % 2 != 0:
-        return x[n // 2]
+        return x_ordenada[n // 2]
     else:
-        medio1 = x[n // 2 - 1]
-        medio2 = x[n // 2]
+        medio1 = x_ordenada[n // 2 - 1]
+        medio2 = x_ordenada[n // 2]
         return (medio1 + medio2) / 2
 
         
@@ -55,18 +55,25 @@ statistics.median(vector)
 # Rango
 
 def rango(x):
-    x.sort()
-    minimo = x[0]
-    maximo = x[-1]
+    x_ordenada = sorted(x) 
+    minimo = x_ordenada[0]
+    maximo = x_ordenada[-1]
     return maximo - minimo
 
 rango(vector)
 
 # Varianza
 
+def varianza(x):
+    mu = media(x)
+    suma_diferencias = 0
+    for i in x:
+        suma_diferencias += (i - mu)**2 
+    varianza = suma_diferencias / (len(x) -1)
+    return varianza
 
+varianza(vector)
 
+statistics.variance(vector)    
 
-
-
-
+# Desviación estandar
