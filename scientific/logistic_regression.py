@@ -68,26 +68,31 @@ X_test = np.c_[np.ones(X_test.shape[0]), X_test]
 def sigmoid(z):
     return 1 / (1 + np.exp(-z))
 
+def log_loss(y, h):
+    return -(y*np.log(h+1e-8) + (1-y)*np.log(1-h+1e-8)).mean()
+
 # =====================
 # 5. Entrenamiento con descenso de gradiente
 # =====================
-n_samples, n_features = X_train.shape
-theta = np.zeros(n_features)   # inicialización de parámetros
 
-lr = 0.1       # tasa de aprendizaje
-epochs = 1000  # número de iteraciones
+n_samples, n_features = X_train.shape
+theta = np.zeros(n_features)
+
+lr = 0.1
+epochs = 500
+
+loss_history = []
 
 for i in range(epochs):
     z = X_train @ theta
-    h = sigmoid(z)                 # probabilidades predichas
-    error = h - y_train             # vector de errores
-    grad = (X_train.T @ error) / n_samples  # gradiente promedio
-    theta -= lr * grad              # actualización
+    h = sigmoid(z)
+    error = h - y_train
+    grad = (X_train.T @ error) / n_samples
+    theta -= lr * grad
     
-    if i % 100 == 0:
-        # función de pérdida (log loss)
-        loss = -(y_train*np.log(h+1e-8) + (1-y_train)*np.log(1-h+1e-8)).mean()
-        print(f"Iter {i}: loss={loss:.4f}")
+    # guardar pérdida
+    loss = log_loss(y_train, h)
+    loss_history.append(loss)
 
 # =====================
 # 6. Evaluación
@@ -99,3 +104,11 @@ accuracy = (y_pred == y_test).mean()
 print("Accuracy en test:", accuracy)
 print("Theta aprendidos:", theta)
 
+# =====================
+# 7. Gráfica de la pérdida
+# =====================
+plt.plot(loss_history)
+plt.xlabel("Época")
+plt.ylabel("Log-Loss")
+plt.title("Evolución del entrenamiento")
+plt.show()
