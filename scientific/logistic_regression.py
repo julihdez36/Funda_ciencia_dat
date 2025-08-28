@@ -4,7 +4,7 @@ Created on Thu Aug 28 20:00:26 2025
 
 @author: Julian
 """
-
+# https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download
 # Importemos nuestros datos
 
 import numpy as np
