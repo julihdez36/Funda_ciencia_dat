@@ -112,3 +112,47 @@ plt.xlabel("Época")
 plt.ylabel("Log-Loss")
 plt.title("Evolución del entrenamiento")
 plt.show()
+
+
+###### Grafico de la función logistica
+
+import numpy as np
+import matplotlib.pyplot as plt
+
+# 1. Definir la función logística (sigmoide)
+def funcion_logistica(x, L, k, x0):
+    """
+    Calcula el valor de la función logística.
+    
+    Parámetros:
+    x: array de valores de entrada
+    L: valor máximo de la curva (asíntota superior)
+    k: tasa de crecimiento (pendiente de la curva en el punto de inflexión)
+    x0: valor de x del punto de inflexión (donde la pendiente es máxima)
+    """
+    return L / (1 + np.exp(-k * (x - x0)))
+
+# 2. Generar datos con NumPy
+# Crear un rango de valores para el eje x
+x = np.linspace(-10, 10, 400)
+
+# Parámetros de la función logística
+L = 1.0  # Asintota superior
+k = 1.0  # Tasa de crecimiento
+x0 = 0.0 # Punto de inflexión
+
+# Calcular los valores de y utilizando la función
+y = funcion_logistica(x, L, k, x0)
+
+# 3. Graficar la función con Matplotlib
+plt.figure(figsize=(8, 6)) # Opcional: ajustar el tamaño de la figura
+plt.plot(x, y, label=f'L={L}, k={k}, x0={x0}')
+plt.title('Función Logística')
+plt.xlabel('x')
+plt.ylabel('f(x)')
+plt.grid(True) # Muestra una cuadrícula
+plt.legend() # Muestra la leyenda con los parámetros
+plt.axhline(y=L, color='r', linestyle='--', label=f'Asintota superior (y={L})') # Muestra la asíntota superior
+plt.axhline(y=0, color='r', linestyle='--', label=f'Asintota inferior (y=0)') # Muestra la asíntota inferior
+plt.axvline(x=x0, color='g', linestyle='--', label=f'Punto de inflexión (x={x0})') # Muestra el punto de inflexión
+plt.show() # Muestra el gráfico
