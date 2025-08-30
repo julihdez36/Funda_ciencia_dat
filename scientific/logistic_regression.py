@@ -114,10 +114,48 @@ plt.title("Evolución del entrenamiento")
 plt.show()
 
 
-###### Grafico de la función logistica
 
-import numpy as np
-import matplotlib.pyplot as plt
+###################################################################
+
+# Función lineal
+
+# 1. Definir la función lineal
+def funcion_lineal(x, m, b):
+    """
+    Calcula el valor de la función lineal.
+
+    Parámetros:
+    x: array de valores de entrada
+    m: pendiente de la línea
+    b: punto de corte con el eje y
+    """
+    return m * x + b
+
+# 2. Generar datos con NumPy
+# Crear un rango de valores para el eje x
+x = np.linspace(-10, 10, 400)
+
+# Parámetros de la función lineal
+m = 2.0  # Pendiente
+b = 3.0  # Punto de corte con el eje y
+
+# Calcular los valores de y utilizando la función
+y = funcion_lineal(x, m, b)
+
+# 3. Graficar la función con Matplotlib
+plt.figure(figsize=(8, 6))
+plt.plot(x, y, label=f'y = {m}x + {b}')
+plt.title('Función Lineal')
+plt.xlabel('x')
+plt.ylabel('y')
+plt.grid(True)
+plt.legend()
+plt.axhline(0, color='black', linewidth=0.5)
+plt.axvline(0, color='black', linewidth=0.5)
+plt.show()
+
+
+###### Grafico de la función logistica
 
 # 1. Definir la función logística (sigmoide)
 def funcion_logistica(x, L, k, x0):
@@ -130,7 +168,7 @@ def funcion_logistica(x, L, k, x0):
     k: tasa de crecimiento (pendiente de la curva en el punto de inflexión)
     x0: valor de x del punto de inflexión (donde la pendiente es máxima)
     """
-    return L / (1 + np.exp(-k * (x - x0)))
+    return 1 / (1 + np.exp(-k * (x - x0)))
 
 # 2. Generar datos con NumPy
 # Crear un rango de valores para el eje x
