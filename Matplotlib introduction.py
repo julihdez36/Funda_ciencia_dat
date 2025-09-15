@@ -90,3 +90,34 @@ plt.xlabel('$Year$')
 plt.ylabel('$Price$')
 plt.title('Dow-Jones Industrial Stock Price Index for US')
 plt.grid(linestyle='--')
+
+#########################################################
+###################### Subplots #########################
+#########################################################
+
+fig, ax = plt.subplots(nrows=2, ncols=3)
+# print(ax)
+
+fig, ax = plt.subplots(2, 3, sharex='col', sharey='row')
+
+fig, (ax1, ax2) = plt.subplots(nrows= 2, ncols= 1)
+ax1.plot(df_dowjones.Date, df_dowjones.Error1, label = 'Positive margin', 
+         color = 'midnightblue', linewidth = .5, linestyle = '--')
+ax1.plot(df_dowjones.Date, df_dowjones.Error2, label = 'Negative margin', 
+         color = 'midnightblue', linewidth = .5, linestyle = '--')
+ax2.plot(df_dowjones.Date, df_dowjones.Price, label = 'Original price',
+         color = 'darkorchid', linewidth = 1)
+
+ax1.set_xlabel('Date')
+ax1.set_ylabel('Price')
+ax1.set_title('Errors margin')
+
+ax2.set_xlabel('Date')
+ax2.set_ylabel('Price')
+ax2.set_title('Original price')
+
+
+ax1.grid(linestyle = '--')
+ax2.grid(linestyle = '--')
+plt.tight_layout() # Esto ayuda a espaciarlos
+# plt.savefig('grafico.pdf')
